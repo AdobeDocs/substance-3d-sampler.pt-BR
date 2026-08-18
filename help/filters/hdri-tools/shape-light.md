@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: Use a ferramenta Luz de forma no Substance 3D Sampler para adicionar fontes de luz de forma personalizada a ambientes HDRI para iluminação criativa.
 helpx_creative_field: ""

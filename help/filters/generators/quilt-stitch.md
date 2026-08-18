@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: Use o gerador de costura acolchoada no Substance 3D Sampler para criar padrões de tecido acolchoado e texturas de costura para materiais.
 helpx_creative_field: ""

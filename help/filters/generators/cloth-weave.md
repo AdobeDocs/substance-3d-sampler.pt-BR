@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: Use o gerador de tecelagem de pano no Substance 3D Sampler para criar padrões de tecelagem de tecido e texturas têxteis para a criação de materiais.
 helpx_creative_field: ""

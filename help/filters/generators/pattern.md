@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
 description: Use o gerador de padrões no Substance 3D Sampler para criar padrões de procedimentos e designs repetidos para texturas de material.
 helpx_creative_field: ""

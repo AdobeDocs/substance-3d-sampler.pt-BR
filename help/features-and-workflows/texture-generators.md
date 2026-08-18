@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: Saiba como usar geradores de textura no Substance 3D Sampler para criar texturas e padrões de procedimentos para a criação de materiais.
 helpx_creative_field: ""

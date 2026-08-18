@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Use a ferramenta Lado a lado automático no Substance 3D Sampler para criar automaticamente padrões de lado a partir de texturas usando a tecnologia AI.
 helpx_creative_field: ""

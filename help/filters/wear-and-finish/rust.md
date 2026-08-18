@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Use o filtro Ferrugem no Substance 3D Sampler para adicionar efeitos realistas de ferrugem e corrosão a materiais e superfícies metálicas.
 helpx_creative_field: ""

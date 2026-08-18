@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: Use o gerador de Ladrilhos no Substance 3D Sampler para criar padrões realistas de ladrilhos e texturas cerâmicas para materiais.
 helpx_creative_field: ""

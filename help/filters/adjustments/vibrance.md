@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: Use o filtro Vibratilidade no Substance 3D Sampler para melhorar a saturação e a vibratilidade das cores em texturas, preservando os tons de pele.
 helpx_creative_field: ""

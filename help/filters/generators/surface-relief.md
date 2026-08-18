@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Use o gerador de Relevos de superfície no Substance 3D Sampler para criar padrões de superfície em alto-relevo e de relevo nos materiais.
 helpx_creative_field: ""

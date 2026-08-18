@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: Use a ferramenta Torná-lo lado a lado no Substance 3D Sampler para criar automaticamente padrões de divisão em blocos gráficos contínuos a partir de texturas que não sejam de divisão em blocos gráficos.
 helpx_creative_field: ""

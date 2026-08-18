@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/pbr-validate.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/pbr-validate.html"
 breadcrumb-title: ''
 description: Use a ferramenta Validação do PBR no Substance 3D Sampler para validar e garantir que os materiais atendam aos padrões de renderização físicos.
 helpx_creative_field: ""

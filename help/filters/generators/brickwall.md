@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Use o gerador de parede de tijolo no Substance 3D Sampler para criar padrões de parede de tijolo realistas e texturas de alvenaria para materiais.
 helpx_creative_field: ""

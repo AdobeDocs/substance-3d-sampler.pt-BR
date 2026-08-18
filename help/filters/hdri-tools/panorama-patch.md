@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Use a ferramenta Correção de panorama no Substance 3D Sampler para corrigir e corrigir áreas em imagens panorâmicas de ambiente HDRI.
 helpx_creative_field: ""

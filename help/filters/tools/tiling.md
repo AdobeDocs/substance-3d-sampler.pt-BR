@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: Use a ferramenta Divisão em blocos gráficos no Substance 3D Sampler para criar padrões de divisão em blocos gráficos perfeitos a partir de texturas para superfícies de materiais repetíveis.
 helpx_creative_field: ""
