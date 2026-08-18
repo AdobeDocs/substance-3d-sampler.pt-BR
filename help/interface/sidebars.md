@@ -30,7 +30,7 @@ Na **Barra lateral esquerda**, você pode:
 
 * **Adicionar e importar conteúdo**: importe imagens e selecione como elas devem ser integradas ao projeto.
 * **Procure ativos 3D**: acesse milhares de materiais do Substance 3D Assets Creative Cloud Desktop.
-* Acesse **Ações rápidas**: uma coleção de ações para atingir rapidamente determinadas metas. [Saiba mais sobre **Ações rápidas **](../features-and-workflows/quick-actions.md)**.**
+* Acesse **Ações rápidas**: uma coleção de ações para atingir rapidamente determinadas metas. [Saiba mais sobre **Ações rápidas &#x200B;**](../features-and-workflows/quick-actions.md)**.**
 * Adicione rapidamente filtros à pilha de camadas:
   * **Cortar:** corte imagens e materiais usando alças na **exibição 2D**.
   * **Transformação de perspectiva:** corrija erros de perspectiva com alças na exibição **2D.**

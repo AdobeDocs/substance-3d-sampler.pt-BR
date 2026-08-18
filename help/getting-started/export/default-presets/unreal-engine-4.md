@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **BaseColor****OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Oclusão de ambiente</li><li data-preserve-html="true"><strong>G</strong>: aspereza</li><li data-preserve-html="true"><strong>B</strong>: metálico</li></ul>**Normal ****Height****Emissivo** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **BaseColor**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Oclusão de ambiente</li><li data-preserve-html="true"><strong>G</strong>: aspereza</li><li data-preserve-html="true"><strong>B</strong>: metálico</li></ul>**Normal &#x200B;**&#x200B;**Height**&#x200B;**Emissivo** |

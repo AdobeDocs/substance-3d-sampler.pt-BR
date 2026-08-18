@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Albedo ****Textura reluzente****Normal (OpenGL)****Transparência** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Albedo &#x200B;**&#x200B;**Textura reluzente**&#x200B;**Normal (OpenGL)**&#x200B;**Transparência** |

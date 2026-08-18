@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../assets/main-3d-viewport-5.png)
 
-O **Viewport** exibe o ativo atual. Na parte superior da **V****viewport**, você pode ver o nome do ativo e as opções para alterar a aparência da **viewport**. Use estas opções para:
+O **Viewport** exibe o ativo atual. Na parte superior da **V**&#x200B;**viewport**, você pode ver o nome do ativo e as opções para alterar a aparência da **viewport**. Use estas opções para:
 
 * Altere a largura e o height do ativo em pixels.
 * Exibir <b>exibição 2D</b>, <b>exibição 3D</b> ou exibir <b>exibições 2D </b> e <b>3D </b> juntas.
@@ -36,7 +36,7 @@ O **Viewport** exibe o ativo atual. Na parte superior da **V****viewport**, voc�
 
 O <b>Viewport 3D</b> tem duas barras de ferramentas que permitem fazer alterações em como seu ativo aparece no <b>Viewport</b>. Por padrão, essas barras de ferramentas aparecem no canto superior direito e no centro inferior da <b>Janela de visualização 3D</b>.
 
-![]()
+![] ()
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ A barra de ferramentas no canto superior direito da <b>Janela de visualização 
 >
 > Ative as sombras para melhorar os visuais do visor. Mantenha as sombras desativadas para melhorar o desempenho do Samplers.
 
-![]()
+![] ()
 
 A barra de ferramentas no centro inferior do <b>Visor 3D</b> tem as seguintes informações e controles:
 
@@ -71,7 +71,7 @@ A barra de ferramentas no centro inferior do <b>Visor 3D</b> tem as seguintes in
 * <b>Salvar instantâneo</b>: salve um instantâneo do <b>Visor 3D</b> em um arquivo de imagem.
 * <b>Controles de exibição 3D</b>: exiba uma referência rápida para controles de câmera no Visor 3D.
 
-![]()
+![] ()
 
 ## Mover a câmera
 
@@ -89,7 +89,7 @@ Na <b>exibição 3D </b>e na <b>exibição 2D</b>, use o <b>F</b> para focalizar
 
 ## Exibição 2D
 
-![]()
+![] ()
 
 Por padrão, somente a <b>exibição 3D</b> está visível, mas a <b>exibição 2D</b> pode conter muitas informações úteis e controles para alguns filtros.
 
