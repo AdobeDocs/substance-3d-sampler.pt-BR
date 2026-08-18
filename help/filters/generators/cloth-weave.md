@@ -85,7 +85,7 @@ Parâmetros
 
 **Avançado**
 
-* **Modo de Mesclagem****:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do tecido.
+* **Modo de Mesclagem**&#x200B;**:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do tecido.
 * **Intensidade de imperfeição:** 0-1\
   Defina a intensidade das imperfeições dos encadeamentos.
 * **Intensidade Normal:** 0-2\

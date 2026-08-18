@@ -46,7 +46,7 @@ Alterne os canais dos mapas de saída do material.
 * **Canal de Saída:** selecione Qual canal é o destino do Canal de Entrada.
 * **Opacidade:** 0-1\
   Ajuste a opacidade das informações do canal em relação às informações do canal existente. Em outras palavras, controla a opacidade da máscara usada para aplicar o novo preenchimento de canal.
-* **Modo de Mesclagem****:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do canal.
+* **Modo de Mesclagem**&#x200B;**:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do canal.
 
 **Avançado**
 

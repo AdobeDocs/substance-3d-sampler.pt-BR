@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Ciclos de Mesclagem/Véspera | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase ****Aspereza****Metálica ****Normal****Deslocamento ****Emissiva****Alpha** |
+| Ciclos de Mesclagem/Véspera | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase &#x200B;**&#x200B;**Aspereza**&#x200B;**Metálica &#x200B;**&#x200B;**Normal**&#x200B;**Deslocamento &#x200B;**&#x200B;**Emissiva**&#x200B;**Alpha** |

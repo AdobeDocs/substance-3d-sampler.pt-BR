@@ -141,6 +141,6 @@ Use Ctrl + clique na visualização 2D para adicionar uma nova fonte. Adicionar 
 
 | Ação | Windows + Linux | MacOs |
 | --- | --- | --- |
-| Aumentar tamanho do pincel | ] ou Ctrl + Roda do mouse | ] ou Cmd + Roda do mouse |
-| Diminuir tamanho do pincel | [ ou Ctrl + Roda do mouse | [ ou Cmd + Roda do mouse |
+| Aumentar tamanho do pincel | &rbrack; ou Ctrl + Roda do mouse | &rbrack; ou Cmd + Roda do mouse |
+| Diminuir tamanho do pincel | &lbrack; ou Ctrl + Roda do mouse | &lbrack; ou Cmd + Roda do mouse |
 | Definir a origem | Ctrl + clique com o botão esquerdo | Cmd + clique com o botão esquerdo |

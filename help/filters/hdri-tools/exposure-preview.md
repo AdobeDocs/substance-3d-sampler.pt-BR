@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrição
 
-O **filtro** Visualização da Exposição **** permite visualizar rapidamente um espectro de valores de exposição.
+O **filtro** Visualização da Exposição **&#x200B;**&#x200B;permite visualizar rapidamente um espectro de valores de exposição.
 
 Abaixo, você pode ver o que o **filtro Visualização de Exposição** faz.
 
