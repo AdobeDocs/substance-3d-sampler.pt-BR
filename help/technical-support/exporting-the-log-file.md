@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/exporting-the-log-file.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/exporting-the-log-file.html"
 breadcrumb-title: ''
 description: Saiba como exportar arquivos de registro do Substance 3D Sampler para fins de solução de problemas e suporte técnico.
 helpx_creative_field: ""

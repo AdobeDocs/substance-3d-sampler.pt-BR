@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Spark AR Studio para fluxos de trabalho de realidade aumentada.
 helpx_creative_field: ""

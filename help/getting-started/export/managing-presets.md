@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
 description: Saiba como gerenciar predefinições de exportação no Substance 3D Sampler para configurar materiais para diferentes aplicativos e pipelines.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Specular Unity para compatibilidade com o mecanismo de jogo Unity.
 helpx_creative_field: ""

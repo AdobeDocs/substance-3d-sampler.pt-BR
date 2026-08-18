@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets.html"
 breadcrumb-title: ''
 description: Saiba mais sobre as predefinições de exportação padrão no Substance 3D Sampler para vários aplicativos de software e mecanismos de renderização.
 helpx_creative_field: ""
@@ -25,8 +25,8 @@ O Sampler inclui uma lista de predefinições de exportação que empacotam e no
 * [Arnold 5](arnold-5.md)
 * [Ciclos de Mesclagem/Véspera](blender-cycles-eevee.md)
 * [Renderizador Corona](corona-renderer.md)
-* [Enscape - Revit](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
-* [Keyshot 9+](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
+* [Enscape - Revit](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
+* [Keyshot 9+](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
 * [Lens Studio](lens-studio.md)
 * [Spark AR Studio](spark-ar-studio.md)
 * [Padrão HDRP do Unity](unity-hdrp-standard.md)

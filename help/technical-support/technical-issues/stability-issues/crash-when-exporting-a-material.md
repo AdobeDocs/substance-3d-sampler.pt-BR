@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
 breadcrumb-title: ''
 description: Saiba como corrigir falhas ao exportar materiais no Substance 3D Sampler causadas por problemas de memória VRAM ou GPU insuficiente.
 helpx_creative_field: ""

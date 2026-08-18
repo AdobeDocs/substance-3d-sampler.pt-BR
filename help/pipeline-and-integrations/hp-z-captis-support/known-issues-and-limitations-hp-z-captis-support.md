@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.html"
 breadcrumb-title: ''
 description: Analise os problemas e limitações conhecidos ao usar o HP Z Captis com o Substance 3D Sampler para entender as restrições atuais e as soluções alternativas.
 helpx_creative_field: ""

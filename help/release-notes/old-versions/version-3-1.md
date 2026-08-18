@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do Substance 3D Sampler versão 3.1 para saber mais sobre o seletor de cores, suporte a SVG e melhorias de interoperabilidade.
 helpx_creative_field: ""

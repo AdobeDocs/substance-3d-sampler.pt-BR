@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o Painel de parâmetros expostos no Substance 3D Sampler para expor parâmetros de filtro para edição externa.
 helpx_creative_field: ""

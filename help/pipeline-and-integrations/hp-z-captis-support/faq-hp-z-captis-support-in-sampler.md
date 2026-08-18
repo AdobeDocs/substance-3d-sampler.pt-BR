@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: Acesse perguntas frequentes sobre o suporte ao HP Z Captis no Substance 3D Sampler para encontrar respostas sobre a integração e o uso do hardware.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ O dispositivo (HP Z Captis) e a licença (Substance 3D Sampler) são vendidos se
 +++Qual é o nível de integração com o pacote de Substance do Adobe?
 O dispositivo HP Z Captis é totalmente controlado e operado por meio do Adobe Substance 3D Sampler: você pode visualizar e iniciar a captura no Substance 3D Sampler e, quando a captura for concluída, ele carregará automaticamente os canais PBR como uma camada e criará um material 3D. Você pode continuar processando seus materiais com todas as ferramentas e filtros disponíveis no Sampler.
 
-Depois que o material capturado estiver no Substance 3D Sampler, você poderá exportá-lo para qualquer aplicativo do conjunto do Substance 3D (Substance 3D Designer, Painter, Stager) e para qualquer aplicativo de terceiros que ofereça suporte ao Substance, incluindo 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D e muitos outros (veja a lista completa aqui: <https://www.adobe.com/products/substance3d/plugins.html>).
+Depois que o material capturado estiver no Substance 3D Sampler, você poderá exportá-lo para qualquer aplicativo do conjunto do Substance 3D (Substance 3D Designer, Painter, Stager) e para qualquer aplicativo de terceiros que ofereça suporte ao Substance, incluindo 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D e muitos outros (veja a lista completa aqui: <https://www.adobe.com/br/products/substance3d/plugins.html>).
 
 +++
 
@@ -100,7 +100,7 @@ O filtro de revestimento automático pode ser usado para revestir automaticament
 +++Como quais formatos os materiais digitalizados podem ser exportados?
 O HP Z Captis é operado de forma nativa pela Adobe Substance 3D Sampler. O HP Z Captis captura 64 imagens raw (que podem ser recuperadas de sua pasta local) e mapas PBR (que são processados a partir das imagens raw capturadas e que são carregadas automaticamente no Substance 3D Sampler). O Substance 3D Sampler criará um material 3D com base nos canais PBR que são carregados automaticamente na pilha de camadas do Sampler após a captura.
 
-No Adobe Substance 3D Sampler, você pode exportar seu material digital em qualquer formato de exportação disponível no Substance 3D Sampler: como arquivos Substance (arquivos .SBS e .SBSAR) ou como texturas de bitmap, incluindo .PNG, .JPG, .TIFF, ... (consulte os detalhes na página da documentação da Sampler: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)).
+No Adobe Substance 3D Sampler, você pode exportar seu material digital em qualquer formato de exportação disponível no Substance 3D Sampler: como arquivos Substance (arquivos .SBS e .SBSAR) ou como texturas de bitmap, incluindo .PNG, .JPG, .TIFF, ... (consulte os detalhes na página da documentação da Sampler: [https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)).
 
 +++
 
@@ -118,7 +118,7 @@ O HP Z Captis é operado de forma nativa pela Adobe Substance 3D Sampler. Depois
 
 Em quaisquer aplicativos do ecossistema Substance 3D (incluindo Substance 3D Designer ou Substance 3D Painter que suportam vários formatos de exportação: https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
-Em todos os aplicativos que integram o formato de arquivo Substance como 3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO... (veja a lista completa aqui: <https://www.adobe.com/products/substance3d/plugins.html>). Se você estiver usando um aplicativo não listado nele, sempre poderá exportar imagens de textura PBR e conectá-las manualmente em qualquer aplicativo que não ofereça suporte ao formato de arquivo Substance nativamente.
+Em todos os aplicativos que integram o formato de arquivo Substance como 3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO... (veja a lista completa aqui: <https://www.adobe.com/br/products/substance3d/plugins.html>). Se você estiver usando um aplicativo não listado nele, sempre poderá exportar imagens de textura PBR e conectá-las manualmente em qualquer aplicativo que não ofereça suporte ao formato de arquivo Substance nativamente.
 
 +++
 

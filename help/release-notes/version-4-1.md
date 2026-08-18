@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-1.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do Substance 3D Sampler versão 4.1 para saber mais sobre o filtro Distorção de pintura, as atualizações do filtro Bordado e as melhorias do captura 3D.
 helpx_creative_field: ""

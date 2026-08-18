@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Exportar no Substance 3D Sampler para exportar materiais como arquivos ou enviá-los diretamente para outros aplicativos.
 helpx_creative_field: ""
