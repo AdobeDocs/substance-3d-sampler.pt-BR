@@ -6,9 +6,9 @@ helpx_description: Sampler > Release Notes > All Changes
 title: Todas as alterações
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: dc832dc546735437051226f4e1e731b55147b3ea
+source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
 workflow-type: tm+mt
-source-wordcount: '24926'
+source-wordcount: '24940'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,14 @@ ht-degree: 0%
 Esta página agrupa todas as alterações que aconteceram no Substance 3D Sampler, desde novos recursos até correções de erros.
 
 ## Versão 6
+
+### **6.0.3**
+
+*(Lançado em: 24 de agosto de 2026)*
+
+**Corrigido:**
+
+[Renderização] Reverta a solução temporária para drivers NVIDIA com falha
 
 ### **6.0.2**
 
