@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/line-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
 breadcrumb-title: ''
 description: Use a ferramenta Luz de linha no Substance 3D Sampler para adicionar fontes lineares de luz a ambientes HDRI para um controle preciso da iluminação.
 helpx_creative_field: ""
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## Descrição
 
-Adicione uma **Luz de linha** à luz ambiente.
+Adicione uma **Luz de linha** à sua iluminação do ambiente.
 
 As imagens abaixo mostram como você pode usar uma **Luz de linha** para ajustar a iluminação do ambiente.![](../../assets/3d-2d-filters-cropped-0017-line-light-in.jpg)
 
-A imagem acima mostra uma esfera sem modificações na luz ambiente.
+A imagem acima mostra uma esfera sem modificações na iluminação do ambiente.
 
 ![](../../assets/3d-2d-filters-cropped-0016-line-light-out.jpg)
 
@@ -67,7 +67,7 @@ Depois de adicionar uma **Luz de linha**, a aparência da esfera mudou visivelme
   * **Amostra de plano de fundo**
     * O plano de fundo de amostra não disponibiliza novos parâmetros; em vez disso, ele baseia a cor da luz nos valores do plano de fundo.
 * **Modo de Posição**:\
-  Altere o método usado para determinar a posição das luzes. Os parâmetros na seção **Coordenadas de Posição** serão alterados com base na seleção. Com a **Posição mundial** selecionada, as alças desaparecerão da **exibição 2D**. Em vez disso, use os parâmetros nas **Coordenadas de posição** para modificar a posição da luz.
+  Altere o método usado para determinar a posição das luzes. Os parâmetros na seção **Coordenadas de Posição** serão alterados com base na seleção. Com a **Posição mundial** selecionada, as alças desaparecerão da **Visualização 2D**. Em vez disso, use os parâmetros nas **Coordenadas de posição** para modificar a posição da luz.
 
 **Forma**
 

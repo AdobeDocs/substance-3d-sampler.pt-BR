@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
 description: Use o filtro Oxidado no Substance 3D Sampler para adicionar efeitos de oxidação e mancha em materiais metálicos para aparências antigas.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrição
 
-Adicione uma camada de oxidação sobre a parte superior do material.*Uma superfície enrugada tem o **filtro de oxidado**&#x200B;aplicado.*
+Adicione uma camada de oxidação sobre a parte superior do material.*Uma superfície enrugada tem o **filtro de oxidado**aplicado.*
 
 <table>
 <tr style="border: 0;">
@@ -67,7 +67,7 @@ Adicione uma camada de oxidação sobre a parte superior do material.*Uma superf
   * **Propagação**: 0-1\
     Ajuste o quanto o oxidante se espalha.
 * **Cor**: seleção de cor\
-  Selecione a cor de base do filtro. As cores de base alteram o matiz de todas as cores que compõem o efeito oxidante.
+  Selecione a cor de base do filtro. A cor de base modifica o matiz de todas as cores que compõem o efeito oxidante.
 * **Variações de cores**: 0-1\
   Ajuste a escala do efeito de variação de cor.
 * **Densidade**: 0-1\
@@ -110,4 +110,4 @@ Os parâmetros a seguir permitem ajustar o valor nomeado de todo o material sem 
 * **Intensidade Normal**: 0-1
 * **Intervalo de Heights**: 0-1
 * **Posição do Height**: 0-1
-* **Intensidade de Oclusão do ambiente**: 0-1
+* **Intensidade de Oclusão de ambiente**: 0-1

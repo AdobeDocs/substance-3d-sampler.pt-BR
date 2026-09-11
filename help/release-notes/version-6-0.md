@@ -30,7 +30,7 @@ O Sampler 6.0 adota o [OpenPBR](../features-and-workflows/openpbr.md), o modelo 
 
 ## Materiais complexos em um clique
 
-Crie materiais mais ricos e complexos instantaneamente. Os novos modelos, como fuzz, translucidez e revestimento transparente, permitem adicionar efeitos físicos avançados sem a complexidade. Basta escolher um modelo, e vá!
+Crie materiais mais ricos e complexos instantaneamente. Novos modelos, como fuzz, translucidez e revestimento transparente, permitem adicionar efeitos físicos avançados sem a complexidade. Basta escolher um modelo, e vá!
 
 Mais informações *[aqui](../interface/tools-and-widgets/material-creation-presets.md)*
 
@@ -74,29 +74,29 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Adicionado:**
 
-* &lbrack;Assets&rbrack; Verifique a versão do sbsar e avise os usuários se o mecanismo é muito antigo para lê-lo
-* &lbrack;Captis&rbrack; Adicionar opção de volta para salvar a fotometria das legendas nas preferências
+* &amp;lbrack;Assets&amp;rbrack; Verifique a versão do sbsar e avise os usuários se o mecanismo é muito antigo para lê-lo
+* &amp;lbrack;Captis&amp;rbrack; Adicionar opção de volta para salvar a fotometria das legendas nas preferências
 
 **Corrigido:**
 
-* &lbrack;Exibição 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
-* &lbrack;Analytics&rbrack; Eventos de análise ausentes
-* &lbrack;Analytics&rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
-* &lbrack;Aplicativo&rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
-* &lbrack;Aplicativo&rbrack; Corrigir saída do inspetor de coleções vinculadas + gerenciador de canais
-* &lbrack;Aplicativo&rbrack; Evitar falhas ao sair
-* O filtro &lbrack;Content&brack; “metal finish” não afeta a metalidade
-* &lbrack;Content&brack; Adicionar tamanho físico a filtros dinâmicos nos quais está faltando
-* &lbrack;Filtros&rbrack; Remover preenchimento sensível a conteúdo da lista de ativos ocultos
-* &lbrack;Camadas&rbrack; Clicar em &#39;redefinir todas as configurações&#39; não redefine o menu suspenso &#39;aplica a&#39;
-* &lbrack;Camadas&rbrack; Corrigir ajuste mínimo &amp; máximo para o widget de posição
-* &lbrack;Camadas&rbrack; Atualizar filtro corretamente
-* &lbrack;Tamanho físico&rbrack; Certificar-se de que a escala física está funcionando em todos os lugares + deixar o tamanho físico ok com filtros dinâmicos
-* &lbrack;Projeto&rbrack; Certifique-se de que a resolução do ativo é a padrão (2k x 2k) ao criar um novo ativo
-* &lbrack;Projeto&rbrack; Reabrindo o projeto atual usado para abrir a versão anterior
-* &lbrack;Projeto&rbrack; O Sampler não oferece mais a opção de restaurar um backup de projetos corrompidos
-* &lbrack;Renderização&rbrack; Renderizar a miniatura do material em no máximo 2k de resolução
-* &lbrack;UI&rbrack; Código defensivo para evitar falhas se o usuário for mais rápido que a interface
+* &amp;lbrack;Exibição 2D&amp;rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
+* &amp;lbrack;Analytics&amp;rbrack; Eventos de análise ausentes
+* &amp;lbrack;Analytics&amp;rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
+* &amp;lbrack;Aplicativo&amp;rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
+* &amp;lbrack;Aplicativo&amp;rbrack; Corrigir saída do inspetor de coleções vinculadas + gerenciador de canais
+* &amp;lbrack;Aplicativo&amp;rbrack; Evitar falhas ao sair
+* O filtro &amp;lbrack;Content&amp;brack; “metal finish” não afeta a metalidade
+* &amp;lbrack;Content&amp;brack; Adicionar tamanho físico a filtros dinâmicos nos quais está faltando
+* &amp;lbrack;Filtros&amp;rbrack; Remover preenchimento sensível a conteúdo da lista de ativos ocultos
+* &amp;lbrack;Camadas&amp;rbrack; Clicar em &#39;redefinir todas as configurações&#39; não redefine o menu suspenso &#39;aplica a&#39;
+* &amp;lbrack;Camadas&amp;rbrack; Corrigir ajuste mínimo &amp; máximo para o widget de posição
+* &amp;lbrack;Camadas&amp;rbrack; Atualizar filtro corretamente
+* &amp;lbrack;Tamanho físico&amp;rbrack; Certificar-se de que a escala física está funcionando em todos os lugares + deixar o tamanho físico ok com filtros dinâmicos
+* &amp;lbrack;Projeto&amp;rbrack; Certifique-se de que a resolução do ativo é a padrão (2k x 2k) ao criar um novo ativo
+* &amp;lbrack;Projeto&amp;rbrack; Reabrindo o projeto atual usado para abrir a versão anterior
+* &amp;lbrack;Projeto&amp;rbrack; O Sampler não oferece mais a opção de restaurar um backup de projetos corrompidos
+* &amp;lbrack;Renderização&amp;rbrack; Renderizar a miniatura do material em no máximo 2k de resolução
+* &amp;lbrack;UI&amp;rbrack; Código defensivo para evitar falhas se o usuário for mais rápido que a interface
 
 ### **6.0.1**
 
@@ -104,7 +104,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Adicionado:**
 
-* [Exibição 3D] Fornece malhas padrão em formato USD
+* [Visualização 3D] Fornece malhas padrão no formato USD
 * [Aplicativo] Detecta usos em um material que não está disponível no modelo de material atual
 * Marca de modelo de material de leitura do [Aplicativo] de arquivos SBSAR
 * [Legendas] Permitem a rotação da região de interesse e da nova resolução 4K
@@ -121,7 +121,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Exportar] Use o caminho do projeto como caminho de exportação padrão
 * [Filtros] Permitem a atualização de filtros compostos estáticos para dinâmicos
 * [Filtros] Permitem a atualização de filtros estáticos para dinâmicos
-* [Filtros] Versões dinâmicas de Divisão em blocos gráficos automáticos, Preenchimento sensível ao conteúdo, Mesclagem de Heights, Mesclagem normal
+* [Filtros] Versões dinâmicas de Divisão em Blocos Gráficos Automáticos, Preenchimento Sensível ao Conteúdo, Combinar de Height, Combinar Normal
 * [Filtros] ocultam a versão estática de um filtro quando a versão dinâmica está presente
 * [Filtros] - Nova experiência de preenchimento
 * [Filtros] Novo Material de base compatível com OpenPBR e ASM
@@ -132,7 +132,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Preferências] Adicione uma preferência de modelo de material padrão
 * A predefinição padrão [Predefinição] agora usa modelo de material de OpenPBR
 * [Renderização] Habilita renderização 8K
-* [Renderizando] Manipular sombreador de OpenPBR na cena USD
+* [Renderizando] Trata do sombreador do OpenPBR na cena do USD
 * [Renderizando] imagens no tamanho do documento quando não estiver exportando
 * modelo de material de manuseio de [Scripts] para a criação de ativos na API Python
 * [Gerando script] da nova propriedade MaterialModel no ativo
@@ -152,7 +152,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Corrigido:**
 
-* [Exibição 2D] ordene a exibição 2D de acordo com o índice de uso do resultado na especificação
+* [Visualização 2D] Ordene a Visualização 2D de acordo com o índice de uso do resultado na especificação
 * [Aplicativo] Corrigir uma falha no início
 * [Aplicativo] Corrigir lógica incorreta para filtragem de uso de fluxo de trabalho com OpenPBR
 * A lista de versões conhecidas do [Aplicativo] agora é lida ao procurar uma atualização
@@ -181,7 +181,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Exportar] as saídas selecionadas não são persistentes na caixa de diálogo de exportação
 * [Filtros] Exportar uma árvore com imagens interrompe a resolução dinâmica da imagem
 * [Filtros] Corrigir disponibilidade de filtro C++
-* [Filtros] Corrigir detecção de filtro dinâmico de Carimbo
+* [Filtros] Corrigir detecção de filtro dinâmico de carimbo de Clonar
 * [Filtros] corrige a inicialização do contador de UID ao preencher usos dinâmicos
 * [Filtros] Corrigir espaço de cores no assistente de AutoEnquadramento
 * [Filtros] Corrigir tamanhos de saída de corte
@@ -205,7 +205,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Projeto] Corrigir importação de projetos .alch
 * O salvamento do [Projeto] não falha mais silenciosamente
 * [Renderização] evite falhas no macOS mantendo o modo de agendamento automático
-* [Renderização] A alteração do componente V da divisão de textura em blocos gráficos não teve efeito
+* [Renderização] A alteração do componente V da divisão em blocos gráficos de textura não teve efeito
 * [Renderização] Corrigir renderização e miniaturas ausentes
 * [Renderização] Impede acessos simultâneos aos valores de saída
 * [Renderização] Trata corretamente os valores de saída de uma árvore no renderizador

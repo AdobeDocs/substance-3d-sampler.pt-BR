@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
 description: Use a ferramenta Criador de atlas no Substance 3D Sampler para criar atlas de textura a partir de várias imagens para organização eficiente do material.
 helpx_creative_field: ""
@@ -82,7 +82,7 @@ O **Criador de Atlas** foi projetado para converter uma imagem de atlas em um at
 1. Ajuste os parâmetros do **Criador de Atlas** até ficar satisfeito com os resultados.
 
 1. Adicione a imagem à pilha de camadas. Se for solicitado selecionar um modelo de criação de material, selecione **Usar como bitmap**.
-1. Com a camada da imagem selecionada, no **painel Propriedades**, altere o **Uso de Saída** para **Cor Base**.
+1. Com a camada da imagem selecionada, no **painel Propriedades**, altere o **Uso de Saída** para **Cor de base**.
 1. Adicione o **Criador de Atlas** ao topo da pilha de camadas.
-1. Ajuste os parâmetros do **Criador de Atlas** até ficar satisfeito com os resultados - exiba o canal de opacidade na **exibição 2D** para ver os resultados do filtro com mais clareza.
+1. Ajuste os parâmetros do **Criador de Atlas** até ficar satisfeito com os resultados - visualize o canal de opacidade no **Visualização 2D** para ver os resultados do filtro com mais clareza.
 1. Use o **painel Exportar** para exportar os canais gerados.

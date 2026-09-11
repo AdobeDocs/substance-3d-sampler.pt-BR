@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/perspective-correction.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/perspective-correction.html"
 breadcrumb-title: ''
-description: Use a ferramenta Correção de perspectiva no Substance 3D Sampler para corrigir a distorção de perspectiva em imagens e texturas capturadas.
+description: Use a ferramenta Correção de Perspectiva no Substance 3D Sampler para corrigir a distorção de Perspectiva em imagens e texturas capturadas.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Perspective Correction
 helpx_experience_level: ""
@@ -18,7 +18,7 @@ ht-degree: 2%
 ---
 
 
-# Transformação de perspectiva
+# Perspectiva Transformo
 
 <table>
 <tr style="border: 0;">
@@ -33,13 +33,13 @@ Ferramentas de **Entrada:**
 
 ## Descrição
 
-Use a <b>ferramenta Transformação de perspectiva </b> para corrigir problemas de perspectiva em uma imagem. A <b>Transformação de perspectiva</b> também pode ser usada em materiais.
+Use a <b>ferramenta Transformar </b> para corrigir problemas de Perspectiva em uma imagem. O <b>Transformo de Perspectiva</b> também pode ser usado em materiais.
 
-A imagem abaixo mostra um material de exemplo antes de ser corrigido pela <b>ferramenta Transformação de perspectiva</b>. Observe como as formas próximas à parte superior da exibição 2D são alongadas verticalmente em comparação com as formas na parte inferior da exibição 2D.
+A imagem abaixo mostra um material de exemplo antes de ser corrigido pela <b>ferramenta Transformar Perspectiva</b>. Observe como as formas próximas à parte superior da Visualização 2D são alongadas verticalmente em comparação com as formas na parte inferior da Visualização 2D.
 
 ![](../../assets/3d-2d-filters-cropped-0005-perspective-in.jpg)
 
-Com a <b>Transformação de perspectiva</b>, as formas são consistentes e formam uma grade. É fácil usar filtros desse ponto, como <b>Divisão em blocos gráficos</b> ou <b>Torná-lo Lado a Lado</b> para convertê-lo em um material ladrilhável.
+Com o <b>Transformo de Perspectiva</b>, as formas são consistentes e formam uma grade. É fácil usar filtros desse ponto, como <b>Divisão em blocos gráficos</b> ou <b>Torná-lo Lado a Lado</b> para convertê-lo em um material ladrilhável.
 
 ![](../../assets/3d-2d-filters-cropped-0004-perspective-out.jpg)
 
@@ -49,10 +49,10 @@ Com a <b>Transformação de perspectiva</b>, as formas são consistentes e forma
 
 ## Guia de Uso
 
-Com a camada Transformação de perspectiva selecionada, um identificador aparece em cada canto da textura na exibição 2D. Mova-os individualmente no espaço 2D para corrigir a perspectiva.
+Com a camada Transformar Perspectiva selecionada, uma alça aparece em cada canto da textura na Visualização 2D. Mova-os individualmente no espaço 2D para corrigir a Perspectiva.
 
 ![](../../assets/alchemist-2020-2-perspective.gif){width="300px"}
 
 ## Barra de ferramentas
 
-Com a camada Transformar perspectiva selecionada, uma barra de ferramentas aparece na parte superior da **exibição 2D**. Use o **botão Redefinir posições** para redefinir as alças da camada de Transformação de Perspectiva para as posições padrão.
+Com a camada Perspectiva Transformo selecionada, uma barra de ferramentas aparece na parte superior da **Visualização 2D**. Use o **botão Redefinir posições** para redefinir as alças da camada de Transformo de Perspectiva para as posições padrão.

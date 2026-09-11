@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
-description: Use a ferramenta Mesclar HDR no Substance 3D Sampler para mesclar várias imagens de exposição em uma única imagem de intervalo dinâmico.
+description: Use a ferramenta Mesclagem de HDR no Substance 3D Sampler para mesclar várias imagens de exposição em uma única imagem de intervalo dinâmico.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_experience_level: ""
@@ -33,17 +33,17 @@ ht-degree: 2%
 
 ## Descrição
 
-O **filtro** Mesclar HDR **&#x200B;**&#x200B;permite mesclar uma coleção de imagens SDR (Intervalo Dinâmico Padrão) para criar uma imagem HDR.
+O **filtro** Mesclagem de HDR **** permite mesclar uma coleção de imagens SDR (Intervalo Dinâmico Padrão) para criar uma imagem HDR.
 
-As imagens abaixo mostram os resultados da **Mesclagem HDR**.
+As imagens abaixo mostram os resultados da **Mesclagem de HDR**.
 
 ![](../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
-Antes da **Mesclagem HDR** ser concluída, a esfera na **exibição 3D** reflete a luz de ambiente padrão. A **exibição 2D** exibe os dados da imagem importada para a primeira imagem de digitalização por padrão, que nesse caso é a imagem exposta mais baixa.
+Antes da **Mesclagem de HDR** ser concluída, a esfera na **exibição 3D** reflete a iluminação do ambiente padrão. O **Visualização 2D** exibe os dados da imagem importada para a primeira imagem de digitalização por padrão, que nesse caso é a imagem exposta mais baixa.
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-Depois que o **filtro** do **Mesclar HDR** é adicionado, a esfera reflete uma nova luz de ambiente - a imagem HDR gerada a partir das imagens de entrada.
+Depois que o **HDR Merge** **filtro** é adicionado, a esfera reflete uma nova iluminação do ambiente - a imagem HDR gerada a partir das imagens de entrada.
 
 </td>
 </tr>
@@ -62,10 +62,10 @@ Depois que o **filtro** do **Mesclar HDR** é adicionado, a esfera reflete uma n
 
 ## Guia de Uso
 
-Assista a este vídeo para descobrir como usar o **filtro de Mesclagem HDR**, bem como outros filtros que podem ajudar na conversão de imagens SDR em uma luz de ambiente HDR.
+Assista a este vídeo para saber como usar o **filtro Mesclagem de HDR**, bem como outros filtros que podem ajudar na conversão de imagens SDR em uma iluminação do ambiente de HDR.
 
-As etapas básicas para usar o **filtro** Mesclagem HDR **são as seguintes:**
+As etapas básicas para usar o **Mesclagem de HDR** **filtro** são as seguintes:
 
-1. Importe o conjunto de imagens a serem mescladas para a pilha de camadas.
-1. Adicione o **filtro de Mesclagem HDR** à pilha de camadas.
+1. Importe o conjunto de imagens a serem mescladas na pilha de camadas.
+1. Adicione o **filtro Mesclagem de HDR** à pilha de camadas.
 1. Modifique os parâmetros para garantir que os valores de exposição estejam corretos.

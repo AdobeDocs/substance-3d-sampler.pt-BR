@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/configuration/update-checker.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/update-checker.html"
 breadcrumb-title: ''
 description: Saiba como usar o verificador de atualizações no Substance 3D Sampler para se manter informado sobre novas versões e notas de versão.
 helpx_creative_field: ""

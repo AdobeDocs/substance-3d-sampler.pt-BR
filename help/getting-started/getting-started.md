@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started.html"
 breadcrumb-title: ''
 description: Comece a usar o Substance 3D Sampler para aprender os conceitos básicos de criação de material, gerenciamento de projetos e otimização de fluxo de trabalho.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: Use o filtro Brilho/Contraste no Substance 3D Sampler para ajustar os níveis de brilho e contraste em texturas e camadas de material.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrição
 
-Como o nome sugere, o filtro Brilho/Contraste permite ajustar o brilho e o contraste do material. É importante observar que você pode usar o filtro Brilho/Contraste para definir canais específicos. Por exemplo, é possível aumentar o contraste do canal de aspereza ou o brilho do canal emissivo.
+Como o nome sugere, o filtro Brilho/Contraste permite ajustar o brilho e o contraste do material. É importante observar que você pode usar o filtro Brilho/Contraste para definir canais específicos. Por exemplo, é possível aumentar o contraste do canal de aspereza ou o brilho do canal de emissivo.
 
 Nas imagens abaixo, o **filtro Brilho/Contraste** foi usado para aumentar o brilho e o contraste de um material ladrilhado.
 
@@ -72,7 +72,7 @@ Nas imagens abaixo, o **filtro Brilho/Contraste** foi usado para aumentar o bril
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/version-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-4.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do Substance 3D Sampler versão 3.4 para saber mais sobre os novos recursos desenvolvidos para aumentar a velocidade e a qualidade em fluxos de trabalho 3D.
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ O **Substance 3D Sampler 3.4.0** apresenta uma série de novos recursos desenvol
 Modifique materiais paramétricos em qualquer software compatível com arquivos SBSAR, como CLO, UE5, Blender, Photoshop e Illustrator, entre outros.\
 Isso agora é possível graças à nova capacidade da Sampler de expor parâmetros de ativos, permitindo acelerar iterações e se livrar de idas e vindas entre softwares da Sampler e outros.
 
-Exponha os parâmetros do material clicando em um pino.
+Exponha os parâmetros do material clicando em uma fixar.
 
 Pontos de cor o ajudarão a navegar nos parâmetros expostos e nos diferentes painéis.
 

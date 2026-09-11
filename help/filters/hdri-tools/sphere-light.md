@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Use a ferramenta Luz de esfera no Substance 3D Sampler para adicionar fontes de luz esféricas a ambientes HDRI para efeitos de iluminação de ponto.
 helpx_creative_field: ""

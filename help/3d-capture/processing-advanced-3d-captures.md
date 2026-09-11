@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
-description: Saiba como processar capturas 3D avançadas no Substance 3D Sampler para otimizar geometria, texturas e qualidade do material.
+description: Saiba como processar capturas 3D avançadas no Substance 3D Sampler para otimizar a geometria, as texturas e a qualidade do material.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -84,7 +84,7 @@ Pressione <b>Enviar para iniciar o processamento de malha</b>. Esse processo pod
 
 ## Visualizar e pós-processar
 
-Quando sua malha estiver concluída, a janela final nos permite visualizar e pós-processar nossa malha antes de adicioná-la ao nosso projeto do Sampler. Este modo tem alguns botões na parte inferior para ver sua malha com <b>textura</b>, <b>sólido sombreado</b>, como <b>wireframe</b> e um <b>material de verificador UV</b>. As configurações de pós-processamento no lado permitem gerar uma nova versão da malha. Isso significa uma malha repentinada, com novos UVs automáticos e textura assada a partir da malha original. Os controles principais permitem que você defina uma contagem de rosto de destino e alterne para Normal, height e cozimento ao. Há muitas configurações avançadas para ajustar, mas os padrões geralmente funcionam bem.
+Quando sua malha estiver concluída, a janela final nos permite visualizar e pós-processar nossa malha antes de adicioná-la ao nosso projeto do Sampler. Este modo tem alguns botões na parte inferior para ver sua malha com <b>textura</b>, <b>sólido sombreado</b>, como <b>wireframe</b> e um <b>material de verificador UV</b>. As configurações de pós-processamento no lado permitem gerar uma nova versão da malha. Isso significa uma malha repetindo o mosaico, com novos UVs automáticos e textura feitos bake da malha original. Os controles principais permitem definir uma contagem de rosto de destino e alternar entre Normal, height e fça bake ao. Há muitas configurações avançadas para ajustar, mas os padrões geralmente funcionam bem.
 
 Você também pode fazer essa etapa de processamento de malha depois, uma vez que a malha é adicionada ao Sampler. Depois de adicioná-lo ao Sampler, você pode dar um nome a ele. Agora ele aparece na lista de projetos.
 

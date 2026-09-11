@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Unreal Engine 4 para fluxos de trabalho de desenvolvimento de jogos.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **BaseColor**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Oclusão de ambiente</li><li data-preserve-html="true"><strong>G</strong>: aspereza</li><li data-preserve-html="true"><strong>B</strong>: metálico</li></ul>**Normal &#x200B;**&#x200B;**Height**&#x200B;**Emissivo** |
+| Unreal Engine 4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **BaseColor****OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Oclusão de ambiente</li><li data-preserve-html="true"><strong>G</strong>: aspereza</li><li data-preserve-html="true"><strong>B</strong>: metálico</li></ul>**Normal ****Height****Emissivo** |

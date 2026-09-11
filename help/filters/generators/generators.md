@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
-description: Saiba como usar filtros de gerador no Substance 3D Sampler para criar padrões de procedimentos e fundamentos de material.
+description: Aprenda a usar filtros geradores no Substance 3D Sampler para criar padrões processuais e bases de materiais.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators
 helpx_experience_level: ""
@@ -30,7 +30,7 @@ Existem duas formas principais de gerador:
 Os geradores de conversão incluem:
 
 * [Brickwall](brickwall.md)
-* [Ladrilhos do assoalho](floor-tiles.md)
+* [Número inteiro lado a lado](floor-tiles.md)
 * [Painel](panel.md)
 * [Assoalho](parquet.md)
 * [Pavimento](pavement.md)

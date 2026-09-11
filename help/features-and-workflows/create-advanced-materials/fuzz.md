@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Os canais Fuzz ajudam a adicionar um nível extra de realismo a materiais como camurça e outros tecidos. Assista ao vídeo abaixo para saber a melhor maneira de usar canais de difusão no Sampler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483526?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3483519)

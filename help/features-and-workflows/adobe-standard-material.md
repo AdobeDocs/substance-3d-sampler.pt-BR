@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Saiba como usar materiais padrão da Adobe no Substance 3D Sampler para criar materiais compatíveis com o padrão de material de Adobe.
+description: Saiba como usar o Adobe Standard Material no Substance 3D Sampler para criar materiais compatíveis com o padrão de material Adobe.
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Adobe Standard Material
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> O Substance 3D Sampler agora usa como padrão o modelo de material [OpenPBR](openpbr.md) em vez do material padrão da Adobe.
+> O Substance 3D Sampler agora usa como padrão o modelo de material [OpenPBR](openpbr.md) em vez do Adobe Standard Material.
 
 
 ## Propriedades padrão do material
 
 ## Propriedades da superfície de base
 
-**Cor base**
+**Cor de base**
 
 A cor da superfície.
 
@@ -51,7 +51,7 @@ A visibilidade da superfície.
 
 ![](../assets/surface-opacity.jpg)
 
-**oclusão de ambiente**
+**Oclusão de ambiente**
 
 Sombras de cavidades e vincos que impedem a luz de atingir a superfície.
 
@@ -89,9 +89,9 @@ A escala de height em unidades de cena. Aplica-se ao relevo e ao deslocamento.
 
 **nível de Height**
 
-O valor da textura do height que representa deslocamento zero.
+O valor da textura de height que representa deslocamento zero.
 
-**Nível de Anisotropia**
+**Nível de anisotropia**
 
 A quantidade na qual os reflexos se estendem em uma direção ao longo da superfície.
 
@@ -203,7 +203,7 @@ Multiplicador do thickness de volume.
 
 ## Propriedades do revestimento
 
-**Opacidade da camada**
+**Opacidade do revestimento**
 
 Simula uma camada na parte superior do material. Usado para criar revestimentos, vernizes e vernizes transparentes.
 
@@ -227,18 +227,18 @@ A quantidade de luz se dobra à medida que passa pela pelagem.
 
 ![](../assets/cooat-coatior.jpg)
 
-**specular level de revestimento**
+**Nível especular do revestimento**
 
 A força dos reflexos de luz na pelagem em ângulos de visão.
 
 ![](../assets/coat-coatspecular.jpg)
 
-**Revestimento normal**
+**Normal do revestimento**
 
 Simule detalhes da superfície como saliências e rachaduras na superfície da pelagem.
 
 ![](../assets/coat-coatnormal.jpg)
 
-**Escala normal de revestimento**
+**Escala de Normal do revestimento**
 
-A força do efeito normal da pelagem.
+A intensidade do efeito normal do revestimento.

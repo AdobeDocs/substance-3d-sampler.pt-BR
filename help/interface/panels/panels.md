@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels.html"
 breadcrumb-title: ''
 description: Saiba mais sobre os painéis na interface do Substance 3D Sampler para acessar ferramentas, configurações e recursos para fluxos de trabalho de criação de material.
 helpx_creative_field: ""

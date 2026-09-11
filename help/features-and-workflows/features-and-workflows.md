@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows.html"
 breadcrumb-title: ''
 description: Explore recursos e fluxos de trabalho no Substance 3D Sampler para criar materiais detalhados a partir de ativos existentes e editar luzes ambiente.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.html"
 breadcrumb-title: ''
 description: Saiba como resolver os filtros Imagem ausente para Material e Delighter no Substance 3D Sampler verificando os requisitos de sistema.
 helpx_creative_field: ""

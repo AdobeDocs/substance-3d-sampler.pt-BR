@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Use o gerador de decalques no Substance 3D Sampler para criar padrões de decalques e texturas de sobreposição para superfícies de material.
 helpx_creative_field: ""
@@ -54,23 +54,23 @@ Com o **filtro de decalque** aplicado, rachaduras e danos realistas são adicion
 **Parâmetros Básicos**
 
 * **Modo lado a lado**:\
-  Determina se o bloco deve ultrapassar as alças na **exibição 2D**.\
+  Determina se o bloco deve ultrapassar as alças em **Visualização 2D**.\
   H significa Horizontal, enquanto V significa Vertical.
 * **Correspondência de Cores de Material Inferior**: 0-1\
   Ajuste as cores do material de decalque para corresponder ao valor de cor das camadas abaixo dele.
 * **Modo de mesclagem normal**:\
   Ajustar como os normais são mesclados entre o material de decalque e as camadas subjacentes
-* **Mesclagem de opacidade normal**: 0-1\
+* **Combinar de Opacidade Normal**: 0-1\
   Alterar a opacidade dos normais do material de decalque
 * **Posição do Height de decalque**: 0-1\
   Ajustar o height do decalque em relação ao height de camadas subjacentes
 * **Escala de Height de decalques**: 0-1\
-  Alterar o contraste do mapa de heights para o material de decalque
+  Alterar o contraste do mapa de altura do material de decalque
 
 **Parâmetros Avançados**
 
 * **Transformação de decalque**:\
-  Ajuste os valores de transformação da matriz para o decalque. Em geral, é mais fácil usar apenas as alças na **exibição 2D** para ajustar a transformação do decalque.
+  Ajuste os valores do transformo de matrizes para o decalque. Em geral, é mais fácil usar apenas as alças no **Visualização 2D** para ajustar o transformo do decalque.
 * **Decalque** **Deslocamento**: -1 para 1\
   Ajuste o deslocamento do decalque.
 
@@ -78,7 +78,7 @@ Com o **filtro de decalque** aplicado, rachaduras e danos realistas são adicion
 
 Para usar o filtro Decalque:
 
-1. Adicionar o filtro Decalque à pilha de camadas
+1. Adicione o filtro Decalque à sua pilha de camadas
 1. Na camada Decalque, um slot de entrada aparecerá
 1. Arraste o material de decalque para o slot de entrada da camada Decalque
 

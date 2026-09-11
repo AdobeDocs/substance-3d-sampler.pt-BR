@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
 breadcrumb-title: ''
 description: Saiba como usar controles deslizantes no Substance 3D Sampler para ajustar os parâmetros de filtro e as propriedades do material com controle preciso.
 helpx_creative_field: ""

@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Os canais da subsuperfície são úteis para materiais opacos, mas translúcidos, imitando o efeito de dispersão de luz abaixo da superfície do material. Esse efeito geralmente acontece com materiais como pele, folhas e muitos plásticos. Assista ao vídeo abaixo para saber mais sobre os parâmetros da subsuperfície e usá-los para criar um material de resina.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483548?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3483521)

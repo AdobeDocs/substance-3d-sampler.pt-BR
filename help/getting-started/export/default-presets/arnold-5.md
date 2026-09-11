@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Arnold 5 para compatibilidade com o mecanismo de renderização Arnold.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase &#x200B;**&#x200B;**Aspereza**&#x200B;**Metalidade**&#x200B;**Normal** (OpenGL)**Deslocamento &#x200B;**&#x200B;**Emissiva**&#x200B;**&#x200B; Opacidade** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase ****Aspereza****Metalidade****Normal** (OpenGL)**Deslocamento ****Emissivo**** Opacidade** |

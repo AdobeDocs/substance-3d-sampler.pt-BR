@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
 description: Use a ferramenta Atlas splitter no Substance 3D Sampler para dividir atlas de textura em mapas de textura individuais para edição de material.
 helpx_creative_field: ""
@@ -43,7 +43,7 @@ A imagem acima mostra um material de atlas adicionado à pilha de camadas. use o
 
 ![](../../assets/3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
 
-Com o **Atlas splitter** adicionado à pilha de camadas, é possível focalizar em uma única folha ou em qualquer outro elemento do material do atlas.
+Com o **Atlas splitter** adicionado à pilha de camadas, é possível focar em uma única folha ou em qualquer outro elemento do material do atlas.
 
 </td>
 </tr>

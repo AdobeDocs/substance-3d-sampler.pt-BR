@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Use o filtro Gomas descartadas no Substance 3D Sampler para adicionar resíduos de goma e efeitos de superfície pegajosos aos materiais.
 helpx_creative_field: ""
@@ -85,7 +85,7 @@ Adicione chiclete descartável ao seu material. Este filtro é ótimo para criar
 * **Máscara personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. O seguinte controle será exibido se a **Máscara Personalizada** estiver habilitada:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D.
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D.
 
 **Parâmetros Avançados**
 

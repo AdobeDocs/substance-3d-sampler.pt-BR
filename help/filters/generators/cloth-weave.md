@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: Use o gerador de tecelagem de pano no Substance 3D Sampler para criar padrões de tecelagem de tecido e texturas têxteis para a criação de materiais.
 helpx_creative_field: ""
@@ -85,11 +85,11 @@ Parâmetros
 
 **Avançado**
 
-* **Modo de Mesclagem**&#x200B;**:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do tecido.
+* **Modo de Mesclagem****:** Selecione o modo de mesclagem para o canal basecolor. Alterar o modo de mesclagem pode alterar substancialmente a aparência do tecido.
 * **Intensidade de imperfeição:** 0-1\
   Defina a intensidade das imperfeições dos encadeamentos.
 * **Intensidade Normal:** 0-2\
-  Ajuste a intensidade do mapa normal.
+  Ajuste a força do mapa normal.
 * **Posição do Height:** 0-1\
   Desloque o height do material completo.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Ativos no Substance 3D Sampler para procurar, organizar e acessar seus ativos e recursos materiais.
 helpx_creative_field: ""
@@ -37,7 +37,7 @@ Para adicionar seus próprios ativos ao painel de ativos, clique em **+** no can
 
 ## Ativar canais adicionais
 
-Ao arrastar e soltar materiais do painel de ativos para a pilha de camadas, talvez seja possível ativar canais extras. É oferecido quando o material gera um canal que não está ativado atualmente no seu ativo. Você pode querer ativá-lo se quiser se beneficiar da complexidade total do material, como alguns efeitos de anisotropia ou revestimento.
+Ao arrastar e soltar materiais do painel de ativos para a sua pilha de camadas, pode ser oferecido ativar canais extras. É oferecido quando o material gera um canal que não está ativado atualmente no seu ativo. Você pode querer ativá-lo se quiser se beneficiar da complexidade total do material, como alguns efeitos de anisotropia ou revestimento.
 
 ![pop-up de ativação de canal quando um material é adicionado à pilha de camadas](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 

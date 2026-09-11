@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
 breadcrumb-title: ''
 description: Saiba como criar e editar predefinições de exportação personalizadas no Substance 3D Sampler usando o Substance Designer para otimização do fluxo de trabalho.
 helpx_creative_field: ""
@@ -51,7 +51,7 @@ Exemplo: definição da entrada de cor base
 
 As saídas representam o resultado da exportação da textura.
 
-Crie um nó de Saída por textura e adicione <b>uso</b> e um <b>rótulo</b> nos atributos de cada nó de saída. O <b>rótulo</b> será exibido na lista Canais na janela Exportador e no nome do seu arquivo de textura.
+Crie um nó de Saída por textura e adicione <b>uso</b> e um <b>rótulo</b> nos atributos de cada nó de saída. O <b>rótulo</b> será exibido na lista Canais na janela do Exportador e no nome do seu arquivo de textura.
 
 Exemplo: definição da opacidade de cor da textura personalizada
 
@@ -59,7 +59,7 @@ Exemplo: definição da opacidade de cor da textura personalizada
 
 #### Exemplo de embalagem de canal e conversão de canal
 
-Embalagem de 3 canais em tons de cinza em uma textura de RGB:
+Embalagem de 3 canais em tons de cinza em uma textura:
 
 ![](../../assets/channel-packing-example.png){width="600px"}
 

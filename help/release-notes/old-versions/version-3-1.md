@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do Substance 3D Sampler versão 3.1 para saber mais sobre o seletor de cores, suporte a SVG e melhorias de interoperabilidade.
 helpx_creative_field: ""
@@ -46,7 +46,7 @@ Um novo recurso de “edição em” traz grande flexibilidade para atualizar im
 
 ### Novo corte de UX/UI
 
-O Sampler agora obtém um widget de corte adequado e renovado para definir facilmente a área cortada. Você também não obterá resultados esticados ao cortar imagens não quadradas em texturas quadradas.
+O Sampler agora obtém um widget de corte adequado e renovado para definir facilmente a área cortada. Você também não obterá resultados expandidos ao cortar imagens não quadradas em texturas quadradas.
 
 ![](../../assets/crop-9.jpg){width="500px"}
 
@@ -58,7 +58,7 @@ Edite suas Preferências para definir o [formato normal](../../interface/prefere
 
 ### Exportação de propriedades do material em SBSAR
 
-Todos os parâmetros de material das configurações do Sombreador (escala normal, escala de height, nível de height,...) serão exportados no arquivo SBSAR para serem lidos no Substance 3D Stager para uma correspondência perfeita do material.
+Todos os parâmetros de material das configurações de Sombreador (escala normal, escala de height, nível de height,...) serão exportados no arquivo SBSAR para serem lidos no Substance 3D Stager para uma correspondência perfeita do material.
 
 ![](../../assets/material-consistency-sa-sg.jpg){width="500px"}
 
@@ -106,7 +106,7 @@ Todos os parâmetros de material das configurações do Sombreador (escala norma
 * [Conteúdo] Alguns materiais de Substance às vezes não são atualizados
 * [Exportar] Falha ao exportar com uma predefinição personalizada recém-adicionada
 * [Export] O tamanho estimado do pacote está ausente no pop-up de exportação
-* [Exportar] Corrigir vazamento de memória ao exportar arquivos SBS e SBSAR
+* [Exportar] Corrigir o vazamento de memória ao exportar arquivos SBS e SBSAR
 * [Filtros compostos] Os filtros compostos podem ter entradas duplicadas
 * [Filtros compostos] Falha se um filtro tiver referências não atendidas
 * [Filtros compostos] Falha ao reordenar uma pilha de camadas com um filtro composto
@@ -114,7 +114,7 @@ Todos os parâmetros de material das configurações do Sombreador (escala norma
 * [Importação de imagem] Importar uma imagem aciona várias renderizações
 * [Camadas] Falha ao desfazer/refazer
 * [Camadas] Falha ao adicionar um Material de base
-* [Layers] Falha ao usar uma imagem inválida como luz do ambiente
+* [Camadas] Falha ao usar uma imagem inválida como iluminação do ambiente
 * [Camadas] Corrigir importação duplicada ao inserir um filtro com vários gráficos
 * [Camadas] A reordenação de camadas nem sempre funciona
 * [Project] Falha ao carregar um arquivo de projeto incompleto

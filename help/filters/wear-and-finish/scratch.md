@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Use o filtro Rascunho no Substance 3D Sampler para adicionar marcas de rascunho realistas e efeitos de danos na superfície dos materiais.
 helpx_creative_field: ""
@@ -131,9 +131,9 @@ Adicione arranhões e desgaste ao material.
 
 * **Opacidade Geral**: 0-1\
   Ajuste a opacidade do efeito **Filtro de rascunho**.
-* **Cor base**: alternar\
-  Define se o canal da cor base é afetado pelo filtro. Se ativado, um controle adicional será exibido:
-  * **Cor base - Cor**: seleção de cor\
+* **Cor de base**: alternar\
+  Define se o canal de cor de base é afetado pelo filtro. Se ativado, um controle adicional será exibido:
+  * **Cor de base - Cor**: seleção de cores\
     Selecione a cor de base dos arranhões e lascas.
 * **Metálico**: alternar\
   Define se o canal metálico é afetado pelo filtro. Se ativado, um controle adicional será exibido:
@@ -152,20 +152,20 @@ Adicione arranhões e desgaste ao material.
 * **Height**: alternar\
   Define se o canal de height é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Height - Intensidade**: 0-1\
-    Ajuste o contraste do mapa de height.
+    Ajuste o contraste do mapa de altura.
 * **Emissivo**: alternar\
-  Define se o canal emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
+  Define se o canal de emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Emissivo - Cor**: seleção de cor\
-    Defina a cor do canal emissivo.
+    Defina a cor do canal do emissivo.
 * **Specular level**: alternar\
   Controla se o canal de specular level é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Specular level** **- Valor**: 0-1\
     Ajuste o valor do canal de specular.
 * **Oclusão de ambiente**: alternar\
-  Define se o canal de oclusão ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
-  * **Oclusão Ambiente - Intensidade**: 0-1\
+  Define se o canal de oclusão de ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
+  * **Oclusão de ambiente - Intensidade**: 0-1\
     Ajuste a intensidade do AO gerado.
-  * **Oclusão Do Ambiente** **- Raio**: 0-1\
+  * **Oclusão de ambiente** **- Raio**: 0-1\
     Ajuste o raio do efeito AO.
 * **Opacidade**: alternar\
   Define se o canal de opacidade é afetado pelo filtro. Se ativado, um controle adicional será exibido:

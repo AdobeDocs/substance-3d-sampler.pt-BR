@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
 description: Use o filtro Musgo no Substance 3D Sampler para adicionar crescimento realista de musgo e efeitos de superfície orgânicos aos materiais.
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ Os parâmetros disponíveis nesta seção dependem da opção selecionada em **P
 * **Superior**
   * **Limite Superior do Moss**: 0-1\
     Controle o limite que determina se o musgo aparece ou não.
-  * **Ângulo Superior do Musgo** Ajuste como o musgo se aplica ao material com base no mapa normal.
+  * **Ângulo do musgo superior** Ajuste como o musgo se aplica ao material com base no mapa normal.
 * **Todos**
   * **Tudo** inclui todos os parâmetros acima para **Oclusão**, **Geral** e **Superior**.
 

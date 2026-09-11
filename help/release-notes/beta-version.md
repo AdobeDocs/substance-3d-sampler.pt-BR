@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/beta-version.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/beta-version.html"
 breadcrumb-title: ''
 description: Acesse as versões beta do Substance 3D Sampler para experimentar novos recursos e fornecer feedback antes do lançamento oficial.
 helpx_creative_field: ""
@@ -27,9 +27,9 @@ Esta página contém logs de alterações para versões Beta do Sampler. Saiba c
 >As versões beta do Sampler nem sempre estão disponíveis. Para saber quando as futuras betas serão lançadas, siga as redes sociais do Substance 3D.
 
 
-## 4.4.0 Beta - Texto para textura
+## 4.4.0 Beta - Texto para Textura
 
-Estamos apresentando o Texto para textura com o Adobe Firefly, uma nova maneira para os artistas obterem imagens de textura usando apenas uma descrição. Esse novo recurso expande a caixa de ferramentas do artista além de importar fotografias personalizadas ou de banco de imagens, fornecendo uma maneira de gerar texturas diretamente no Sampler. Todas as imagens de Texto para textura são quadradas e lado a lado com a perspectiva adequada, prontas para o fluxo de trabalho de criação de material.
+Estamos apresentando o Texto para Textura com o Adobe Firefly, uma nova maneira para os artistas obterem imagens de textura usando apenas uma descrição. Esse novo recurso expande a caixa de ferramentas do artista além de importar fotografias personalizadas ou de banco de imagens, fornecendo uma maneira de gerar texturas diretamente no Sampler. Todas as imagens de Texto para Textura são quadradas e lado a lado com Perspectiva adequada, prontas para o fluxo de trabalho de criação de material.
 
 ![](../assets/wood-ui.png)
 
@@ -50,7 +50,7 @@ Estamos apresentando o Texto para textura com o Adobe Firefly, uma nova maneira 
 <b>Adicionado:</b>
 
 * [Firefly] Novo painel Gerativo (Beta)
-* [Firefly] Gerar texturas ladrilháveis a partir de um prompt
+* [Firefly] Gerar texturas lado a lado a partir de um prompt
 * [Firefly] Gerar mais variações após a primeira geração
 * [Firefly] Adicionar um resultado como uma camada ou na biblioteca Seus ativos
 * [Firefly] Procurar histórico de solicitações anteriores

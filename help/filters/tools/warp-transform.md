@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
 description: Use a ferramenta Transformação de distorção no Substance 3D Sampler para aplicar efeitos de distorção e distorção não lineares a texturas e materiais.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Sampler > Filters > Tools > Warp Transform
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Transformação de distorção
+title: Distorcer Transformo
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 1%
 ---
 
 
-# Transformação de distorção
+# Distorcer Transformo
 
 <table>
 <tr style="border: 0;">
@@ -33,7 +33,7 @@ Ferramentas de **Entrada:**
 
 ## Descrição
 
-Distorça o material usando alças na **exibição 2D**.
+Distorça o material usando alças no **Visualização 2D**.
 
 </td>
 </tr>
@@ -52,8 +52,8 @@ Distorça o material usando alças na **exibição 2D**.
 
 ## Guia de Uso
 
-O **filtro Transformação de distorção** permite deformar manualmente o material com alças na **exibição 2D**. Para usar o **filtro Transformação de Distorção**:
+O **filtro Transformação de distorção** permite deformar manualmente o material com alças na **exibição 2D**. Para usar o **filtro de Transformo de distorção**:
 
-1. Adicionar o **filtro Transformação de distorção** ao topo da pilha de camadas
+1. Adicionar o **filtro de Transformo de distorção** ao topo da pilha de camadas
 1. Ajustar o número de identificadores com **Parâmetros básicos > Grade**
 1. Arraste as alças para começar a deformar o material

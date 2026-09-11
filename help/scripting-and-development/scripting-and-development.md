@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/scripting-and-development.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development.html"
 breadcrumb-title: ''
 description: Saiba como criar plug-ins e scripts personalizados para o Substance 3D Sampler usando a API Python para automatizar fluxos de trabalho e ampliar a funcionalidade.
 helpx_creative_field: ""

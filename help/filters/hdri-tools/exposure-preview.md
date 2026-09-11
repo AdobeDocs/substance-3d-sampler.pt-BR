@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: Use a ferramenta Visualização de exposição no Substance 3D Sampler para visualizar ajustes de exposição em imagens HDRI antes de aplicar alterações.
 helpx_creative_field: ""
@@ -33,17 +33,17 @@ ht-degree: 0%
 
 ## Descrição
 
-O **filtro** Visualização da Exposição **&#x200B;**&#x200B;permite visualizar rapidamente um espectro de valores de exposição.
+O **filtro** Visualização da Exposição **** permite visualizar rapidamente um espectro de valores de exposição.
 
 Abaixo, você pode ver o que o **filtro Visualização de Exposição** faz.
 
 ![](../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
-Na imagem acima, uma luz ambiente foi criada e os dados da imagem HDR ficam visíveis na **exibição 2D**.
+Na imagem acima, uma iluminação do ambiente foi criada e os dados da imagem HDR estão visíveis no **Visualização 2D**.
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-Com o **Filtro** Visualização de exposição **adicionado à pilha de camadas, um novo canal - Diagnóstico de ambiente - é disponibilizado, mostrando a luz do ambiente em várias exposições.**
+Com o **Filtro** Visualização de Exposição **adicionado à pilha de camadas, um novo canal - Diagnóstico de Ambiente - é disponibilizado e mostra a iluminação do ambiente em várias exposições.**
 
 </td>
 </tr>
@@ -60,6 +60,6 @@ Com o **Filtro** Visualização de exposição **adicionado à pilha de camadas,
 
 ## Guia de Uso
 
-O **filtro de Visualização de Exposição** funciona de maneira um pouco diferente de outros filtros do Sampler. É uma ferramenta destinada a ajudar a encontrar a exposição correta para sua luz ambiente, mas na verdade não afeta o canal Ambiente. Em vez disso, quando você adiciona o **filtro Visualização de exposição** à pilha de camadas, um canal adicional é disponibilizado para exibição na **exibição 2D** - o canal Diagnóstico do Ambiente.
+O **filtro de Visualização de Exposição** funciona de maneira um pouco diferente de outros filtros do Sampler. É uma ferramenta destinada a ajudar a encontrar a exposição correta para sua iluminação do ambiente, mas na verdade não afeta o canal Ambiente. Em vez disso, quando você adiciona o **filtro de Visualização de Exposição** à pilha de camadas, um canal adicional fica disponível para exibição no **canal de Diagnóstico de Ambiente**.
 
 Se você visualizar o canal de Diagnóstico do ambiente, poderá ver algumas ocorrências da imagem do ambiente 2D com valores de exposição variados. Ajuste os parâmetros do **Filtro de Visualização de Exposição** para alterar o intervalo de exposições visíveis no canal de Diagnóstico de Ambiente.

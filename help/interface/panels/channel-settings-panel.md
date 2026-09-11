@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Configurações do canal no Substance 3D Sampler para gerenciar canais de materiais e controlar a visibilidade do canal.
 helpx_creative_field: ""
@@ -38,13 +38,13 @@ O painel **Configurações do canal** controla a lista de canais computados para
 
 ## Modelo do material
 
-Use esta lista suspensa para selecionar a estrutura do sombreador usada para renderizar o material. As opções no **painel de configurações do canal** serão alteradas com base no modelo de material selecionado.
+Use essa lista suspensa para selecionar a estrutura de sombreador usada para renderizar o material. As opções no **painel de configurações do canal** serão alteradas com base no modelo de material selecionado.
 
-Ao alterar o modelo de material, a pilha de camadas precisará ser recalculada para o novo modelo e canais diferentes serão disponibilizados. O Sampler tenta minimizar a perda de dados na conversão; no entanto, é possível que a alteração resulte em diferenças sutis de aparência com um novo modelo de material.
+Ao alterar a modelo de material, sua pilha de camadas precisará ser recalculada para o novo modelo, e canais diferentes serão disponibilizados. O Sampler tenta minimizar a perda de dados na conversão; no entanto, é possível que a alteração resulte em diferenças sutis de aparência com um novo modelo de material.
 
 >[!NOTE]
 >
-> É possível alterar de Material padrão da Adobe (ASM) para OpenPBR, mas atualmente não é possível alterar de OpenPBR para ASM.
+> É possível mudar de Adobe Standard Material (ASM) para OpenPBR, mas atualmente não é possível mudar de OpenPBR para ASM.
 
 
 ## Canais de materiais
@@ -69,13 +69,13 @@ Você pode usar o **botão Editar lista** para abrir a **Seleção de canal** e 
 
 >[!NOTE]
 >
-> Alguns materiais do Substance Source não geram opacidade ou canais de oclusão ambiente, por exemplo. Mesmo que o canal de opacidade seja marcado como “é calculado”, se o arquivo de Substance não o produzir, o Sampler não o gerará.
+> Alguns materiais do Substance Source não geram opacidade ou canais de oclusão de ambiente, por exemplo. Mesmo que o canal de opacidade seja marcado como “é calculado”, se o arquivo de Substance não o produzir, o Sampler não o gerará.
 
 ### Seleção de canais
 
 A janela Seleção de canal permite adicionar ou remover canais do material.
 
-![Uma captura de tela da janela de seleção de Canal com Material Padrão da Adobe selecionado como Modelo de material.](../../assets/6.0_ChannelSelectionWindow.png)
+![Uma captura de tela da janela Seleção de canal com Adobe Standard Material selecionado como Modelo de material.](../../assets/6.0_ChannelSelectionWindow.png)
 
 Para adicionar um canal ao material, selecione um canal disponível e use o botão **>**.
 Para remover um canal do seu material, selecione o canal na **lista Canais selecionados** e use o botão **&lt;**.

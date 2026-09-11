@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/preferences/normal-format.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/normal-format.html"
 breadcrumb-title: ''
 description: Saiba como configurar as preferências de formato de mapa normal no Substance 3D Sampler para alternar entre os formatos DirectX e OpenGL.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # Formato normal
 
-Mapas normais são processados usando o formato <b>DirectX</b>, mantenha um fluxo de trabalho<b> OpenGL</b> para importar e exportar o formato OpenGL alterando a preferência de formato normal.
+Os mapas normais são processados usando o formato <b>DirectX</b>, mantenha um fluxo de trabalho<b> OpenGL</b> para importar e exportar o formato OpenGL alterando a preferência de formato normal.
 
 *Padrão: DirectX*
 
@@ -31,7 +31,7 @@ A preferência de formato normal afeta:
 
 ## Camada de importação de imagem
 
-Ao importar uma textura normal, o formato normal é definido para o formato selecionado em Preferências.
+Ao importar uma textura normal, o formato normal é definido com o formato selecionado em Preferências.
 
 ### Exportar
 

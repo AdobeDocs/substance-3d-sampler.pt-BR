@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
 description: Saiba como importar recursos como imagens e arquivos de Substance para o Substance 3D Sampler para aprimorar seus fluxos de trabalho de criação de material.
 helpx_creative_field: ""
@@ -26,8 +26,8 @@ O Sampler pode usar recursos externos, como imagens e arquivos Substance, para m
 
 ![](../assets/importing-resources-Importwindow.png)
 
-* Na <b>Barra esquerda</b>, use o botão <b>Obter conteúdo </b>e selecione <b>Importar na pilha de camadas</b> ou <b>Importar em seus ativos</b>. Ambas as opções abrirão um explorador de arquivos onde você pode navegar e selecionar os arquivos a serem importados.
-  * <b>Importar na pilha de camadas</b> importa o arquivo para o projeto atual.
+* Na <b>Barra esquerda</b>, use o botão <b>Obter conteúdo </b>e selecione <b>Importar no Pilha de camadas</b> ou <b>Importar em seus ativos</b>. Ambas as opções abrirão um explorador de arquivos onde você pode navegar e selecionar os arquivos a serem importados.
+  * A <b>importação no Pilha de camadas</b> importa o arquivo para o projeto atual.
   * <b>Importar em seus ativos</b> importa o arquivo para que ele possa ser acessado de qualquer projeto.
 
 ![](../assets/Project_CreateNew.png)

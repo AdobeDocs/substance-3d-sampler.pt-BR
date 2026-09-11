@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: Use o gerador de pavimento no Substance 3D Sampler para criar texturas realistas de pavimento e superfície da estrada para materiais.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Converta seu material em um padrão de pavimento. O filtro Pavimentação inclui
   Modificar a quantidade de espaço entre os tijolos
 * **Arredondamento dos cantos**: 0-1\
   Torne os cantos dos tijolos mais ou menos arredondados.
-* **Arredondamento da borda**: 0-1\
+* **Arredondamento de arestas**: 0-1\
   Suavize as bordas dos tijolos para torná-los mais desgastados do uso
 * **Intensidade de inclinação**: 0-1\
   Alterar a intensidade da inclinação aleatória aplicada a cada tijolo
@@ -85,7 +85,7 @@ Cada padrão tem um conjunto diferente de parâmetros disponíveis que aparecer�
 * **Tamanho da superfície (cm)**: 0-1000\
   Ajuste a tamanho físico representada pelo material
 * **Escala do Height da superfície (cm)**: 0-1000\
-  Alterar o espaço físico representado pelo mapa de heights
+  Alterar o espaço físico representado pelo mapa de altura
 * **Smoothness de superfície**: 0-1\
   Controle a quantidade de variação e detalhes na superfície
 * **Ponta de superfície**: 0-1\

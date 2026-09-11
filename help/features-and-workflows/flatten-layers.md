@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
-description: Saiba como nivelar camadas no Substance 3D Sampler para melhorar o desempenho e simplificar sua pilha de camadas enquanto entende o impacto.
+description: Saiba como nivelar camadas no Substance 3D Sampler para melhorar o desempenho e simplificar sua pilha de camadas e, ao mesmo tempo, entender o impacto.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Achatar camadas
 
-Nivelar camadas é uma maneira útil de melhorar o desempenho e simplificar a pilha de camadas, mas é importante estar ciente do impacto que o Nivelamento de camadas pode ter em seu projeto.
+Nivelar camadas é uma maneira útil de melhorar o desempenho e simplificar a pilha de camadas, mas é importante estar ciente do impacto que o nivelamento de camadas pode ter em seu projeto.
 
 ## O que o botão Nivelar camadas faz?
 
@@ -28,7 +28,7 @@ Achatar camadas mescla todas as camadas abaixo da camada atualmente selecionada 
 
 ### Por que nivelar camadas?
 
-Sempre que você altera uma camada na pilha de camadas, o Sampler precisa recalcular a saída dessa camada e de todas as camadas acima dela. Cada camada adicional a ser calculada significa tempo de processamento adicional e uso de memória. Nivelar várias camadas reduz o tempo e a memória necessários para processar essas camadas. Por exemplo, em vez de recalcular 10 camadas, o Sampler só precisa processar uma única camada.
+Sempre que uma camada é alterada na Pilha de camadas, o Sampler precisa recalcular a saída dessa camada e de todas as camadas acima dela. Cada camada adicional a ser calculada significa tempo de processamento adicional e uso de memória. Nivelar várias camadas reduz o tempo e a memória necessários para processar essas camadas. Por exemplo, em vez de recalcular 10 camadas, o Sampler só precisa processar uma única camada.
 
 Além disso, o nivelamento de camadas resulta em uma pilha de camadas mais simples, que é mais fácil de navegar e entender.
 
@@ -43,5 +43,5 @@ Enquanto os parâmetros das camadas originais são perdidos, as camadas nivelada
 Para cada canal, você pode:
 
 * <b>Uso de saída</b>: altere para qual canal a saída é usada. Ao nivelar camadas, um TIFF é criado e nomeado para cada canal e atribuído automaticamente a esse canal.
-* <b>Opacidade do canal alfa</b>: alterna se a opacidade é baseada no resultado do canal de Alpha.
+* <b>Opacidade do canal alfa</b>: alterna se a opacidade é baseada no resultado do canal Alfa.
 * <b>Remover</b>: remove o canal desta camada. Isso pode ser útil para canais que não contêm informações úteis. Por exemplo, é uma boa ideia remover um canal de opacidade totalmente branco, pois isso liberará memória sem afetar os resultados visuais.

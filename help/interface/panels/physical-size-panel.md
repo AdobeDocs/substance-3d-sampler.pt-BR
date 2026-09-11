@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Tamanho físico no Substance 3D Sampler para definir dimensões reais para materiais e texturas.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ Essas ferramentas permitem definir o aspecto da superfície do material.
 
 **Escala física:** habilite ou desabilite a escala física. A escala física é a circunferência da malha ao longo dos três eixos.\
 Dimensione seu material com valores físicos. Manipulação da largura (X) do Height (Y) e da Profundidade (Z).\
-**Divisão em blocos gráficos de textura:** defina a divisão em blocos gráficos do seu material
+**Divisão em blocos gráficos de Textura:** defina a divisão em blocos gráficos do seu material
 
 ### Material de saída
 

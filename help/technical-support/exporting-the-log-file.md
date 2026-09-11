@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/exporting-the-log-file.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/exporting-the-log-file.html"
 breadcrumb-title: ''
 description: Saiba como exportar arquivos de registro do Substance 3D Sampler para fins de solução de problemas e suporte técnico.
 helpx_creative_field: ""
@@ -34,12 +34,12 @@ Se você não conseguir iniciar o Substance 3D Sampler, poderá recuperar o arqu
 
 Versão do Adobe:
 
-* **Windows**: C:\Users\**&#x200B; username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\** username**\AppData\Local\Adobe\Adobe Substance 3D Sampler\log.txt
 * **SO Mac**: Macintosh > Users > **username** > Library > Application Support > Adobe> Adobe Substance 3D Sampler > log.txt
 
 Versão do Substance:
 
-* **Windows**: C:\Users\**&#x200B; username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
+* **Windows**: C:\Users\** username**\AppData\Local\Allegorithmic\Adobe Substance 3D Sampler\log.txt
 * **SO Mac**: Macintosh > Users > **username** > Library > Application Support > Allegorithmic > Adobe Substance 3D Sampler > log.txt
 * **Linux**: /home/**username**/.local/share/Allegorithmic/Adobe Substance 3D Sampler/log.txt
 

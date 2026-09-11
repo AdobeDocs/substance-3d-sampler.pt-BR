@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Revise as notas de versão do Substance 3D Sampler versão 5.0 para saber mais sobre novas ferramentas de digitalização, recursos e melhorias no fluxo de trabalho.
 helpx_creative_field: ""
@@ -73,18 +73,18 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/hp-z
 * [Integração] [Conteúdo] Ações rápidas são fluxos de trabalho predefinidos que preenchem a pilha de camadas com as camadas mais usadas
 * [Integração] Possibilidade de criar um novo projeto por meio de um novo menu Início rápido, por meio de ações rápidas ou Projeto personalizado
 * [Integração] Possibilidade de criar um projeto vazio diretamente da página inicial através do botão dedicado
-* [3D View] Novos rasterizadores e rastreadores avançados que trazem novos recursos de renderização (propriedades como revestimento, brilho, translucidez, dispersão da subsuperfície) e consistência visual entre o ecossistema de Substance
+* [Visualização 3D] Novo rasterizador e pathtracer avançados que trazem novos recursos de renderização (propriedades como revestimento, brilho, translucidez, dispersão de subsuperfície) e consistência visual no ecossistema de Substance
 * [Visualização 3D] As configurações do visualizador agora podem ser acessadas diretamente na visualização 3D
-* [Exibição 3D] Possibilidade de salvar um instantâneo de renderização na área de transferência ou em arquivos
-* [Exibição 3D] Exibir uma grade para visualizar a origem da cena
-* [Exibição 3D] Permitir que o plano do solo capture sombras e reflexos
-* [Visualização 3D] Controlar o quão reflexivo e opaco é o seu plano horizontal
+* [Visualização 3D] Possibilidade de salvar um instantâneo de renderização na área de transferência ou em arquivos
+* [Visualização 3D] Exibir uma grade para visualizar a origem da cena
+* [Visualização 3D] Permitir que o plano do solo capture sombras e reflexos
+* [Visualização 3D] Controlar o quão reflexivo e opaco é o seu plano terrestre
 * [captura 3D] Malha de posição no solo
 * [Aplicativo] Verificar a compatibilidade de hardware na inicialização do aplicativo
 * [Aplicativo] A janela de relatório de falhas agora é aberta logo após a ocorrência de uma falha
 * [Conteúdo] Abrir um projeto de amostra para começar facilmente
-* [Exportar] Exportar sombreador de materiais padrão da Adobe em arquivos do USD
-* [Generative AI] Marque a marca “Não inferir” ao usar uma imagem como entrada em fluxos de trabalho de Imagem para textura
+* [Exportar] Exportar sombreador de Adobe Standard Material em arquivos USD
+* [Generative AI] Marque a tag “Não inferir” ao usar uma imagem como entrada em fluxos de trabalho de Imagem para Textura
 * [Project] As miniaturas são armazenadas no arquivo de projeto para agilizar a abertura dos projetos
 * [Projeto] Configuração nas preferências para armazenar dados do cache no arquivo de projeto, com modos diferentes (sem cache, cache leve, cache cheio)
 * [Scripting] [Quebrando mudança] Migração Qt para Qt6.15 - impacto compatibilidade de plug-ins existentes
@@ -103,7 +103,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/hp-z
 * [Aplicativo] As entradas de menu Desfazer e Refazer não são desativadas quando deveriam ser
 * [Ativos] Não é possível excluir ativos da seção Todas as bibliotecas do painel Ativos
 * [Content] Criador de atlas - Usar mapa de opacidade existente, se presente
-* [Content] Mistura de ID de cor - Corrigir escolha de cor na cor base
+* [Content] Combinar de ID de cor - Corrigir a escolha de cores na cor base
 * [Camadas] Evite cálculos inúteis ao usar geradores
 * [Camadas] Ajustar um gerador pode levar ao acionamento de muitos computadores
 * [Desempenho] Melhorar o gerenciamento de memória da GPU

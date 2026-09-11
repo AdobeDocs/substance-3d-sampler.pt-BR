@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: Use o gerador de respingos no Substance 3D Sampler para criar efeitos de respingos de tinta e padrões aleatórios para texturas de material.
 helpx_creative_field: ""
@@ -75,10 +75,10 @@ Divida instâncias de outros materiais no seu material.
 
 * **Correspondência de Albedo**: 0-1\
   Corresponder a cor das ocorrências à cor do material subjacente
-* **Ajuste HSL**: 0-1\
-  Ajuste de Matiz, Saturação e Luminosidade das ocorrências
-* **HSL aleatório**: 0-1\
-  Controle a aleatoriedade de matiz, saturação e luminosidade de cada ocorrência
+* **Ajuste de HSL**: 0-1\
+  Ajuste o Matiz, a Saturação e a Luminosidade das ocorrências
+* **HSL Aleatório**: 0-1\
+  Controle a aleatoriedade de matiz, saturação e Luminosidade de cada ocorrência
 
 **Normal**
 
@@ -111,7 +111,7 @@ Divida instâncias de outros materiais no seu material.
 * **Smoothness de Inclinação de plano de fundo**: 0-2\
   Ajuste a inclinação do plano de fundo para as finalidades do parâmetro **Inclinar da Inclinação de erros**
 * **Em conformidade com o plano de fundo**: 0-1\
-  Controle quanto o mapa de heights em segundo plano afeta o mapa de heights de instâncias. Isso permite encolher e quebrar instâncias ao redor dos detalhes do plano de fundo
+  Controle quanto o mapa de altura do plano de fundo afeta o mapa de altura da instância. Isso permite encolher e quebrar instâncias ao redor dos detalhes do plano de fundo
 * **Plano de fundo suave**: 0-1\
   Ajustar quantos detalhes estão visíveis devido à **Conformidade com o Plano de Fundo**
 
@@ -129,7 +129,7 @@ Divida instâncias de outros materiais no seu material.
 * **Usar Máscara Personalizada**: alternar\
   Ative essa opção para usar uma máscara personalizada e acessar os controles de máscara personalizada:
   * **Máscara personalizada**: imagem/pincel\
-    Importar uma imagem para usar como máscara personalizada ou pintar diretamente na **exibição 2D**
+    Importar uma imagem para usar como máscara ou tinta personalizada diretamente no **Visualização 2D**
   * **Desfoque de máscara personalizado**: 0-1\
     Desfocar as bordas da máscara personalizada
   * **Inversão de máscara personalizada**: alternar

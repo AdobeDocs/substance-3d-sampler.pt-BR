@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Ações rápidas no Substance 3D Sampler para acessar tarefas e atalhos comuns de edição de material.
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ No painel Ação rápida, clique em uma Ação rápida para adicioná-la à pilh
 
 Quando você passa o mouse sobre uma ação rápida, pode usar o botão de opções que aparece para:
 
-* **Aplique** a ação rápida à pilha de camadas.
+* **Aplicar** a ação rápida à pilha de camadas.
 * **Configurar** a ação rápida através de caixas de diálogo.
 * **Criar um novo ativo** usando a ação rápida selecionada.
 * **Criar um novo projeto** usando a ação rápida selecionada.

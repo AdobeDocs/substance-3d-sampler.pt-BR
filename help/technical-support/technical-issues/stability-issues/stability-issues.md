@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
 breadcrumb-title: ''
 description: Acesse os guias de solução de problemas para problemas de estabilidade do Substance 3D Sampler para resolver falhas e erros de aplicativos.
 helpx_creative_field: ""

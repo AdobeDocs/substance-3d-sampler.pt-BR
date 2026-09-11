@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
-description: Use o gerador de cascalho no Substance 3D Sampler para criar texturas de granulado de cascalho e pedra realistas para materiais.
+description: Use o gerador de cascalho no Substance 3D Sampler para criar texturas realistas de granulado de cascalho e pedra para materiais.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Gravel
 helpx_experience_level: ""
@@ -65,7 +65,7 @@ Estas imagens mostram o **Filtro de cascalho** sendo usado para preencher as fen
 * **Quantidade**: 0-1\
   Altere a quantidade de cascalho espalhado pelo material.
 * **Cor primária**: seleção de cor\
-  Selecionar a cor base das pedras de cascalho
+  Selecione a cor de base das pedras de cascalho
 * **Cor secundária**: seleção de cor\
   Selecionar a cor secundária das pedras de cascalho
 * **Correspondência de Cores de Material Inferior**: 0-1\
@@ -92,15 +92,15 @@ Estas imagens mostram o **Filtro de cascalho** sendo usado para preencher as fen
 * **Smoothness de superfície**: 0-1\
   Suavizar os topos das pedras
 * **Usar Máscara Personalizada**: alternar\
-  Ative ou desative o uso de uma máscara personalizada para pintar locais de pedra. Os parâmetros a seguir só estarão visíveis se **Usar Máscara Personalizada** estiver habilitado.
+  Ative ou desative o uso de uma máscara personalizada para tinta locais de pedra. Os parâmetros a seguir só estarão visíveis se **Usar Máscara Personalizada** estiver habilitado.
   * **Desfoque de Máscara**: 0-1\
     Desfocar as bordas da máscara pintada
   * **Máscara personalizada**: imagem/pincel\
-    Clique no pincel para pintar uma máscara personalizada na qual as pedras aparecerão. Clique no quadrado para importar uma imagem para usar como máscara.
+    Clique no pincel para tinta uma máscara personalizada onde as pedras aparecerão. Clique no quadrado para importar uma imagem para usar como máscara.
 
 **Parâmetros avançados**
 
 * **Tamanho da superfície (cm)**: 0-1000\
   Modifique o tamanho da superfície que está sendo representada por seu material. Aumentar o tamanho da superfície significa que o tamanho físico de pedras de cascalho é maior, e elas serão modificadas em conformidade.
 * **Profundidade de Height** **(cm)**: 0-100\
-  Modifique a profundidade física representada pelo mapa de heights do material. Uma profundidade de height aumentada significa que o tamanho físico de pedras é mais alto do que seria de outra forma, portanto a intensidade normal das pedras é aumentada.
+  Modifique a profundidade física representada pelo mapa de altura do material. Uma profundidade de height aumentada significa que o tamanho físico de pedras é mais alto do que seria de outra forma, portanto a intensidade normal das pedras é aumentada.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Use o gerador de tecelagem no Substance 3D Sampler para criar padrões de tecelagem de tecido e texturas têxteis para a criação de materiais.
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ Use predefinições para alterar rapidamente os parâmetros de visualização de
 * **Distribuição aleatória**:\
   A semente aleatória na qual todos os outros parâmetros aleatórios deste filtro se baseiam.
 * **Imagem**: imagem/pincel\
-  Selecione uma imagem ou pintura diretamente na **exibição 2D**. O **filtro de tecelagem** funciona melhor quando uma imagem é selecionada.
+  Selecione uma imagem ou tinta diretamente no **Visualização 2D**. O **filtro de tecelagem** funciona melhor quando uma imagem é selecionada.
 * **Contagem de cores**: 1-10\
   O **filtro de tecelagem** divide automaticamente a entrada da imagem em várias cores com base nesse parâmetro. Os parâmetros de cada cor podem ser controlados de forma independente.
 * **Tamanho da Área (cm)**: 2-50\

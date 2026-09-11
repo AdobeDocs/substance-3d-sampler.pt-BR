@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Use o filtro Rachaduras no Substance 3D Sampler para adicionar padrões de rachadura realistas e efeitos de danos na superfície aos materiais.
 helpx_creative_field: ""
@@ -89,7 +89,7 @@ O **filtro do Rachadura** foi aplicado a um material de mármore limpo.
 * **Opacidade Metálica Do Rachadura**: 0-1\
   Ajustar quanto o valor de **Metálico do Rachadura** afeta o mapa metálico
 * **Intensidade de height do Rachadura**: 0-1\
-  Ajuste a profundidade das rachaduras. Isso afeta o mapa de heights e os resultados normais do mapa do filtro.
+  Ajuste a profundidade das rachaduras. Isso afeta o mapa de altura e os resultados de mapa normal do filtro.
 
 **Parâmetros Avançados**
 
@@ -98,4 +98,4 @@ O **filtro do Rachadura** foi aplicado a um material de mármore limpo.
 * **Intervalo de Heights**: 0-1\
   Modifique a faixa de heights do material completo. Para ajustar o height do rachadura, use **Rachadura > Intensidade do Height do Rachadura**.
 * **Posição do Height**: 0-1\
-  Desloque o mapa de height do material completo.
+  Desloque o mapa de altura do material completo.

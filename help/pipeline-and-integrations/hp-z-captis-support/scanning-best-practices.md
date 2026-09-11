@@ -19,7 +19,7 @@ Esta página abrange duas áreas que fazem a maior diferença: **preparar a amos
 
 ## Preparar a amostra física
 
-Tudo o que estiver visível na amostra quando capturado é colocado nos mapas. Alguns minutos de preparação removem problemas na origem antes que eles se tornem um trabalho de edição.
+Tudo o que estiver visível na amostra quando capturado é feito bake nos mapas. Alguns minutos de preparação removem problemas na origem antes que eles se tornem um trabalho de edição.
 
 **Limpar a amostra**
 
@@ -39,7 +39,7 @@ Para tecidos e outros materiais flexíveis, sempre passar a amostra plana antes 
 
 **Remover manchas de superfícies lisas**
 
-Em materiais lisos e não porosos, limpe manchas, impressões digitais ou manchas. Elas aparecem claramente nos canais de cor base e aspereza.
+Em materiais lisos e não porosos, limpe manchas, impressões digitais ou manchas. Elas aparecem claramente nos canais de cor de base e aspereza.
 
 **Conheça o thickness de exemplo**
 
@@ -71,4 +71,4 @@ Se você colocar várias amostras de uma vez, não deixe que elas toquem ou se s
 
 Quando sua amostra estiver limpa, plana e centralizada, os mapas que chegam ao Sampler já estarão próximos de estar prontos para produção. Você gasta seu tempo refinando o material em vez de repará-lo: menos tempo desdeformando, menos tempo limpando dusts e fibras, e menos tempo removendo manchas e rugas de seus canais.
 
-Depois que o material for importado, use os filtros do Sampler (Equalizar, Divisão em blocos gráficos automática, Corte de perspectiva, Divisão em blocos gráficos...) para os toques finais e exporte quando estiver satisfeito com o resultado.
+Depois que o material for importado, use os filtros do Sampler (Equalizar, Divisão em blocos gráficos automática, Corte de Perspectivas, Divisão em blocos gráficos...) para os toques finais e exporte quando estiver satisfeito com o resultado.

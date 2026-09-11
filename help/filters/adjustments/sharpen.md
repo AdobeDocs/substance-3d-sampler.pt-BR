@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
-description: Use o filtro Tornar Nítido no Substance 3D Sampler para aprimorar a nitidez e os detalhes da imagem em texturas e camadas de material.
+description: Use o filtro Tornar Nítido no Substance 3D Sampler para aprimorar a nitidez da imagem e os detalhes em texturas e camadas de material.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Sharpen
 helpx_experience_level: ""
@@ -59,7 +59,7 @@ Use predefinições para alterar rapidamente os parâmetros para ver diferentes 
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

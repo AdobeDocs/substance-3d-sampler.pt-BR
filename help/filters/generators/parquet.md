@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/parquet.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
-description: Use o gerador de assoalho no Substance 3D Sampler para criar padrões e texturas de piso de madeira em parquet realistas para materiais.
+description: Use o gerador de assoalho no Substance 3D Sampler para criar padrões de piso de madeira em parquet realistas e texturas para materiais.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Parquet
 helpx_experience_level: ""

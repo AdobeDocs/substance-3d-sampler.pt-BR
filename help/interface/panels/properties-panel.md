@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Propriedades no Substance 3D Sampler para exibir e editar parâmetros de filtro e propriedades de material.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ Os parâmetros que aparecem no **painel Propriedades** dependem do que você sel
 </td>
 <td style="border: 0;" valign="top">
 
-Nesta imagem do **painel Camadas**, cada ícone na pilha de camadas tem um conjunto diferente de parâmetros para controlar a aparência do material. Por exemplo, a camada Argila tem o ícone de material e o ícone de mesclagem, cada um com um conjunto separado de parâmetros. A camada Pintura de rolagem também tem ícones de material e mesclagem, mas como está sendo passado o mouse, também tem uma alternância de visibilidade.
+Nesta imagem do **painel Camadas**, cada ícone na pilha de camadas tem um conjunto diferente de parâmetros para controlar a aparência do material. Por exemplo, a camada Argila tem o ícone de material e o ícone de mesclagem, cada um com um conjunto separado de parâmetros. A Camada de tinta de rolagem também tem ícones de material e mesclagem, mas como está sendo passado o mouse, também tem uma alternância de visibilidade.
 
 </td>
 </tr>

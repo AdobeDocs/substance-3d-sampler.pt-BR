@@ -60,6 +60,6 @@ Ajustar a polarização nas luzes de vídeo é diferente, mas mais fácil. Você
 
 <b>Cada fonte de luz que aparece em reflexos precisa ser polarizada</b>, portanto, pode ser necessário fechar janelas ou desligar telas.
 
-Quando configurado corretamente, você deve ser capaz de capturar um objeto como se ele fosse completamente fosco, sem reflexos e até mesmo iluminação. Assim como ver sua malha apenas com a textura da cor de base aplicada, ele permite capturar objetos reflexivos difíceis.
+Quando configurado corretamente, você deve ser capaz de capturar um objeto como se ele fosse completamente fosco, sem reflexos e até mesmo iluminação. Assim como ver sua malha apenas com a textura basecolor aplicada, ele permite capturar objetos reflexivos difíceis.
 
 Agora saiba mais sobre [como processar sua Captura 3D usando o Substance 3D Sampler](processing-advanced-3d-captures.md)!

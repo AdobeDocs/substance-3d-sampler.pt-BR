@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Use o gerador de parede de tijolo no Substance 3D Sampler para criar padrões de parede de tijolo realistas e texturas de alvenaria para materiais.
 helpx_creative_field: ""
@@ -116,12 +116,12 @@ Selecione entre várias predefinições para emular rapidamente um estilo espec�
 
 **Parâmetros Avançados**
 
-* **Intensidade de mistura do Height**: 0-1\
+* **Intensidade de Combinar**: 0-1\
   Ajuste a mesclagem do height do material de base. Um valor de 0 ignora o height do material de base e só usa os parâmetros do filtro de Parede de tijolo para gerar informações do height. Um valor de 1 usa o material de base para gerar informações sobre o height.
 * **Intensidade Normal**: 0-1\
   Ajuste a intensidade dos normais gerados pelo filtro de Parede de tijolo. Um valor 0 significa efetivamente que não há normais.
-* **Intensidade de Oclusão do ambiente**: 0-1\
-  Ajuste a força do AO. Um valor de 0 significa efetivamente que não há Oclusão ambiente.
+* **Intensidade de Oclusão de ambiente**: 0-1\
+  Ajuste a força do AO. Um valor 0 significa efetivamente que não há Oclusão de ambiente.
 
 Guia de Uso
 

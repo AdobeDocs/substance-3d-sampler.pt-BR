@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
 description: Use a ferramenta Height para AO no Substance 3D Sampler para converter mapas de height em mapas de oclusão ambiente para criação de material.
 helpx_creative_field: ""
@@ -33,17 +33,17 @@ Ferramentas de **Entrada:**
 
 ## Descrição
 
-Gere um mapa de Oclusão ambiente a partir dos dados do height e normais.
+Gere um mapa de Oclusão de ambiente a partir dos dados do height e normais.
 
 Veja os resultados do **filtro de Height para AO** nas imagens abaixo.
 
 ![](../../assets/3d-2d-filters-cropped-0025-height-to-ao-in.jpg)
 
-Na imagem acima, a **exibição 2D** exibe o mapa de heights. O material não inclui informações de Oclusão ambiente nesta imagem.
+Na imagem acima, o **Visualização 2D** exibe o mapa de altura. O material não inclui nenhuma informação de Oclusão de ambiente nesta imagem.
 
 ![](../../assets/3d-2d-filters-cropped-0024-height-to-ao-out.jpg)
 
-Nesta imagem, o Mapa de Oclusão do Ambiente foi criado pelo **filtro Height para AO** e está visível na **exibição 2D**. Em geral, a Oclusão ambiente é um efeito sutil, por isso não é muito fácil vê-la neste material. Tente usar o **filtro Height para AO** em seus materiais para aumentar a intensidade do AO e ter uma ideia de como trabalhar com a Oclusão ambiente.
+Nesta imagem, o mapa de Oclusão de ambiente foi criado pelo **Height para o filtro AO** e está visível no **Visualização 2D**. Em geral, a Oclusão ambiente é um efeito sutil, por isso não é muito fácil vê-la neste material. Tente usar o **filtro Height para AO** em seus materiais para aumentar a intensidade do AO e ter uma ideia de como trabalhar com a Oclusão ambiente.
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ Nesta imagem, o Mapa de Oclusão do Ambiente foi criado pelo **filtro Height par
 
 * **Modo**:\
   Selecione se os dados serão gerados a partir do canal de height, do canal normal ou de ambos os canais juntos.
-* **Oclusão Ambiente - Intensidade**: 0-1\
+* **Oclusão de ambiente - Intensidade**: 0-1\
   Ajustar a intensidade dos dados do AO gerados
-* **Oclusão de ambiente - Distribuição**: 0-1\
+* **Oclusão de ambiente - Páginas espelhadas**: 0-1\
   Ajustar o raio dos dados do AO gerados

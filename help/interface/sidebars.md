@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: Saiba mais sobre as barras laterais esquerda e direita na interface do Substance 3D Sampler para navegar por ferramentas, painéis e recursos do aplicativo.
 helpx_creative_field: ""
@@ -30,11 +30,11 @@ Na **Barra lateral esquerda**, você pode:
 
 * **Adicionar e importar conteúdo**: importe imagens e selecione como elas devem ser integradas ao projeto.
 * **Procure ativos 3D**: acesse milhares de materiais do Substance 3D Assets Creative Cloud Desktop.
-* Acesse **Ações rápidas**: uma coleção de ações para atingir rapidamente determinadas metas. [Saiba mais sobre **Ações rápidas &#x200B;**](../features-and-workflows/quick-actions.md)**.**
+* Acesse **Ações rápidas**: uma coleção de ações para atingir rapidamente determinadas metas. [Saiba mais sobre **Ações rápidas **](../features-and-workflows/quick-actions.md)**.**
 * Adicione rapidamente filtros à pilha de camadas:
-  * **Cortar:** corte imagens e materiais usando alças na **exibição 2D**.
+  * **Corte:** corte imagens e materiais usando alças no **Visualização 2D**.
   * **Transformação de perspectiva:** corrija erros de perspectiva com alças na exibição **2D.**
-  * **Transformar:** redimensione imagens e materiais com alças na exibição **2D.**
+  * **Transformar:** redimensione imagens e materiais com alças no **Visualização 2D**
   * **Carimbo:** pinte áreas na **exibição 2D** para corrigir emendas ou outros problemas.
 * Reabra os seguintes painéis quando eles forem fechados:
   * [O **painel Ações rápidas**.](panels/quick-actions-panel.md)

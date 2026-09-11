@@ -37,15 +37,15 @@ Mais informações [aqui](../pipeline-and-integrations/substance-connector.md).
 <b>Adicionado</b>:
 
 * [Interoperabilidade] Enviar materiais para UE5, Blender, Maya, 3DsMax Unity
-* [Content] Nova categoria do gerador de textura - Gradientes
+* [Conteúdo] Nova categoria de gerador de textura - Gradientes
 * [Conteúdo] Ferramenta HDRI - novo filtro de rotação Ambiente
 
 <b>Corrigido:</b>
 
 * [Parâmetros expostos] A exposição de valores de entrada .sbsar não funciona
-* [Camadas] A cor base fica vermelha com imagens em tons de cinza
+* [Camadas] A Cor de base fica vermelha com imagens em tons de cinza
 * [Renderização] As imagens em tons de cinza usadas em canais de cores têm espaço de cores incorreto
 * [Script] O uso de uma predefinição de exportação às vezes não exporta os canais esperados
 * [Conteúdo] Dirt - aplicar um filtro de Dirt sobre a Imagem ao Material gera um normal preto
-* [Content] Entalhe - O dimensionamento de um padrão no filtro de entalhe não é linear entre 0 e 1
+* [Conteúdo] Relevo - O dimensionamento de um padrão no filtro relevo não é linear entre 0 e 1
 * [Conteúdo] Torná-lo lado a lado - Consistência normal e de height aprimoradas

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: Saiba como usar fluxos de trabalho generativos no Substance 3D Sampler, incluindo recursos de texto para textura, texto para padrão e imagem para textura.
 helpx_creative_field: ""
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 # Fluxos de trabalho gerados
 
-O Substance 3D Sampler ajuda você a iterar rapidamente e experimentar novas ideias com facilidade usando três recursos generativos atualmente em beta: Texto para textura, Texto para padrão e Imagem para textura.
+O Substance 3D Sampler ajuda você a iterar rapidamente e experimentar novas ideias com facilidade usando três recursos generativos atualmente em beta: Texto para Textura, Texto para padrão e Imagem para Textura.
 
 ![](../assets/genai-banner.png)
 
 ## Texto para textura
 
-O recurso Texto para textura permite experimentar rapidamente as ideias que você tem para gerar texturas de um prompt de texto.
+O recurso Texto para Textura permite que você experimente rapidamente as ideias que possui para gerar texturas a partir de um prompt de texto.
 
-Para usar Texto para textura:
+Para usar o recurso Texto para Textura:
 
 1. Abra o painel <b>Gerativo (Beta) </b> na barra de ferramentas à esquerda.
 1. Escolha “<b>Textura</b>” na lista suspensa Tipo.
@@ -50,11 +50,11 @@ Para usar Texto-para-Padrão:
 1. Use <b>Gerar</b> para começar a gerar padrões. Cada uso do recurso gerará quatro variações.
 1. Você pode adicioná-lo como uma entrada de um <b>filtro de padrão</b> ou diretamente às <b>camadas</b> por meio dos botões dedicados. Você também pode adicionar o resultado à sua biblioteca de <b>Ativos</b> para encontrá-lo facilmente mais tarde.
 
-#### Imagem-para-textura
+#### Image-to-Textura
 
-A <b>Imagem para Textura</b> cria quatro proposições de <b>texturas quadradas e lado a lado</b> de qualquer <b>imagem de referência</b>, independentemente da proporção. Ele pode permitir que você <b>gere variações</b> de texturas que já possui ou crie texturas prontas para uso a partir de imagens de referência suas.
+A <b>Imagem para Textura</b> cria quatro proposições de <b>texturas quadradas e lado a lado</b> de qualquer <b>imagem de referência</b>, independentemente da proporção. Ele permite que você <b>gere variações</b> das texturas que já tem ou crie texturas prontas para uso a partir de imagens de referência suas.
 
-Para usar Imagem para textura:
+Para usar o recurso Image-to-Textura:
 
 1. Abra o painel <b>Gerativo (Beta) </b> na barra de ferramentas à esquerda.
 1. Escolha “<b>Textura</b>” na lista suspensa Tipo.

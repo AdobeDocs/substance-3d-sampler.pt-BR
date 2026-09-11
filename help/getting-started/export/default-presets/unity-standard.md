@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-standard.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Padrão de unidade para compatibilidade com o mecanismo de jogo do Unity.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Unity Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Albedo:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Cor Base</li><li data-preserve-html="true"><strong>A</strong>: Opacidade</li></ul>**Metálico:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metálico</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Normal** (OpenGL)**Height &#x200B;**&#x200B;**Oclusão**&#x200B;**Emissiva** |
+| Unity Standard | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Albedo:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: Cor Base</li><li data-preserve-html="true"><strong>A</strong>: Opacidade</li></ul>**Metálico:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: Metálico</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**Normal** (OpenGL)**Height ****Oclusão****Emissivo** |

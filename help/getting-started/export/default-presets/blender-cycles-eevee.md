@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Ciclos de mesclagem/Evee para compatibilidade com o Blender.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Ciclos de Mesclagem/Véspera | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase &#x200B;**&#x200B;**Aspereza**&#x200B;**Metálica &#x200B;**&#x200B;**Normal**&#x200B;**Deslocamento &#x200B;**&#x200B;**Emissiva**&#x200B;**Alpha** |
+| Ciclos de Mesclagem/Véspera | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase ****Aspereza****Metálica ****Normal****Deslocamento ****Emissiva****Alpha** |

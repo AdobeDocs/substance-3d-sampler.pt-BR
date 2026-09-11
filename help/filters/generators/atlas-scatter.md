@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
 description: Use o gerador de Atlas scatter no Substance 3D Sampler para dispersão elementos de atlas de textura em superfícies de material.
 helpx_creative_field: ""
@@ -57,7 +57,7 @@ Ao adicionar o **filtro de Atlas scatter** com um atlas de seixo, o material se 
   Número de instâncias no eixo X
 * **Valor Y**: 1-64\
   Número de instâncias no eixo Y
-* **Modo de Mesclagem**:\
+* **Modo Combinar**:\
   Método usado para mesclar com camadas subjacentes
 * **Escala**: 0-5\
   Escala de instâncias
@@ -125,8 +125,8 @@ Ao adicionar o **filtro de Atlas scatter** com um atlas de seixo, o material se 
   Adicione ou subtraia valores de aspereza de cada instância.
 * **Aleatório Normal**: 0-1\
   Girar normais de cada ocorrência por um valor aleatório por ocorrência
-* **Recalcular Oclusão de Ambiente**: alternar\
-  Se ativada, os valores de Oclusão ambiente serão recalculados com base nos valores de height modificados
+* **Recalcular Oclusão de ambiente**: alternar\
+  Se estiver ativado, os valores de Oclusão de ambiente serão recalculados com base nos valores de height modificados
 
 **Detecção de forma de atlas**
 
@@ -148,7 +148,7 @@ O filtro Atlas scatter é uma maneira útil de dispersão ativos em seu material
 
 Para usar o filtro Atlas scatter:
 
-1. Adicionar o filtro de Atlas scatter à pilha de camadas
+1. Adicionar o filtro Atlas scatter à sua pilha de camadas
 1. Na camada Atlas scatter, um slot de entrada aparecerá
 1. Arraste o material do atlas para o slot de entrada do Atlas scatter
 

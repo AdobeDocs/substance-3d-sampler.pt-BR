@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Use a ferramenta Multiângulo para material no Substance 3D Sampler para criar materiais a partir de fotografias de vários ângulos de uma superfície.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ O modelo **Multiângulo para material** cria um material de 2 a 8 imagens de ent
 Veja um exemplo de um material criado a partir de 8 imagens de entrada:
 
 * As oito primeiras imagens são imagens de varredura tiradas sob oito ângulos de luz.
-* As imagens inferiores são as saídas do modelo (cor base, normal, height, metálico e aspereza).
+* As imagens inferiores são as saídas do modelo (cor de base, normal, height, metálica e aspereza).
 
 ![](../../assets/scan-801x697.jpg){width="400px"}
 

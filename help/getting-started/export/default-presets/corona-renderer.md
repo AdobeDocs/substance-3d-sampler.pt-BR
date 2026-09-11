@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
 breadcrumb-title: ''
 description: Saiba mais sobre como exportar materiais do Substance 3D Sampler usando a predefinição Renderizador Corona para fluxos de trabalho de visualização arquitetônica.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Renderizador Corona | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li><li data-preserve-html="true">Specular/textura reluzente do PBR</li></ul> | **Difusa***RefletionGlossiness **(\*)** RefletionColor **(\*\*)** FresnelIOR **(\*\*\*)** Normal **&#x200B;**&#x200B;Deslocamento&#x200B;**&#x200B;** Emissiva&#x200B;**&#x200B;**&#x200B;Opacidade** |
+| Renderizador Corona | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li><li data-preserve-html="true">Specular/textura reluzente do PBR</li></ul> | **Difusões***RefletionGlossiness **(\*)** RefletionColor **(\*\*)** FresnelIOR **(\*\*\*)** Normal ****Deslocamento**** Emissivo****Opacidade** |
 
 >[!NOTE]
 >

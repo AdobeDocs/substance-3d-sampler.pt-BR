@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/water.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
 description: Use o filtro Água no Substance 3D Sampler para adicionar efeitos de água, umidade e umidade aos materiais e texturas.
 helpx_creative_field: ""
@@ -58,7 +58,7 @@ Use o **Filtro de erosão** para se desgastar em pontos altos do seu material.
 * **Máscara personalizada**: alternar\
   Quando ativado, o seguinte controle adicional é exibido:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara personalizada ou use o pincel para pintar uma máscara diretamente na **exibição 2D**.
+    Selecione uma imagem para usar como máscara personalizada ou use o pincel para tinta uma máscara diretamente no **Visualização 2D**.
 
 **Dirt**
 
@@ -82,7 +82,7 @@ Esta seção só será exibida se **Parâmetros básicos > Habilitar Dirt na Ág
 * **Distância de Umidade das Bordas**: 0-1\
   Controla a extensão da umidade das bordas em áreas secas.
 * **Quantidade de Desfoque de Profundidade**: 0-1\
-  Ajuste quanto a cor base ficará desfocada nas áreas subaquáticas.
+  Ajuste quanto a cor de base fica desfocada nas áreas subaquáticas.
 * **Opacidade do Desfoque de Profundidade**: 0-1\
   Ajuste a transparência da água.
 * **Cor do lodo**: seleção de cor\

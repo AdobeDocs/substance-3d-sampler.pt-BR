@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: Use o filtro Preenchimento no Substance 3D Sampler para preencher áreas de textura com cores sólidas ou padrões para fluxos de trabalho de criação de material.
 helpx_creative_field: ""
@@ -36,7 +36,7 @@ ht-degree: 4%
 O **Filtro de preenchimento** permite substituir ou ajustar os valores de canais específicos com base em um valor selecionado.
 No Sampler 6.0, o filtro Preenchimento adapta seus parâmetros com base no tipo de canal ao qual é aplicado. Isso garante que os controles disponíveis sempre correspondam ao significado físico e ao tipo de dados do canal selecionado, e que o filtro possa ser aplicado a qualquer mapa, mesmo a partir de fluxos de trabalho personalizados.
 
-Nas imagens abaixo, o canal de cor base foi substituído.
+Nas imagens abaixo, o canal de cor de base foi substituído.
 
 <table>
 <tr style="border: 0;">
@@ -90,9 +90,9 @@ Usado quando o filtro Preenchimento é aplicado a canais de cores.
 * Cor
 Seleciona a cor do RGB para preencher o canal.
 * Valor personalizado
-Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou pinte diretamente na **exibição 2D**.
+Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou tinta diretamente no **Visualização 2D**.
 * Semente aleatória
-Altera a aleatoriedade usada quando as variações de procedimento estão habilitadas.
+Altera a aleatoriedade usada quando variações processuais estão habilitadas.
 * Modo de mesclagem
 Determina como o preenchimento se mescla com as camadas abaixo (por exemplo: Copiar, Adicionar, Multiplicar).
 * Opacidade
@@ -116,18 +116,18 @@ Usado quando o filtro Preenchimento é aplicado a canais em tons de cinza escala
 * Valor
 Define um único valor de tons de cinza para o canal.
 * Semente aleatória
-Altera a aleatoriedade usada quando as variações de procedimento estão habilitadas.
+Altera a aleatoriedade usada quando variações processuais estão habilitadas.
 * Valor personalizado
-Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou pinte diretamente na **exibição 2D**.
+Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou tinta diretamente no **Visualização 2D**.
 * Modo de mesclagem
-Copiar, Adicionar (Subexposição linear), Subtrair, Multiplicar, Adicionar inferior, Máx (clarear), Mín (Escurecer), Alternar, Dividir, Sobreposição, Tela, Luz suave.
+Copiar, Adicionar (Subexposição linear), Subtrair, Multiplicar, Adicionar inferior, Máx (clarear), Mín (Escurecer), Alternar, Dividir, Sobreposição, Tela, Luz indireta.
 Selecione o modo de mesclagem para mesclar a entrada personalizada com as camadas abaixo.
 * Opacidade
 Ajuste a opacidade das informações do novo canal em relação às informações do canal existente. Em outras palavras, controla a opacidade da máscara usada para aplicar o novo preenchimento de canal.
 
 Esse modo é útil para definir propriedades físicas uniformes, como um valor constante de aspereza ou opacidade.
 
-#### Parâmetros de mapa normais
+#### parâmetros de mapa normal
 
 Usado quando o filtro Preenchimento é aplicado a canais **Normais**.
 
@@ -139,9 +139,9 @@ Usado quando o filtro Preenchimento é aplicado a canais **Normais**.
 ##### Parâmetros disponíveis
 
 * Semente aleatória
-Altera a aleatoriedade usada quando as variações de procedimento estão habilitadas.
+Altera a aleatoriedade usada quando variações processuais estão habilitadas.
 * Valor personalizado
-Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou pinte diretamente na **exibição 2D**.
+Alterne para abrir o mapa personalizado. Selecione uma imagem para substituir o canal selecionado ou tinta diretamente no **Visualização 2D**.
 * Opacidade
 Ajuste a opacidade das informações do novo canal em relação às informações do canal existente. Em outras palavras, controla a opacidade da máscara usada para aplicar o novo preenchimento de canal.
 
@@ -158,10 +158,10 @@ Usado para canais que dependem de um único valor físico uniforme em vez de um 
 #### Parâmetros disponíveis
 
 * Semente aleatória
-Altera a aleatoriedade usada quando as variações de procedimento estão habilitadas.
+Altera a aleatoriedade usada quando variações processuais estão habilitadas.
 * Valor
 Define o valor constante aplicado ao canal.
-* Modo de mesclagem
+* modo Combinar
 Entre normal e multiplicação
 
 Esse modo é particularmente útil ao trabalhar com comportamentos avançados de material introduzidos por meio de modelos, em que algumas propriedades são controladas por valores escalares em vez de mapas.
