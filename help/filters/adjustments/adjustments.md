@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
 description: Saiba como usar filtros de ajuste no Substance 3D Sampler para modificar as propriedades de cor, brilho, contraste e outros materiais.
 helpx_creative_field: ""

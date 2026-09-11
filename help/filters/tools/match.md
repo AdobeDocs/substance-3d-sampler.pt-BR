@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
 description: Use a ferramenta Corresponder no Substance 3D Sampler para combinar cores, tons e iluminação entre diferentes texturas e camadas de material.
 helpx_creative_field: ""

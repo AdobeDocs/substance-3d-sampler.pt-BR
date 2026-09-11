@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/project-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Projeto no Substance 3D Sampler para gerenciar arquivos de projeto, salvar trabalhos e acessar projetos recentes.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/br/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: Saiba como usar filtros personalizados no Substance 3D Sampler para ampliar a funcionalidade com filtros de Substance Designer e efeitos personalizados.
 helpx_creative_field: ''
@@ -40,7 +40,7 @@ Exporte o filtro como um arquivo de Substance Archive (.SBSAR)
 
 >[!NOTE]
 >
-> É possível expor parâmetros de filtro para controlar o filtro diretamente no Sampler. Veja instruções [aqui](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> É possível expor parâmetros de filtro para controlar o filtro diretamente no Sampler. Veja instruções [aqui](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
 
 #### Criar um filtro para modificar imagens
 

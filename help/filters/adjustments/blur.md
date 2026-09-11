@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: Use o filtro Desfoque no Substance 3D Sampler para aplicar efeitos de desfoque e reduzir a nitidez da imagem em texturas e camadas de material.
 helpx_creative_field: ""

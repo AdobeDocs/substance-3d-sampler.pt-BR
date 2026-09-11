@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Use a ferramenta Divisão em blocos gráficos automática no Substance 3D Sampler para criar automaticamente padrões de divisão em blocos gráficos perfeitos do textura usando a tecnologia AI.
 helpx_creative_field: ""

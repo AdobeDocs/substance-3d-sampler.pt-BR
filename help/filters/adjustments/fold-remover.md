@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: Use o filtro Removedor de dobra no Substance 3D Sampler para remover vincos e dobras das texturas de tecido para superfícies de material limpo.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/version-4-2.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do Substance 3D Sampler versão 4.2 para saber mais sobre os recursos de Imagem para material viabilizado por IA, Atualização de IA e controles de resolução.
 helpx_creative_field: ""

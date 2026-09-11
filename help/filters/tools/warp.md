@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: Use a ferramenta Distorcer no Substance 3D Sampler para aplicar efeitos de distorção direcional e de distorção em texturas e camadas de material.
 helpx_creative_field: ""

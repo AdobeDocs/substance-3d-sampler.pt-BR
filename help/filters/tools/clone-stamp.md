@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
 description: Use a ferramenta Carimbo de Clonar no Substance 3D Sampler para clonar e tinta áreas de textura para obter edição e reparo de material perfeitos.
 helpx_creative_field: ""

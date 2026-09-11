@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
 description: Use o filtro Matiz/saturação no Substance 3D Sampler para ajustar os valores de matiz, saturação e luminosidade em texturas e materiais.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Propriedades no Substance 3D Sampler para exibir e editar parâmetros de filtro e propriedades de material.
 helpx_creative_field: ""

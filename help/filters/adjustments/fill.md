@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: Use o filtro Preenchimento no Substance 3D Sampler para preencher áreas de textura com cores sólidas ou padrões para fluxos de trabalho de criação de material.
 helpx_creative_field: ""

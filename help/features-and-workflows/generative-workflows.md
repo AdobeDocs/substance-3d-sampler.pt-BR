@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: Saiba como usar fluxos de trabalho generativos no Substance 3D Sampler, incluindo recursos de texto para textura, texto para padrão e imagem para textura.
 helpx_creative_field: ""

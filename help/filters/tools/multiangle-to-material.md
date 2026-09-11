@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Use a ferramenta Multiângulo para material no Substance 3D Sampler para criar materiais a partir de fotografias de vários ângulos de uma superfície.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Use o filtro Rachaduras no Substance 3D Sampler para adicionar padrões de rachadura realistas e efeitos de danos na superfície aos materiais.
 helpx_creative_field: ""

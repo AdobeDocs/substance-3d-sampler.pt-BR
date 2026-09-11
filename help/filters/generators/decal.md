@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Use o gerador de decalques no Substance 3D Sampler para criar padrões de decalques e texturas de sobreposição para superfícies de material.
 helpx_creative_field: ""

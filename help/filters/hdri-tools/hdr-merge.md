@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
 description: Use a ferramenta Mesclagem de HDR no Substance 3D Sampler para mesclar várias imagens de exposição em uma única imagem de intervalo dinâmico.
 helpx_creative_field: ""

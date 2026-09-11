@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
 breadcrumb-title: ''
 description: Revise as notas de versão do Substance 3D Sampler versão 0.8.0 para saber mais sobre novos recursos, atualizações e melhorias.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
 description: Saiba como gerenciar projetos no Substance 3D Sampler usando coleções para organizar ativos e materiais para fluxos de trabalho eficientes.
 helpx_creative_field: ""

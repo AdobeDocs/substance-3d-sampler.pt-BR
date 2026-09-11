@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Camadas no Substance 3D Sampler para gerenciar camadas de filtro e criar pilhas de materiais complexas.
 helpx_creative_field: ""

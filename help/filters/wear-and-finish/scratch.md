@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Use o filtro Rascunho no Substance 3D Sampler para adicionar marcas de rascunho realistas e efeitos de danos na superfície dos materiais.
 helpx_creative_field: ""

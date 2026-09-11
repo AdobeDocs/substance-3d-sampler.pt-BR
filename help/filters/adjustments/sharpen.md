@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
 description: Use o filtro Tornar Nítido no Substance 3D Sampler para aprimorar a nitidez da imagem e os detalhes em texturas e camadas de material.
 helpx_creative_field: ""

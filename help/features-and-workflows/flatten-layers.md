@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: Saiba como nivelar camadas no Substance 3D Sampler para melhorar o desempenho e simplificar sua pilha de camadas e, ao mesmo tempo, entender o impacto.
 helpx_creative_field: ""

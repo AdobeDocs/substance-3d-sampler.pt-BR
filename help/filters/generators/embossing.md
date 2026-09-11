@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: Use o gerador de entalhe no Substance 3D Sampler para criar padrões em alto-relevo e efeitos de relevo de superfície elevados nos materiais.
 helpx_creative_field: ""

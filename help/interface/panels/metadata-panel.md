@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/panels/metadata-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Metadados no Substance 3D Sampler para adicionar e gerenciar informações de metadados para seus materiais.
 helpx_creative_field: ""

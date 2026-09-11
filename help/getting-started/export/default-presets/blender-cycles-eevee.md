@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
 description: Saiba como exportar materiais do Substance 3D Sampler usando a predefinição Ciclos de mesclagem/Evee para compatibilidade com o Blender.
 helpx_creative_field: ""

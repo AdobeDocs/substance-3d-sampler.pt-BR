@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/splatter.html"
 breadcrumb-title: ''
 description: Use o gerador de respingos no Substance 3D Sampler para criar efeitos de respingos de tinta e padrões aleatórios para texturas de material.
 helpx_creative_field: ""

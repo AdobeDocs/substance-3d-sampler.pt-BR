@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: Use o gerador de cascalho no Substance 3D Sampler para criar texturas realistas de granulado de cascalho e pedra para materiais.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/br/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: Saiba como criar e usar filtros compostos no Substance 3D Sampler para combinar vários filtros em camadas reutilizáveis únicas.
 helpx_creative_field: ''

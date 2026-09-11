@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
 description: Use o gerador de Perfuração no Substance 3D Sampler para criar padrões perfurados e matrizes de orifícios em materiais e texturas.
 helpx_creative_field: ""

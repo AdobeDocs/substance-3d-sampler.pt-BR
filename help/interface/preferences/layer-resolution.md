@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Saiba como configurar a resolução da camada no Substance 3D Sampler para controlar a resolução de camadas individuais na pilha de materiais.
 helpx_creative_field: ""
