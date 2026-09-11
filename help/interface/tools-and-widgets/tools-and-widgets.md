@@ -22,7 +22,7 @@ As ferramentas disponíveis na barra lateral esquerda são atalhos para um acess
 * [Cortar](../../filters/tools/crop-tool.md)
 * [Transformação de perspectiva](../../filters/tools/perspective-correction.md)
 * [Transformação](../../filters/tools/transform.md)
-* [Carimbo do clone](../../filters/tools/clone-stamp.md)
+* [Carimbo de Clonar](../../filters/tools/clone-stamp.md)
 
 As ferramentas e funcionalidades sem filtro estão descritas nos seguintes artigos:
 

@@ -31,10 +31,10 @@ Essa página lista todos os atalhos de teclado disponíveis e suas ações.
 | Salvar | Ctrl + S | ⌘ + S |
 | Salvar como | Ctrl + Shift + S | ⌘ + Shift + S |
 | Exportar | Ctrl + E | ⌘ + E |
-| Somente exibição 3D | 3 | 3 |
-| Somente exibição 2D | 2 | 2 |
+| Somente Visualização 3D | 3 | 3 |
+| Somente Visualização 2D | 2 | 2 |
 
-## Atalhos de visualização 3D
+## Atalhos do Visualização 3D
 
 | *Ação* | *Windows* | *MacOS* |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ Essa página lista todos os atalhos de teclado disponíveis e suas ações.
 | Rotação do ambiente | Shift + Mouse para a direita | Shift + Mouse para a direita |
 | Visibilidade do ambiente | 1 | 1 |
 
-## Atalhos de exibição 2D
+## Atalhos do Visualização 2D
 
 <table data-preserve-html="true" style="width: 50.061%;">
 <colgroup><col style="width: 39.9838%;"/><col style="width: 30.5565%;"/><col style="width: 29.5004%;"/></colgroup><tbody><tr><th><i>Ação</i></th>
@@ -72,7 +72,7 @@ Essa página lista todos os atalhos de teclado disponíveis e suas ações.
 </tr><tr><td>Foco</td>
 <td>F</td>
 <td>F</td>
-</tr><tr><td>Textura lado a lado</td>
+</tr><tr><td>Lado a lado da textura</td>
 <td>T</td>
 <td>T</td>
 </tr><tr><td>Percorrendo canais</td>
@@ -130,7 +130,7 @@ Essa página lista todos os atalhos de teclado disponíveis e suas ações.
 </tr><tr><td>Transformação centralizada + manter proporção</td>
 <td>Shift + CTRL + Mouse para a esquerda</td>
 <td>Shift + <span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Mouse para a esquerda</td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="Cor do plano de fundo: cinza"><b>Carimbo do clone</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="Cor do plano de fundo: cinza"><b>Carimbo de Clonar</b></td>
 </tr><tr><td>Nova fonte</td>
 <td>CTRL + Mouse esquerdo</td>
 <td><span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + Mouse à Esquerda</td>

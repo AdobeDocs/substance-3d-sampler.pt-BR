@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Ajustes
 
-Os filtros de ajuste permitem ajustar os valores do material. A maioria dos filtros de ajuste permite direcionar canais específicos para dar a você controle total sobre a aparência do material. Ao ajustar um canal específico, é uma boa ideia usar a **exibição 2D** para exibir os canais que você está modificando, em vez de depender exclusivamente da **exibição 3D**. A **exibição 2D** pode facilitar a identificação de erros ou problemas em um canal.
+Os filtros de ajuste permitem ajustar os valores do material. A maioria dos filtros de ajuste permite direcionar canais específicos para dar a você controle total sobre a aparência do material. Ao ajustar um canal específico, é uma boa ideia usar o **Visualização 2D** para exibir os canais que você está modificando, em vez de depender exclusivamente da **exibição 3D**. O **Visualização 2D** pode facilitar a detecção de erros ou problemas em um canal.
 
 Abaixo há uma lista de filtros de ajuste:
 

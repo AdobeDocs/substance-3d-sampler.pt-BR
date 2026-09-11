@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrição
 
-Corrija a base da luz ambiente para ocultar artefatos ou emendas.
+Corrija a base da sua iluminação do ambiente para ocultar artefatos ou emendas.
 
 Nas imagens abaixo, você pode ver como o **Nadir patch** é usado para remover o suporte da câmera nesta imagem panorâmica.
 
@@ -49,9 +49,9 @@ Nas imagens abaixo, você pode ver como o **Nadir patch** é usado para remover 
 
 * **Habilitar**: alternar\
   Ativar ou desativar o patch - isso pode ser útil para ver rapidamente o impacto do patch sem precisar alterar a visibilidade da camada.
-* **Mostrar auxiliar de quadros**: alternar\
+* **Mostrar Auxiliar de Quadros**: alternar\
   Ative ou desative os Quadros.
-* **Thickness de quadros**: 0-1\
+* **Thickness DO Quadro**: 0-1\
   Ajuste o thickness do quadro. Isso pode ser útil quando a origem do patch está longe do nadir.
 * **Escala de correção**: 0-1\
   Ajuste o limite da área a ser corrigida.
@@ -62,7 +62,7 @@ Nas imagens abaixo, você pode ver como o **Nadir patch** é usado para remover 
 * **Alpha de patch**:\
   Selecione a forma usada para mascarar o patch. Se a **Entrada de máscara** estiver selecionada, um parâmetro adicional será exibido:
   * **Entrada de máscara**: imagem/pincel\
-    Importe uma imagem para usar como máscara ou pinte uma máscara diretamente na **exibição 2D**.
+    Importe uma imagem para usar como máscara ou tinta uma máscara diretamente no **Visualização 2D**.
 * **Dureza do patch**: 0-1\
   Ajuste o desfoque nas bordas da máscara de correção.
 * **Deslocamento da Rotação da Origem**: 0-1\
@@ -70,9 +70,9 @@ Nas imagens abaixo, você pode ver como o **Nadir patch** é usado para remover 
 
 ## Guia de Uso
 
-Um problema comum que pode ocorrer ao criar uma luz ambiente a partir de fotografias são artefatos que ocorrem em torno das extremidades superior e inferior da textura. O **filtro** filtro **do** do Nadir patch ajuda a minimizar esses problemas.
+Um problema comum que pode ocorrer ao criar uma iluminação do ambiente a partir de fotografias são artefatos que ocorrem em torno das extremidades superior e inferior da textura. O **filtro** filtro **do** do Nadir patch ajuda a minimizar esses problemas.
 
 1. Adicione o **filtro de Nadir patch** ao topo da pilha de camadas.
-1. Use o identificador no **modo de exibição 2D** para alterar o local de origem do patch.
-   1. O nadir corrigido muda dependendo do local da origem. Se a fonte estiver na metade inferior do espaço de textura, a base será corrigida; se a fonte estiver na metade superior, a base será corrigida.
-1. Modifique os parâmetros para ajustar a transformação da correção para ocultar melhor costuras e artefatos.
+1. Use o identificador no **Visualização 2D** para alterar o local de origem do patch.
+   1. O nadir corrigido muda dependendo do local da origem. Se a fonte estiver na metade inferior do espaço da textura, a base será corrigida; se a fonte estiver na metade superior, a base será corrigida.
+1. Modifique os parâmetros para ajustar o transformo do patch e ocultar melhor costuras e artefatos.

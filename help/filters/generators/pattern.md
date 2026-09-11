@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
-description: Use o gerador de padrões no Substance 3D Sampler para criar padrões de procedimentos e designs repetidos para texturas de material.
+description: Use o gerador de padrões no Substance 3D Sampler para criar padrões processuais e designs repetidos para texturas de material.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pattern
 helpx_experience_level: ""
@@ -62,7 +62,7 @@ Adicione um padrão ao seu material usando uma das opções disponíveis ou use 
 
 * <b>Propagação Aleatória</b>: 0-1\
   A distribuição aleatória determina os valores aleatórios de outros parâmetros que usam a aleatoriedade neste filtro.
-* <b>Padrão </b>: seletor de imagens e/ou pintura\
+* <b>Padrão </b>: seletor de imagens e/ou tinta\
   Selecione um padrão no gerador de textura ou importe um
 * <b>Seleção de modo de cores </b>: apenas material ou cor\
   O modo <b>Material</b> influencia todos os *canais PBR* e o modo <b>Somente cor</b> somente influencia a *BaseColor* do material.
@@ -78,11 +78,11 @@ Adicione um padrão ao seu material usando uma das opções disponíveis ou use 
   Definir a aspereza da cor selecionada, depende da <b>Quantidade de cores</b>
 * <b>Metálico</b>: 0-1\
   Definir a aspereza da cor selecionada, depende da <b>Quantidade de cores</b>
-* <b>Modo de entalhe</b>: alternar\
-  Selecione a direção de Entalhe da cor selecionada, dependendo da <b> Quantidade de cor</b>
-* <b>Intensidade de entalhe: </b>0-1<b>\
+* <b>Modo Relevo</b>: alternar\
+  Selecione a direção do Relevo da cor selecionada, depende da <b> Quantidade de cor</b>
+* <b>Intensidade de Relevo: </b>0-1<b>\
   </b>Ajuste a intensidade do entalhe da cor selecionada, depende da<b> Intensidade da cor</b>
-* <b>Distância de Entalhe: </b>0-1\
+* <b>Distância do Relevo: </b>0-1\
   Esticar e suavizar a zona de entalhe da cor selecionada, depende da <b> Quantidade de cor</b>
-* <b>Entalhe De Granulação: </b>0-1\
+* <b>Granulação do Relevo: </b>0-1\
   Adicionar granulação na cor selecionada, depende da <b>Quantidade de cores</b>

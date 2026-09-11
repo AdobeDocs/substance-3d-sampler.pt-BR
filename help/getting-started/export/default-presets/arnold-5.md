@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase &#x200B;**&#x200B;**Aspereza**&#x200B;**Metalidade**&#x200B;**Normal** (OpenGL)**Deslocamento &#x200B;**&#x200B;**Emissiva**&#x200B;**&#x200B; Opacidade** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **CorBase &#x200B;**&#x200B;**Aspereza**&#x200B;**Metalidade**&#x200B;**Normal** (OpenGL)**Deslocamento &#x200B;**&#x200B;**Emissivo**&#x200B;**&#x200B; Opacidade** |

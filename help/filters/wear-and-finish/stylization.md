@@ -61,7 +61,7 @@ As imagens abaixo mostram o material da casca antes e depois da aplicação do f
 
 <b>Pintado à Mão</b>
 
-    Esta predefinição aplica mais contraste do que as anteriores, ela imita pinceladas manuais de guache ou tinta a óleo
+    Esta predefinição aplica mais contraste do que as anteriores, imitando pinceladas manuais de guache ou tinta a óleo
 
 ## Parâmetros básicos
 
@@ -165,10 +165,10 @@ As imagens abaixo mostram o material da casca antes e depois da aplicação do f
   Permitir que o Sampler recalcule o normal seguindo as alterações que foram aplicadas ao material
 
 * <b>Intensidade Normal</b>: 0-1 \
-  Ajustar a intensidade do mapa normal
+  Ajuste a intensidade do Mapa normal
 
 * <b>Suavização Normal</b>: 0-1\
   Suavize o normal para obter uma aparência mais suave para o material
 
-* <b>Intensidade de Oclusão do ambiente</b>: 0-1\
+* <b>Intensidade de Oclusão de ambiente</b>: 0-1\
   Ajustar o nível de contraste no mapa do AO

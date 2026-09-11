@@ -62,7 +62,7 @@ Compare os ladrilhos limpos acima com o filtro de dirt aplicado a eles abaixo.
   Ajuste o nível de contraste entre as diferentes manchas de dirt para controlar como a dirt se mescla com o material subjacente.
 
 * <b>Opacidade do Dirt</b>: 0-1 \
-  Controla o nível de transparência da dirt no canal de cor base. 1 está completamente opaco.
+  Controla o nível de transparência da dirt no canal de cor de base. 1 está completamente opaco.
 
 * <b>Cor do Dirt</b>: 0-1 \
   Selecione a cor da dirt.
@@ -74,10 +74,10 @@ Compare os ladrilhos limpos acima com o filtro de dirt aplicado a eles abaixo.
   Definir o quão reflexiva é a superfície do dirt
 
 * <b>Height DO Dirt</b>: 0-1 \
-  Controla o impacto do dirt no mapa de Heights
+  Controla o impacto do dirt no mapa de Altura
 
 * <b>Intensidade Normal Do Dirt</b>: 0-1 \
-  Controla o quanto o nível de dirt afeta o mapa Normal
+  Controla o quanto o nível de dirt afeta o Mapa normal
 
 * <b>Usar imperfeições de superfície</b>: alternar \
   Ative ou desative o uso de uma imperfeição de superfície. Se ativado, um controle adicional será exibido:

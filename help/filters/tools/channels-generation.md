@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
-description: Use a ferramenta Geração de canais no Substance 3D Sampler para gerar canais de textura de mapas existentes para criação de material.
+description: Use a ferramenta Geração de canais no Substance 3D Sampler para gerar canais de textura a partir de mapas existentes para criação de material.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channels Generation
 helpx_experience_level: ""

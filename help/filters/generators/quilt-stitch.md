@@ -74,7 +74,7 @@ Emule um padrão de colcha costurada em seus materiais com este filtro.
   Habilite para adicionar uma linha e ver seção de parâmetro relevante
 * **Colagem**: alternar\
   Ative para adicionar a proteção e consulte a seção de parâmetro relevante
-* **Pintura de borda**: alternar\
+* **Tinta de borda**: alternar\
   Habilite para pintar a borda entre as seções acolchoadas e veja a seção de parâmetro relevante
 * **Avançado**: alternar\
   Habilite para ver os parâmetros **Avançados**
@@ -124,6 +124,6 @@ Emule um padrão de colcha costurada em seus materiais com este filtro.
 **Avançado**
 
 * **Height DO Material de base**: 0-1\
-  Ajustar a intensidade do mapa de height a partir do material subjacente
+  Ajustar a intensidade do mapa de altura a partir do material subjacente
 * **Intensidade Normal**: 0-1\
   Ajuste a intensidade das alterações normais do mapa devido ao filtro **Colagem de costura**. Isso não afeta o normal do material subjacente.

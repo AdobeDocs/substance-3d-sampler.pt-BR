@@ -60,7 +60,7 @@ Se você tiver 2 ou mais fotografias com foco diferente, carregue-as em camadas 
 
 Selecione todas as camadas e vá para <b>Editar</b> > <b>Alinhar camadas automaticamente</b>. Toque em OK com as configurações padrão. O Photoshop tentará fazer um alinhamento perfeito de pixels de todas as camadas selecionadas
 
-Em seguida, vá para <b>Editar</b> > <b>Mesclar camadas automaticamente</b>. Novamente, escolha ok com todas as configurações padrão. O Photoshop mesclará as partes mais nítidas das camadas.
+Em seguida, vá para <b>Editar</b> > <b>Camadas de Combinar automática</b>. Novamente, escolha ok com todas as configurações padrão. O Photoshop mesclará as partes mais nítidas das camadas.
 
 Se tudo correu bem, agora você tem uma fotografia perfeita. Vale a pena transformar pelo menos algumas dessas etapas em uma ação gravada, para poupar seu tempo.
 

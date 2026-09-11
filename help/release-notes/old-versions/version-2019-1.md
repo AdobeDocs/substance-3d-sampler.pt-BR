@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
-description: Consulte as notas de versão do Substance 3D Sampler versão 2019.1 para saber mais sobre gerenciamento de projetos, melhorias na pilha de camadas e atualizações mais interessantes.
+description: Revise as notas de versão do Substance 3D Sampler versão 2019.1 para saber mais sobre gerenciamento de projetos, melhorias de pilha de camadas e atualizações mais interessantes.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Old Versions > Version 2019.1
 helpx_experience_level: ""
@@ -50,17 +50,17 @@ Para saber mais sobre projetos, consulte: [Gerenciamento de Projetos](../../gett
 
 Melhoramos nosso delighter, usado para remover sombras de suas fotos. Ele agora preserva detalhes e as cores originais das várias superfícies, o que deve melhorar a precisão dos materiais gerados.
 
-### Nova pilha de camadas
+### Nova Pilha de camadas
 
 ![](../../assets/sa-notes-layerstack.png)
 
-A pilha de camadas foi recriada do zero para expandir suas possibilidades e ações. As mudanças notáveis são:
+A Pilha de camadas foi reconstruída do zero para expandir suas possibilidades e ações. As mudanças notáveis são:
 
 * **Materiais e máscaras agora podem ser acessados diretamente por meio de seu ícone dedicado**\
-  Ao adicionar um material na pilha de camadas, ele terá agora um novo ícone de máscara. Clicar neste segundo ícone exibirá os parâmetros de mesclagem do material.
+  Ao adicionar um material na pilha de camadas, agora ele terá um novo ícone de máscara. Clicar neste segundo ícone exibirá os parâmetros de mesclagem do material.
 
   ![](../../assets/sa-notes-layermask.png)
-* **O modo de mesclagem pode ser alterado diretamente na barra de ferramentas**\
+* **o modo Combinar pode ser alterado diretamente da barra de ferramentas**\
   De agora em diante, quando uma camada de material é selecionada, seu modo de mesclagem pode ser alterado diretamente na barra de ferramentas Pilha de camadas, sem a necessidade de clicar na máscara.
 
   ![](../../assets/sa-notes-layerstackblendmode.png)
@@ -80,11 +80,11 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 
   ![](../../assets/sa-notes-cameramode.png)
 * **Campo de exibição da câmera**\
-  Agora você pode alterar o campo de visualização (CDV) da câmera do visor. Ajustar esse valor pode ajudar a visualizar seus materiais de forma realista. O Campo de Exibição só pode ser controlado quando está no modo de projeção em Perspectiva.
+  Agora você pode alterar o campo de visualização (CDV) da câmera do visor. Ajustar esse valor pode ajudar a visualizar seus materiais de forma realista. O campo de visão só pode ser controlado quando estiver no modo de projeção de Perspectiva.
 
   ![](../../assets/sa-notes-viewport-fov.png)
 * **Resolução e profundidade de bits por canal**\
-  A visualização 2D agora exibe a resolução da textura e a profundidade de bits de cada canal.
+  A Visualização 2D agora exibe a resolução e a profundidade de bits da textura de cada canal.
 
   ![](../../assets/sa-notes-2dviewresolutiondepth.png)
 
@@ -101,7 +101,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 **Corrigido:**
 
 * [Camadas] Mover camadas para duas ou mais camadas abaixo ou acima
-* [Criar] Alocação de orçamento de VRAM suficiente para ter bons desempenhos
+* [Criar] Alocação de orçamento VRAM suficiente para ter bons desempenhos
 
 **Problemas Conhecidos:**
 
@@ -132,7 +132,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Camadas] Possibilidade de atualizar para a versão mais recente das camadas desatualizadas por meio da notificação
 * [Project] Novos campos de metadados na criação do projeto
 * [Inspirar] As variações geradas são específicas de um projeto
-* [2D View] Alternar entre as entradas e as saídas de camada e de material
+* [Visualização 2D] Alternar entre as entradas e as saídas de camada e de material
 * [Tela de boas-vindas] Opção Adicionar projeto de importação (.alch)
 * [Preferências] Nova janela Preferências para definir o local do cache e as configurações de privacidade analítica
 * [UI] Novos botões de interface
@@ -147,7 +147,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 
 * [Camadas] Parâmetro Desfazer entrada de imagem ao excluir a camada
 * [Camadas] Corrigir uma falha ao adicionar uma camada de correção de clone
-* [Camadas] Corrigir algumas falhas ao mesclar materiais de pilha de camadas em outros materiais de pilha de camadas
+* [Camadas] Corrigir algumas falhas ao mesclar camadas para empilhar materiais em outros materiais de pilha de camadas
 * [Exportar] A seleção de canais para exportação agora é respeitada
 * [Recursos] Não falham ao navegar no painel Recursos
 * [Recursos] Corrigir falha ao importar arquivos de Substance corrompidos
@@ -191,7 +191,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Camadas] Possibilidade de atualizar para a versão mais recente das camadas desatualizadas por meio da notificação
 * [Project] Novos campos de metadados na criação do projeto
 * [Inspirar] As variações geradas são específicas de um projeto
-* [2D View] Alternar entre as entradas e as saídas de camada e de material
+* [Visualização 2D] Alternar entre as entradas e as saídas de camada e de material
 * [Tela de boas-vindas] Opção Adicionar projeto de importação (.alch)
 * [Preferências] Nova janela Preferências para definir o local do cache e as configurações de privacidade analítica
 * [UI] Novos botões de interface
@@ -206,7 +206,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 
 * [Camadas] Parâmetro Desfazer entrada de imagem ao excluir a camada
 * [Camadas] Corrigir uma falha ao adicionar uma camada de correção de clone
-* [Camadas] Corrigir algumas falhas ao mesclar materiais de pilha de camadas em outros materiais de pilha de camadas
+* [Camadas] Corrigir algumas falhas ao mesclar camadas para empilhar materiais em outros materiais de pilha de camadas
 * [Exportar] A seleção de canais para exportação agora é respeitada
 * [Recursos] Não falham ao navegar no painel Recursos
 * [Recursos] Corrigir falha ao importar arquivos de Substance corrompidos
@@ -236,7 +236,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 
 **Adicionado:**
 
-* [Mesclar] Novo modo de mesclagem de opacidade
+* [Combinar] Novo modo de Combinar de opacidade
 * [Engine] Nova versão do Substance Engine
 
 **Corrigido:**
@@ -245,7 +245,7 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Camadas] Corrigir falha ao remover a camada inferior
 * [Camadas] Corrigir falha enquanto o nome do material contém caracteres especiais
 * [Camadas] Parar de computar todos os filtros que usam um widget
-* [Camadas] Evitar falhas ao usar os filtros Patch de clone e Preenchimento sensível ao conteúdo
+* [Camadas] Evitar falhas ao usar os filtros Correção de Clonar e Preenchimento sensível ao conteúdo
 * [Camadas] Corrigir falha ao arrastar e soltar um filtro em slots de entrada de respingos
 * [Recursos] Corrigir falha ao vincular pastas locais ou importar recursos no Substance Alchemist
 * [Coleção] Corrigir falha ao alternar rapidamente entre os materiais
@@ -256,10 +256,10 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Ajuda] Corrigir arquivo de log de exportação
 * [Conteúdo] O filtro Aleatório funciona em todos os canais
 * [Conteúdo] O fluxo de trabalho multiangular leva em consideração todas as digitalizações
-* [Content] Mesclagem de AO correta
-* [Conteúdo] Mesclagem de curvatura correta
-* Mesclagem correta da ID de cor [Conteúdo]
-* [Content] Mesclagem de máscara personalizada Mesclagem correta
+* [Content] Combinar de AO correto
+* Mesclagem correta de Combinar de curvatura [Conteúdo]
+* Mesclagem correta do Combinar de ID de cor [Content]
+* [Content] Mesclagem correta de Combinar de máscara personalizada
 * [Conteúdo] Corrigir filtro de ajuste para modificação de aspereza
 * [Conteúdo] Corrigir filtro de Material de base para carregamento de canais normais personalizados
 * [Conteúdo] Corrigir padrão de importação personalizada do filtro de entalhe
@@ -294,10 +294,10 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Camadas] Nova interface do usuário da pilha de camadas
 * [Camadas] Selecione o modo de mesclagem diretamente na barra de ferramentas
 * [Camadas] Acessar separadamente os parâmetros de mesclagem e os parâmetros de material
-* [Camadas] Adicionar materiais diretamente nas entradas dedicadas do filtro Respingo na pilha de camadas
+* [Camadas] Adicione materiais diretamente nas entradas dedicadas do filtro Respingo na pilha de camadas
 * [Camadas] Alterar a ordem de digitalização diretamente na camada de importação de imagem
 * [Visor] Controle do campo de visão da câmera
-* [Visor] Possibilidade de alternar entre a câmera ortográfica ou de perspectiva
+* [Visor] Possibilidade de alternar entre a câmera ortográfica ou Perspectiva
 * [Visor] Resolução de vídeo e informações de profundidade de bits para cada canal
 * [Resources] Materiais de base são abertos por padrão
 * [Cache] Localizar a pasta de cache de miniaturas
@@ -308,14 +308,14 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 * [Content] Nova versão do filtro Delighter
 * [Conteúdo] Novo filtro de Preenchimento sensível ao conteúdo da imagem
 * [Conteúdo] Novo filtro de Preenchimento sensível ao conteúdo de material
-* [Content] O filtro Transformar tem uma opção de transformação segura
+* O filtro de Transformo [Content] tem uma opção de transformo seguro
 
 **Corrigido:**
 
 * Todos os erros anteriores relacionados ao Create são inválidos hoje com a nova interface do usuário e a versão da arquitetura
 * As dicas de ferramenta não ocultam os ícones na barra superior (3D, 2D, 2D/3D)
 * [Content] O filtro de respingo aceita Atlas com mapa de height completo
-* [Conteúdo] O filtro de transformação funciona em imagens (digitalização1, digitalização2,...)
+* [Conteúdo] O filtro de Transformo funciona em imagens (digitalização1, digitalização2,...)
 
 **Problemas Conhecidos:**
 
@@ -326,12 +326,12 @@ Alguns novos recursos foram adicionados ao visor, melhorando seu uso. Essas nova
 
 **Adicionado:**
 
-* [Mesclar] Novo modo de mesclagem de opacidade
+* [Combinar] Novo modo de Combinar de opacidade
 * [Engine] Nova versão do Substance Engine
 
 **Adicionado:**
 
-* [Mesclar] Novo modo de mesclagem de opacidade
+* [Combinar] Novo modo de Combinar de opacidade
 * [Engine] Nova versão do Substance Engine
 
 **Adicionado:**

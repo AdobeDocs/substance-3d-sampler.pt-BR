@@ -35,7 +35,7 @@ ht-degree: 2%
 
 Desfoque todo o material ou selecione canais específicos para desfocar.
 
-Nas imagens abaixo, o **filtro de Desfoque** foi aplicado ao canal de cor base.
+Nas imagens abaixo, o **filtro de Desfoque** foi aplicado ao canal de cor de base.
 
 <table>
 <tr style="border: 0;">

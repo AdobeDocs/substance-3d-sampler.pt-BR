@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrição
 
-Endireite o horizonte distorcendo seu ambiente na **exibição 2D**.
+Endireite o horizonte distorcendo seu ambiente no **Visualização 2D**.
 
 </td>
 </tr>
@@ -44,6 +44,6 @@ Endireite o horizonte distorcendo seu ambiente na **exibição 2D**.
 **Parâmetros básicos**
 
 * **Habilitar Correção Horizontal**: alternar\
-  Se marcada, exibe o horizonte corrigido ou exibe uma linha mostrando a linha do horizonte resultante. Desabilite esta opção e ajuste as alças na **exibição 2D** para entender melhor como esta ferramenta distorce o ambiente para ajustar o horizonte.
+  Se marcada, exibe o horizonte corrigido ou exibe uma linha mostrando a linha do horizonte resultante. Desative esta opção e ajuste as alças no **Visualização 2D** para entender melhor como essa ferramenta distorce o ambiente para ajustar o horizonte.
 * **Rotação Horizontal**: 0-1\
   Gire o ambiente. Os resultados deste parâmetro só serão visíveis se a **Habilitar Correção Horizontal** estiver habilitada.

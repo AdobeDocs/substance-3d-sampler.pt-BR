@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
-description: Use o filtro Pintura no Substance 3D Sampler para adicionar camadas de pintura, revestimentos e efeitos de superfície pintados aos materiais.
+description: Use o filtro Tinta no Substance 3D Sampler para adicionar camadas de tinta, revestimentos e efeitos de superfície pintados aos materiais.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Paint
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## Descrição
 
-O **filtro de pintura** permite cobrir o material em uma camada de pintura de thickness variável.
+O **filtro de Tinta** permite cobrir o material em uma camada de tinta de thickness variável.
 
-*Um material metálico com tinta desgastada adicionado sobre ele.*
+*Um material metálico com tinta gasta adicionado em cima dele.*
 
 <table>
 <tr style="border: 0;">
@@ -69,7 +69,7 @@ O **filtro de pintura** permite cobrir o material em uma camada de pintura de th
 * **Thickness**: 0-1\
   Ajuste a viscosidade e o thickness da tinta. Isso afeta o quanto do height subjacente e das informações normais são visíveis através da tinta.
 * **Descascar**: 0-1\
-  Adicione manchas onde a tinta descascou do material subjacente.
+  Adicione patches onde a tinta tenha se afastado do material subjacente.
 * **Granulado**: 0-1\
   Altere a granulação da superfície da tinta.
 * **Tamanho da granulação**: 1-5\
@@ -78,7 +78,7 @@ O **filtro de pintura** permite cobrir o material em uma camada de pintura de th
 **Máscara**
 
 * **Máscara de cavidade**: alternar\
-  Crie uma máscara com base nas cavidades encontradas no mapa de height. Se ativado, os seguintes parâmetros serão exibidos:
+  Crie uma máscara com base nas cavidades encontradas no mapa de altura. Se ativado, os seguintes parâmetros serão exibidos:
   * **Tamanho da Cavidade**: 0-1\
     Ajuste o intervalo de heights usado para criar a máscara de cavidade.
   * **Intensidade da cavidade**: 0-1\
@@ -88,7 +88,7 @@ O **filtro de pintura** permite cobrir o material em uma camada de pintura de th
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D.
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D.
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara.
   * **Máscara personalizada - Inverter**: alternar\
@@ -96,8 +96,8 @@ O **filtro de pintura** permite cobrir o material em uma camada de pintura de th
 
 **Parâmetros Avançados**
 
-* **Cor base**: alternar\
-  Define se o canal da cor base é afetado pelo filtro.
+* **Cor de base**: alternar\
+  Define se o canal de cor de base é afetado pelo filtro.
 * **Metálico**: alternar\
   Define se o canal metálico é afetado pelo filtro.
   * **Valor Metálico**: 0-1\
@@ -111,18 +111,18 @@ O **filtro de pintura** permite cobrir o material em uma camada de pintura de th
 * **Height**: alternar\
   Define se o canal de height é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Height - Intensidade**: 0-1\
-    Ajuste o contraste do mapa de height.
+    Ajuste o contraste do mapa de altura.
 * **Opacidade**: alternar\
   Define se o canal de opacidade é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Opacidade - Valor**: 0-1\
     Altere a opacidade do material.
 * **Emissivo**: alternar\
-  Define se o canal emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
+  Define se o canal de emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Emissivo - Cor**: seleção de cor\
-    Defina a cor do canal emissivo.
+    Defina a cor do canal do emissivo.
 * **Oclusão de ambiente**: alternar\
-  Define se o canal de oclusão ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
-  * **Oclusão Ambiente - Intensidade**: 0-1\
+  Define se o canal de oclusão de ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
+  * **Oclusão de ambiente - Intensidade**: 0-1\
     Ajuste a intensidade do AO gerado.
-  * **Oclusão Do Ambiente** **- Raio**: 0-1\
+  * **Oclusão de ambiente** **- Raio**: 0-1\
     Ajuste o raio do efeito AO.

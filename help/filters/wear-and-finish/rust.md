@@ -72,7 +72,7 @@ Nas imagens abaixo, você pode ver um material metálico antes e depois de adici
 * **Intensidade Normal Da Casca**: 0-1\
   Ajuste a visibilidade dos normais da casca.
 * **Intensidade de Height da casca**: 0-1\
-  Ajuste o impacto das cascas no mapa de height.
+  Ajuste o impacto das cascas no mapa de altura.
 
 **Gotas**
 
@@ -88,7 +88,7 @@ Nas imagens abaixo, você pode ver um material metálico antes e depois de adici
 * **Usar máscara**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D.
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D.
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara.
   * **Máscara personalizada - Inverter**: alternar\

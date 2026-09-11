@@ -85,7 +85,7 @@ Adicione chiclete descartável ao seu material. Este filtro é ótimo para criar
 * **Máscara personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. O seguinte controle será exibido se a **Máscara Personalizada** estiver habilitada:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D.
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D.
 
 **Parâmetros Avançados**
 

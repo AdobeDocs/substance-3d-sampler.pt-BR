@@ -31,7 +31,7 @@ O **Substance 3D Sampler 3.4.0** apresenta uma série de novos recursos desenvol
 Modifique materiais paramétricos em qualquer software compatível com arquivos SBSAR, como CLO, UE5, Blender, Photoshop e Illustrator, entre outros.\
 Isso agora é possível graças à nova capacidade da Sampler de expor parâmetros de ativos, permitindo acelerar iterações e se livrar de idas e vindas entre softwares da Sampler e outros.
 
-Exponha os parâmetros do material clicando em um pino.
+Exponha os parâmetros do material clicando em uma fixar.
 
 Pontos de cor o ajudarão a navegar nos parâmetros expostos e nos diferentes painéis.
 

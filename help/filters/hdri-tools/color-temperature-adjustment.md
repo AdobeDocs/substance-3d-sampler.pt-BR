@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrição
 
-Ajuste a temperatura da luz ambiente.
+Ajuste a temperatura da iluminação do ambiente.
 
 As imagens abaixo mostram como o **filtro de Color temperature adjustment** pode ser usado para fazer com que a luz de um ambiente pareça mais quente ou fria.
 
@@ -70,7 +70,7 @@ As imagens abaixo mostram como o **filtro de Color temperature adjustment** pode
 * **Máscara personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

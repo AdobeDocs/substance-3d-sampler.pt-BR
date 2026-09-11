@@ -186,7 +186,7 @@ with open(csv_path, newline='') as csvfile:
 
 ## Expor todos os parâmetros de cores
 
-Esse script apresenta o parâmetro de cor de cada camada na pilha de camadas.
+Esse script mostra o parâmetro de cor de cada camada na pilha de camadas.
 
 ### expose\_all\_color\_parameters.py
 
@@ -227,7 +227,7 @@ for layer in my_asset_layers:
 ```
 
 
-## Modelo de pilha de camadas
+## Pilha de camadas modelo
 
 Esse script adiciona automaticamente um conjunto de filtros (definidos no script) ao material atual.
 

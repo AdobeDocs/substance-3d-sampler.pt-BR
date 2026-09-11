@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/color-replace.html"
 breadcrumb-title: ''
-description: Use o filtro Substituição de cor no Substance 3D Sampler para substituir cores específicas em texturas por novos valores de cor.
+description: Use o filtro Substituição de cor no Substance 3D Sampler para substituir cores específicas no textura por novos valores de cor.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Color Replace
 helpx_experience_level: ""
@@ -50,7 +50,7 @@ As imagens abaixo mostram **Substituição de cor** em ação. Observe como as �
 * **Segmentação avançada**: alternar\
   Quando ativado, o filtro pode usar um canal separado para gerar informações de máscara a partir do canal afetado pela Substituição de cor.
   * **Máscara** **De**:\
-    Selecione um canal para agir como uma origem para a geração de máscara. Por exemplo, uma máscara do valor metálico substitui a cor de base das áreas metálicas do material
+    Selecione um canal para agir como uma origem para a geração de máscara. Por exemplo, uma máscara do valor metálico substitui a cor de base de áreas metálicas do material
 * **Substituir em**:\
   Selecione o canal afetado pela substituição de cor.
 * **Cor de destino**: seleção de cor\
@@ -70,12 +70,12 @@ As imagens abaixo mostram **Substituição de cor** em ação. Observe como as �
 
 **Máscara**
 
-Esta máscara é separada da máscara criada em **Parâmetros básicos** - você pode usar uma máscara personalizada para pintar ou usar uma imagem para especificar áreas a serem afetadas pelo filtro **Substituição de Cor** como um todo.
+Esta máscara é separada da máscara criada em **Parâmetros básicos** - você pode usar uma máscara personalizada para tinta ou usar uma imagem para especificar áreas a serem afetadas pelo filtro **Substituição de Cor** como um todo.
 
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

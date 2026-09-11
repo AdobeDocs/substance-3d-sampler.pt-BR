@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
-description: Use a ferramenta Normal para Height no Substance 3D Sampler para converter mapas normais em mapas de height para fluxos de trabalho de criação de material.
+description: Use a ferramenta Normal para Height no Substance 3D Sampler para converter mapas normais em mapas de altura para fluxos de trabalho de criação de material.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Normal to Height
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ Ferramentas de **Entrada:**
 
 Gere informações de height com base no canal normal.
 
-As imagens abaixo mostram o **filtro Normal para Height** em ação. Na primeira imagem, o mapa de heights não tem informações de heights. Na segunda imagem, depois que o **Filtro Normal para Height** **foi aplicado**, um mapa de heights realista é gerado.
+As imagens abaixo mostram o **filtro Normal para Height** em ação. Na primeira imagem, o mapa de altura não tem informações de height. Na segunda imagem, depois que o **Normal a Height** **filtro** foi aplicado, um mapa de altura realista é gerado.
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 
@@ -45,4 +45,4 @@ As imagens abaixo mostram o **filtro Normal para Height** em ação. Na primeira
 
 ## Parâmetros
 
-Este filtro não tem parâmetros. Para usá-lo, basta adicioná-lo ao topo da sua pilha de camadas.
+Este filtro não tem parâmetros. Para usá-lo, basta adicioná-lo ao topo da pilha de camadas.

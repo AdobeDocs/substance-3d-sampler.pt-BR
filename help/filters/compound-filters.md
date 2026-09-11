@@ -104,7 +104,7 @@ Um filtro composto é um arquivo **.ssafilter** que é uma pasta compactada .7zi
 
 ### Versão
 
-Usar um número de versão permite controlar as diferentes iterações. Ao abrir uma pilha de camadas em uma versão anterior do filtro composto, uma notificação será exibida sugerindo que você atualize para a versão mais recente.
+Usar um número de versão permite monitorar as diferentes iterações. Ao abrir uma pilha de camadas feita com uma versão anterior do filtro composto, será exibida uma notificação sugerindo que você atualize para a versão mais recente.
 
 ### Nó
 
@@ -143,10 +143,10 @@ Cada elemento tem 3 atributos:
   * defina a entrada do filtro composto; a ID do nó é **FilterInput**
   * defina a saída da camada composta; a ID do nó é **FilterOutput**
 * Uso: declara o uso que deseja usar. Há três opções:
-  * Uso único de cada vez e declarar link por link (baseColor, normal, height, ambientOcclusion, aspereza, metálico, difuso, specular, brilho, specularLevel, opacidade, emissivo, scan1, ...)
+  * Uso único de cada vez e declarar link por link (baseColor, normal, height, ambientOcclusion, rugosidade, metálico, difuso, specular, brilho, specularLevel, opacidade, emissivo, varredura1, ...)
   * Você também pode especificar uma lista [”baseColor”, “normal”]. O primeiro item da lista de **De** corresponderá ao primeiro item da lista de **Para**. etc.
   * Use **\*** para permitir que o Substance 3D Sampler faça a correspondência entre usos idênticos de todos os usos do nó De e do nó Para (não é possível combinar **\*** com outro link, enquanto links únicos e links de lista são possíveis entre os mesmos nós)
-* Grupo: No caso de um nó ter várias vezes o mesmo uso, você pode usar o atributo Grupo para selecionar um uso específico. Ou seja: para filtros de mesclagem, para obter a baseColor do material inferior, use *Material1* e para obter a baseColor do material superior, use *Material2*
+* Grupo: No caso de um nó ter várias vezes o mesmo uso, você pode usar o atributo Grupo para selecionar um uso específico. Ou seja: para filtros Combinar, para obter a baseColor do material inferior, use *Material1* e para obter a baseColor do material superior, use *Material2*
 
 ```JSON
 Link between two nodes  

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
-description: Use a ferramenta Torná-lo lado a lado no Substance 3D Sampler para criar automaticamente padrões de divisão em blocos gráficos contínuos a partir de texturas que não sejam de divisão em blocos gráficos.
+description: Use a ferramenta Torná-lo lado a lado no Substance 3D Sampler para criar automaticamente padrões de divisão em blocos gráficos contínuos a partir de texturas sem divisão em blocos gráficos.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Make it Tile
 helpx_experience_level: ""
@@ -64,7 +64,7 @@ Depois de **Torná-lo Lado a Lado**, este material é bem ladrilhado e, sem a li
 * **Color Equalizer**: 0-50\
   Equalize os valores de cor para diminuir a visibilidade da costura.
 * **Correspondência de Height**:\
-  Altere como os mapas de height são mesclados para as camadas superior e inferior do filtro. Para ver os resultados com mais clareza, exiba o canal de height na **exibição 2D**. Observe que a correspondência de heights não afeta outros canais além do canal do height, portanto, os normais e o AO não serão afetados pelas alterações na correspondência de heights.
+  Altere como os mapas de height são mesclados para as camadas superior e inferior do filtro. Para ver os resultados com mais clareza, exiba o canal de height no **Visualização 2D**. Observe que a correspondência de heights não afeta outros canais além do canal do height, portanto, os normais e o AO não serão afetados pelas alterações na correspondência de heights.
 
 **Parâmetros Avançados**
 

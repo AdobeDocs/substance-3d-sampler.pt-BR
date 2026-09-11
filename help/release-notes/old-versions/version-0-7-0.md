@@ -55,7 +55,7 @@ Corrigido:
 
 * Corrigir uma falha ao salvar a pilha de camadas
 * É possível adicionar um valor acima de 1 no controle deslizante de rotação do ambiente
-* Não perca os parâmetros de mesclagem quando uma camada de mesclagem for transformada para frente e para trás de uma camada de mesclagem para uma camada de material
+* Não perca os parâmetros de mesclagem quando uma camada de mesclagem for transformada para frente e para trás da camada de mesclagem para a camada de material
 * Corrigir duplicatas ao gerar variações da mesma pilha de camadas várias vezes
 * Ao reabrir um material, o Alchemist se lembra dos intervalos modificados (mínimo e máximo) dos controles deslizantes
 

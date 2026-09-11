@@ -39,7 +39,7 @@ Colorir permite adicionar cor a uma seleção de canais sem perder os detalhes.
 >
 > Embora o filtro Colorir permita que você modifique o canal normal, não é uma boa ideia fazê-lo, a menos que você tenha um bom entendimento de como o canal normal funciona e qual será o impacto no material. Esta é uma função avançada que geralmente só deve ser necessária em circunstâncias específicas.
 
-Nessas imagens, o **filtro Colorir** foi usado para ajustar a cor de base para produzir um material de madeira muito mais rico.
+Nessas imagens, o **filtro Colorir** foi usado para ajustar a cor de base e produzir um material de madeira muito mais rico.
 
 <table>
 <tr style="border: 0;">
@@ -67,12 +67,12 @@ Nessas imagens, o **filtro Colorir** foi usado para ajustar a cor de base para p
 Os parâmetros disponíveis nesta seção são alterados com base na **Seleção de Canal**.
 
 * **Seleção de Canal**:\
-  Selecione o canal que o filtro afetará. Convém visualizar o canal selecionado na visualização 2D para visualizar diretamente os resultados do filtro.
-  * ***Opções de Cores Básicas/Emissivas***
+  Selecione o canal que o filtro afetará. Convém visualizar o canal selecionado na Visualização 2D para ver diretamente os resultados do filtro.
+  * ***Opções de Cor de base/Emissivo***
     * ***Nome do Canal*** **- Cor**: seleção de cores\
       Selecione a cor usada para colorir o canal
     * ***Nome do Canal*** **- Manter Luminosidade**: alternar\
-      Se estiver ativo, os valores de Luminosidade das cores originais serão mantidos
+      Se habilitada, os valores de Luminosidade ou Luminosidade das cores originais serão mantidos
     * ***Nome do Canal*** **- Intensidade**: 0-1\
       Ajuste a intensidade do efeito Colorir.
   * ***Opções de canal normal***
@@ -87,7 +87,7 @@ Os parâmetros disponíveis nesta seção são alterados com base na **Seleção
 * **Máscara personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

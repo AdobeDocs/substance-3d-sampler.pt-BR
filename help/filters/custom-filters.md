@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## Filtros Personalizados do Substance
 
-É possível importar filtros criados com o Adobe Substance 3D Designer por meio do botão *Importar* nas ações da Pilha de Camadas.
+É possível importar filtros criados com o Adobe Substance 3D Designer por meio do botão *Importar* nas ações de Pilha de camadas.
 
 ### Criar um filtro de Substance
 
@@ -96,31 +96,31 @@ Parâmetros específicos são gerenciados globalmente pelo aplicativo. É uma ma
 
 Controle do formato normal sobre o aplicativo. Definir como DirectX no Sampler
 
-**Identificador de parâmetro**: normalformat, normal_format, $normalformat, $normal_format
+**identificador de parâmetros**: normalformat, normal_format, $normalformat, $normal_format
 
 #### Contagem de entradas
 
 Quando você deseja modificar imagens (scan1 para scanX), use o número de imagens na pilha de camadas usando o parâmetro **Contagem de Imagens**.
 
-* **Identificador de parâmetro**: input_count
+* **identificador de parâmetros**: input_count
 * **Tipo de parâmetro**: integer1
 
 #### Entrada de material
 
-Se você deseja exibir um slot de material na pilha de camadas, como o atlas scatter ou o respingo:
+Se quiser exibir um slot de material na pilha de camadas, como o atlas scatter ou o respingo:
 
-* Adicionar um novo conjunto de nós de entrada (Cor base, Normal ... )
+* Adicionar um novo conjunto de nós de entrada (Cor de base, Normal, ... )
 * Todos os nós de entrada do fundo (material inferior na pilha de camadas) devem estar no Grupo **Material1**
 * Todos os nós de entrada do primeiro material que você deseja adicionar na parte superior devem estar no Grupo **Material2** e etc. se você quiser vários slots de material.
 * Adicione um parâmetro de entrada de material:
-  * **Identificador de parâmetro**: material_input
+  * **identificador de parâmetros**: material_input
   * **Tipo de parâmetro**: integer1
 
 #### Tipo de Fluxo de Trabalho
 
 Se quiser exibir/ocultar alguns parâmetros com base no workflow do seu projeto (PBR Metálico/Aspereza ou PBR Specular/Brilho), você poderá usar o parâmetro Tipo de Workflow
 
-**Identificador de parâmetro**: workflow_type
+**identificador de parâmetros**: workflow_type
 
 **Tipo de parâmetro**: inteiro1, lista suspensa
 

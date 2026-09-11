@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
-description: Saiba como usar geradores de textura no Substance 3D Sampler para criar texturas e padrões de procedimentos para a criação de materiais.
+description: Saiba como usar geradores de textura no Substance 3D Sampler para criar texturas e padrões processuais para a criação de materiais.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-Os geradores de textura fornecem controle aprimorado sobre a criação de materiais usando as opções <b>ruídos paramétricos, padrões </b>e<b> grunges</b>. As imagens geradas podem ser usadas em mapas de máscaras ou canais.
+Os geradores de textura fornecem controle aprimorado sobre a criação de materiais usando as opções <b>ruídos paramétricos, padrões </b>e<b> grunhidos</b>. As imagens geradas podem ser usadas em mapas de máscaras ou canais.
 
 <table>
 <tr style="border: 0;">
@@ -33,25 +33,25 @@ Os geradores de textura fornecem controle aprimorado sobre a criação de materi
 </td>
 <td style="border: 0;" valign="top">
 
-Os Geradores de textura são um tipo de ativo no Substance 3D Sampler. Eles podem ser filtrados no painel Ativos com o ícone Geradores de textura.
+Geradores de Textura são um tipo de ativo no Substance 3D Sampler. Eles podem ser filtrados no painel Ativos com o ícone Textura geradores.
 
 </td>
 </tr>
 </table>
 
-## Como usar Geradores de textura
+## Como usar geradores de Textura
 
 ### Mapas de canal
 
-Arraste e solte um gerador de textura na visualização 3D, na visualização 2D ou na pilha de camadas e selecione um canal para usá-lo.
+Arraste e solte um gerador de textura na visualização 3D, ou a pilha de camadas e selecione um canal para usá-lo.
 
 ![](../assets/DndTexgen.gif)
 
-Um filtro de Preenchimento será criado na pilha com o Gerador de textura na entrada direita. Você pode acessar as propriedades do Gerador de textura no painel de propriedades.
+Um filtro de Preenchimento será criado na pilha com o Gerador de Textura na entrada direita. Você pode acessar as propriedades do Gerador de Textura no painel de propriedades.
 
 #### Filtros
 
-Alguns filtros, como <b>Assoalho</b>, usam geradores de textura padrão para máscaras de padrão. Outras pessoas trabalham com uma imagem ou um gerador de textura como o filtro <b>Padrão</b>.\
+Alguns filtros, como <b>Assoalho</b>, usam geradores de textura padrão para máscaras de padrão. Outras pessoas trabalham com uma imagem ou um Gerador de Textura como o filtro <b>Padrão</b>.\
 Nos filtros, você pode usar geradores de textura em qualquer propriedade de imagem, por exemplo, <b>máscaras personalizadas</b>.
 
 Os filtros podem sugerir que os geradores trabalhem com eles, que são exibidos no novo seletor de ativos quando você clica em uma propriedade de imagem.
@@ -62,27 +62,27 @@ Os filtros podem sugerir que os geradores trabalhem com eles, que são exibidos 
 
 Você encontrará todos os tutoriais do Substance 3D Sampler em nossa [página de aprendizado](https://creativecloud.adobe.com/cc/learn/app/substance-3d-sampler).
 
-[Design têxtil com os geradores de textura da Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/fabric-texture-generator?locale=en)
+[Design têxtil com os geradores de Textura da Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/fabric-texture-generator?locale=en)
 
 [Material em fibra de carbono em minutos com a Substance 3D Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-carbon-fiber-material?locale=en)
 
 [Material de tecido xadrez em minutos com o Substance 3D Sampler](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-plaid-fabric-material?locale=en)
 
-## Como criar geradores de textura personalizados
+## Como criar geradores de Textura personalizados
 
-Você pode importar Geradores de Textura criados com o Adobe Substance 3D Designer por meio do botão *Importar* nas ações de Pilha de Camadas. Eles devem ser criados de uma maneira específica no Designer para funcionar corretamente quando importados no Sampler.
+Você pode importar os Geradores de Textura criados com o Adobe Substance 3D Designer por meio do botão *Importar* nas ações de Pilha de camadas. Eles devem ser criados de uma maneira específica no Designer para funcionar corretamente quando importados no Sampler.
 
 ### Tipo
 
-Escolha “Gerador de textura” como gráfico<b> tipo</b>.
+Escolha “gerador de Textura” como gráfico<b> tipo</b>.
 
 ![](../assets/typetexgen.png)
 
 #### Saídas
 
-O nó de saída dos filtros do filtro deve ter o <b>identificador</b> ou o <b>uso </b> definido:
+O nó de saída dos filtros do filtro deve ter o <b>identificador</b> ou o <b>uso </b>definido:
 
-* A saída principal do Gerador de textura não deve ter nenhum uso. Em seguida, ele pode ser reconhecido como a saída principal pelo 3D Sampler.
+* A saída principal do Gerador de Textura não deve ter nenhum uso. Em seguida, ele pode ser reconhecido como a saída principal pelo 3D Sampler.
 
 <table>
 <tr style="border: 0;">
@@ -99,7 +99,7 @@ O nó de saída dos filtros do filtro deve ter o <b>identificador</b> ou o <b>us
 </tr>
 </table>
 
-* A(s) <b>saída(s) secundária(s)</b> do Gerador de Textura precisa de <b>uso</b> para ser usada.\
+* A(s) <b>saída(s) secundária(s)</b> do Gerador de Textura precisa(m) de <b>uso</b> para ser(em) usada(s).\
   O nome do Grupo seria a saída principal <b>Identificador</b>.
 
 >[!NOTE]
@@ -123,7 +123,7 @@ O nó de saída dos filtros do filtro deve ter o <b>identificador</b> ou o <b>us
 
 >[!IMPORTANT]
 >
-> Se você quiser que seu gerador de textura personalizado esteja em uma lista de ativos sugeridos do filtro, você precisa adicionar os seguintes dados do usuário em seu gráfico de Substance:
+> Se você quiser que seu gerador de Textura personalizado esteja em uma lista de ativos sugeridos de filtro, você precisa adicionar os seguintes dados de usuário em seu gráfico de Substance:
 > 
 > alchemist::sugestedfilters=[FilterName,FilterName2];
 

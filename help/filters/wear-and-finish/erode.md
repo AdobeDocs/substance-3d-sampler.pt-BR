@@ -78,7 +78,7 @@ As imagens abaixo mostram como o **Filtro de erosão** pode ser usado para adici
 * **Ranhuras**: 0-1
 * **Intensidade de Dust dos sulcos**: 0-1
 * **Intensidade de Scratches dos entalhes**: 0-1\
-  Ajuste o impacto das ranhuras nos mapas normais e de height.
+  Ajuste o impacto dos entalhes nos mapas normal e de altura.
 * **Densidade de Granulação Micro**: 0-1\
   Ajuste a densidade dos arranhões do entalhe.
 * **Intensidade de quartzo**: 0-1\

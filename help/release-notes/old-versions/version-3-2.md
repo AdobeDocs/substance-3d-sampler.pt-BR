@@ -91,12 +91,12 @@ Novos recursos de exportação foram adicionados a esta versão.
 * [Tamanho físico] Ferramenta Adicionar medida automática do Tamanho físico
 * [Tamanho físico] Adicionar ferramenta de diagnóstico de Tamanho físico
 * [Tamanho físico] Permite definir o valor z do Tamanho físico
-* [Tamanho físico] Widget de lista suspensa para definir o nível de zoom na visualização 2D
+* [Tamanho físico] Widget de lista suspensa para definir o nível de zoom no Visualização 2D
 * [Tamanho físico] Nova opção “Exibição com proporção física” no nível do menu suspenso de zoom
 * [Tamanho físico] Nova opção “Ajustar ao tamanho físico” no menu suspenso de nível de zoom
-* [Tamanho físico] Exibir a Tamanho físico na exibição 2D
+* [Tamanho físico] Exibir o Tamanho físico no Visualização 2D
 * [Tamanho físico] Exibir a Tamanho físico na viewport 3D
-* [Tamanho físico] Na caixa de diálogo de importação de imagem, mostrar profundidade de tamanho físico se houver um mapa de height importado
+* [Tamanho físico] Na caixa de diálogo de importação de imagem, mostrar profundidade de tamanho físico se houver um mapa de altura importado
 * [Tamanho físico] Mostrar o Tamanho físico no menu contextual do ativo
 * [Tamanho físico] Defina a unidade de comprimento nas Preferências
 * [Tamanho físico] Exportar texturas respeitando a proporção física
@@ -121,12 +121,12 @@ Novos recursos de exportação foram adicionados a esta versão.
 * [Content] Novo filtro de Comutação de Canal
 * [Conteúdo] Todos os filtros relevantes agora estão cientes do Tamanho físico
 * [Conteúdo] Novos ícones para acabamento de madeira
-* [Content] Todos os filtros agora são compatíveis com canais de materiais padrão de Adobe (ASM)
+* [Content] Todos os filtros agora são compatíveis com canais Adobe Standard Material (ASM)
 * Os filtros do [Content] agora podem ter uma variação de “ambiente”
 
 **Corrigido:**
 
-* [Exibição 2D] O canal permanece na lista quando removido
+* [Visualização 2D] O canal permanece na lista quando removido
 * [Aplicativo] Não é possível duplicar um ativo carregado do explorador de arquivos do sistema operacional
 * [Application] Falha ao sair
 * [Aplicativo] Às vezes, falha ao clicar em “Ativos iniciais” no painel Ativos
@@ -144,9 +144,9 @@ Novos recursos de exportação foram adicionados a esta versão.
 * [Camadas] Nenhuma atualização é sugerida quando um filtro personalizado é atualizado no disco
 * [Camadas] Às vezes, o canal normal tem um formato de pixel incorreto
 * [Camadas] Algumas camadas ainda são computadas mesmo quando não visíveis
-* [Camadas] As ferramentas de exibição 2D podem ser interrompidas ao alternar a visibilidade de uma camada
+* [Camadas] As ferramentas podem ser quebradas ao alternar a visibilidade de uma camada
 * [Camadas] A interface do usuário congela ao usar a Imagem para material (AI)
-* [Camadas] Alternar a visibilidade da camada do filtro Transformar interrompe a ferramenta de exibição 2D e pode levar a um travamento
+* [Camadas] Alternar a visibilidade da camada de filtro Transformo interrompe a ferramenta Visualização 2D e pode levar a um travamento
 * [Camadas] Muitos recálculos ao remover uma camada da pilha de camadas
 * [Camadas] Quando um filtro composto contém uma entrada/saída incomum ou personalizada, o Sampler não o calcula
 * [Desempenho] O painel de ativos é lento para abrir

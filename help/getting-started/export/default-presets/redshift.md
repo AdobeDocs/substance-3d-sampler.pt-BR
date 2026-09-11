@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Difusa &#x200B;**&#x200B;**AsperezaRefl**&#x200B;**Metalidade &#x200B;**&#x200B;**Normal**&#x200B;**Deslocamento &#x200B;**&#x200B;**Emissão**&#x200B;**Opacidade** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Difusão &#x200B;**&#x200B;**ReflRoughness**&#x200B;**Metalidade &#x200B;**&#x200B;**Normal**&#x200B;**Deslocamento &#x200B;**&#x200B;**Emissão**&#x200B;**Opacidade** |

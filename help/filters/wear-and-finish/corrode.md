@@ -58,16 +58,16 @@ O filtro de corrosão imita o efeito do ácido corroendo seu material, deixando 
 * **Intensidade de dano**: 0-1\
   Ajuste a quantidade de danos nas áreas afetadas.
 * **Intensidade de Height**: 0-1\
-  Controle o impacto dos danos no mapa de height.
+  Controle o impacto dos danos no mapa de altura.
 * **Posição de Extrusão**: alternar\
-  Mude a direção do dano no mapa de height. Quando desativado, o dano se alimenta na superfície; quando ativado, o dano se acumula para fora da superfície.
+  Alterne a direção do dano no mapa de altura. Quando desativado, o dano se alimenta na superfície; quando ativado, o dano se acumula para fora da superfície.
 
 **Máscara**
 
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D.
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D.
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara.
   * **Máscara personalizada - Inverter**: alternar\
@@ -78,7 +78,7 @@ O filtro de corrosão imita o efeito do ácido corroendo seu material, deixando 
 Alguns dos Parâmetros avançados afetam o material completo em vez de apenas as áreas modificadas por esse filtro.
 
 * **Luminosidade**: 0-1\
-  Ajuste a luminosidade ou a luminosidade para o material completo.
+  Ajuste a luminosidade ou a luminosidade do material completo.
 * **Contraste**: -1 a 1\
   Ajuste o contraste do albedo para o material completo.
 * **Alteração de matiz**: 0-1\
@@ -88,8 +88,8 @@ Alguns dos Parâmetros avançados afetam o material completo em vez de apenas as
 * **Intensidade Normal**: 0-1\
   Ajuste a intensidade do mapa normal onde ele foi afetado pelo **filtro de corrosão**.
 * **Intervalo de Heights**: 0-1\
-  Aumente o intervalo de valores no mapa de height para o material completo.
+  Aumente o intervalo de valores no mapa de altura para o material completo.
 * **Posição do Height**: 0-1\
   Desloque o height do material completo.
-* **Intensidade de Oclusão do ambiente**: 0-1\
+* **Intensidade de Oclusão de ambiente**: 0-1\
   Ajuste a intensidade do impacto do AO devido ao **filtro de corrosão**.

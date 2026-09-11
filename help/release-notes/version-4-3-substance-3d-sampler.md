@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3substance-3d-sampler.html"
 breadcrumb-title: ''
-description: Revise as notas de versão do Substance 3D Sampler versão 4.3 para saber mais sobre novos geradores de textura, filtro de bordado e ferramenta de corte de perspectiva.
+description: Revise as notas de versão do Substance 3D Sampler versão 4.3 para saber mais sobre novos geradores de textura, filtro de bordado e ferramenta de corte de Perspectiva.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Versão 4.3
 
-O <b>Substance 3D Sampler 4.3</b> apresenta um novo Conteúdo Inicial, incluindo os <b>Geradores de Textura</b>, uma nova versão do filtro <b>Bordado</b> e uma ferramenta de <b>Corte de Perspectiva</b>.
+O <b>Substance 3D Sampler 4.3</b> apresenta um novo Conteúdo Inicial, incluindo os <b>Geradores de Textura</b>, uma nova versão do filtro <b>Bordado</b> e uma ferramenta de <b>Corte de perspectiva</b>.
 
 *Data de lançamento: 25 de janeiro de 2024*
 
@@ -30,11 +30,11 @@ O <b>Substance 3D Sampler 4.3</b> apresenta um novo Conteúdo Inicial, incluindo
 
 O material incluído no Sampler foi atualizado para atender melhor às necessidades de fluxos de trabalho de <b>design industrial</b>, fluxos de trabalho de <b>moda </b> e artistas técnicos que trabalham em mídia e entretenimento terão agora mais controle sobre os aspectos técnicos da criação de texturas.
 
-## Gerador de textura
+## Gerador de Textura
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-Novos geradores de textura fornecem controle aprimorado sobre a criação de materiais usando <b>ruídos paramétricos, padrões e opções de </b>desgaste<b>.</b>  As imagens geradas podem ser usadas em mapas de máscaras ou canais, tornando mais fácil do que nunca a colaboração de equipes técnicas e criativas em design de material.
+Os novos geradores de textura proporcionam controle aprimorado sobre a criação de materiais usando <b>opções de ruídos paramétricos, padrões </b>e<b> desgastes</b>.  As imagens geradas podem ser usadas em mapas de máscaras ou canais, tornando mais fácil do que nunca a colaboração de equipes técnicas e criativas em design de material.
 
 ![](../assets/sampler4.3-texturegenerators-ezgif.com-video.gif)
 
@@ -46,13 +46,13 @@ Use o novo ícone de filtragem para analisar somente geradores de textura.
 
 ![](../assets/Embroideryv3.png)
 
-O filtro Bordado atualizado melhorou a precisão da costura e suporta até 8 cores. As entradas do material estão de volta na pilha de camadas que permite a inserção de outros metariais no patch.
+O filtro Bordado atualizado melhorou a precisão da costura e suporta até 8 cores. Os insumos do material estão de volta à pilha de camadas, o que permite a inserção de outros metariais no patch.
 
 ## Corte da perspectiva
 
 ![](../assets/PerspectiveCropTool.png)
 
-A nova ferramenta de corte de perspectiva permite cortar materiais distorcidos e digitalizações com quatro pontos de controle para remover artefatos de perspectiva e obter um ativo ladrilhável.
+A nova ferramenta Perspectiva corte permite cortar materiais distorcidos e digitalizações com quatro pontos de controle para remover artefatos de Perspectiva e obter um ativo ladrilhável.
 
 ![](../assets/sampler4.3-perspectivecrop-ezgif.com-video-gif.gif)
 
@@ -62,17 +62,17 @@ A nova ferramenta de corte de perspectiva permite cortar materiais distorcidos e
 
 O filtro de Estilização permite estilizar qualquer material para obter uma aparência de pintura à mão.
 
-## Modo de mistura no filtro Preenchimento
+## modo Combinar no filtro Preenchimento
 
 ![](../assets/Fill-Blend-mode.gif)
 
-A atualização do filtro Preenchimento introduz modos de mesclagem, permitindo multiplicar o valor, os mapas de entrada ou os geradores de textura do Preenchimento com os resultados de canal das camadas abaixo.
+A atualização do filtro Preenchimento introduz modos de Combinar, permitindo que você multiplique o valor, os mapas de entrada ou os geradores de textura do Preenchimento com os resultados de canal das camadas abaixo.
 
 ## Melhorias na camada de importação de imagem
 
 ![](../assets/Import-Layer-improvements.gif)
 
-É possível adicionar várias imagens em uma camada de importação de imagem e gerar um mapa de opacidade a partir do canal de Alpha de uma imagem.
+É possível adicionar várias imagens em uma camada de importação de imagem e gerar um mapa de opacidade a partir do canal alfa de uma imagem.
 
 ## Nota de versão
 
@@ -80,24 +80,24 @@ A atualização do filtro Preenchimento introduz modos de mesclagem, permitindo 
 
 <b>Adicionado</b>:
 
-* [Assets] Novo tipo de ativo: Geradores de textura
+* [Assets] Novo tipo de ativo: Geradores de Textura
 * [Ativos] Novos materiais incluídos nos Ativos de Iniciante
 * [Ativos] Novo seletor de ativos para parâmetros de imagem no painel Propriedades
-* [Ativos] Arraste e solte Geradores de textura do painel Ativos para os seletores de imagem no painel Propriedades
-* [Assets] Arraste e solte Geradores de textura do explorador de arquivos do sistema operacional
+* [Ativos] Arraste e solte Geradores de Textura do painel Ativos para os seletores de imagem no painel Propriedades
+* [Assets] Arrastar e soltar geradores de Textura do explorador de arquivos do sistema operacional
 * [Ativos] Os filtros podem sugerir o ajuste de geradores por meio de uma tag de usuário na entrada da imagem
-* [Assets] Os geradores de textura podem definir qual filtro deve sugerir por meio de uma tag de usuário
-* [Conteúdo] Novo filtro Corte de perspectiva
+* [Assets] Os geradores de Textura podem definir qual filtro deve sugerir por meio de uma tag de usuário
+* [Conteúdo] Novo filtro de Corte de Perspectiva
 * [Conteúdo] Novo filtro de estilização
 * [Conteúdo] Modo de mesclagem no Filtro de preenchimento
 * [Content] Filtro de bordado atualizado
-* [Content] Filtro de quebra de tinta atualizado
-* [Content] Todos os filtros atualizados para oferecer suporte a Geradores de textura
-* [Camadas] Capacidade de escolher um canal de saída do Gerador de textura ao adicioná-lo à pilha de camadas
-* [Camadas] Capacidade de listar e aplicar facilmente predefinições em geradores de textura
-* [Camadas] Exibir uma visualização do Gerador de textura nos seletores de imagem
-* [Camadas] Os parâmetros do gerador de textura podem ser expostos e exportados
-* [Camadas] Atribua o uso de Cor base ao importar uma única imagem com o Modelo de criação de importação de textura
+* [Content] Filtro de quebra de Tinta atualizado
+* [Content] Todos os filtros foram atualizados para oferecer suporte a Geradores de Textura
+* [Camadas] Capacidade de escolher um canal de saída do Gerador de Textura ao adicioná-lo à pilha de camadas
+* [Camadas] Capacidade de listar e aplicar facilmente predefinições em geradores de Textura
+* [Camadas] Exibir uma visualização do Gerador de Textura nos seletores de imagem
+* [Camadas] Os parâmetros do Gerador de Textura podem ser expostos e exportados
+* [Camadas] Atribua o uso de Cor de base ao importar uma única imagem com o Modelo de criação de importação de Textura
 * [Camadas] Feedback ao tentar arrastar e soltar arquivos incompatíveis em seletores de imagem no painel Propriedades
 * [Camadas] Gerar um canal de opacidade a partir do canal alfa de uma imagem importada
 * [Camadas] A imagem para material (AI) é mais rápida de calcular ao alterar sua categoria
@@ -110,7 +110,7 @@ A atualização do filtro Preenchimento introduz modos de mesclagem, permitindo 
 * [Aplicativo] Aprimorar a exibição de ativos desatualizados
 * [Scripting] Novas funções asset.documentResolution() e asset.setDocumentResolution()
 * [Scripting] Nova função select\_asset()
-* [Scripting] API Python para geradores de textura
+* [Scripting] API Python para geradores de Textura
 * [Scripting] get\_project\_assets() agora retorna objetos 3D
 * [IU] O tamanho da miniatura do ativo pode ser alterado no painel Ativos
 * [UI] Ícones de exibição atualizados do visor

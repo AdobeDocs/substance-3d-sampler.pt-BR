@@ -22,9 +22,9 @@ ht-degree: 4%
 
 ![](../assets/Capture-decran-2025-02-19-162128.png.img.png)
 
-O modelo de **Importação de textura** carrega várias imagens e as conecta automaticamente aos canais de saída corretos com base em seus nomes de arquivo.
+O modelo de **Importação de Textura** carrega várias imagens e as conecta automaticamente aos canais de saída corretos com base em seus nomes de arquivo.
 
-A correspondência de canais se baseia nas convenções de nomenclatura específicas detalhadas abaixo. No caso de duplicatas ou texturas sem uma correspondência, as imagens serão marcadas como tal na interface.
+A correspondência de canais se baseia nas convenções de nomenclatura específicas detalhadas abaixo. No caso de duplicatas ou texturas sem correspondência, as imagens serão marcadas como tal na interface.
 
 ## OpenPBR
 
@@ -35,7 +35,7 @@ O Sampler fará a correspondência dos arquivos com os seguintes identificadores
 > Os identificadores de canal de height são os mesmos usados para o ASM.
 
 
-| Identificador do OpenPBR | Uso de SBSAR |
+| Identificador de OpenPBR | Uso de SBSAR |
 | --- | --- |
 | base_weight | baseWeight |
 | base_color | baseColor |
@@ -84,7 +84,7 @@ O Sampler fará a correspondência dos arquivos com os seguintes identificadores
 
 Veja abaixo uma lista das convenções de nomeação de arquivos compatíveis para cada canal:
 
-| **Canal** | **Material padrão da Adobe** |
+| **Canal** | **Adobe Standard Material** |
 | --- | --- |
 | **Oclusão de ambiente** | <ul><li>ambientoclusão</li><li>ao</li><li>oclusão</li><li>ambient_occlusion</li></ul> |
 | **Cor base** | <ul><li>basecolor</li><li>cores</li><li>albedo</li><li>base_color</li><li>base</li><li>col</li><li>cor</li><li>base_color</li><li>basecolor</li></ul> |

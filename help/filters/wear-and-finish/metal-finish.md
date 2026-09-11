@@ -104,8 +104,8 @@ Converta seu material em um metal com uma série de acabamentos e estilos.
 
 **Parâmetros Avançados**
 
-* **Cor base**: alternar\
-  Define se o canal da cor base é afetado pelo filtro.
+* **Cor de base**: alternar\
+  Define se o canal de cor de base é afetado pelo filtro.
 * **Metálico**: alternar\
   Define se o canal metálico é afetado pelo filtro.
 * **Aspereza**: alternar\
@@ -126,14 +126,14 @@ Converta seu material em um metal com uma série de acabamentos e estilos.
 * **Height**: alternar\
   Define se o canal de height é afetado pelo filtro.
 * **Emissivo**: alternar\
-  Define se o canal emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
+  Define se o canal de emissivo é afetado pelo filtro. Se ativado, um controle adicional será exibido:
   * **Emissivo - Cor**: seleção de cor\
-    Defina a cor do canal emissivo.
+    Defina a cor do canal do emissivo.
 * **Oclusão de ambiente**: alternar\
-  Define se o canal de oclusão ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
-  * **Oclusão Ambiente - Intensidade**: 0-1\
+  Define se o canal de oclusão de ambiente é afetado pelo filtro. Se ativado, os seguintes controles adicionais serão exibidos:
+  * **Oclusão de ambiente - Intensidade**: 0-1\
     Ajuste a intensidade do AO gerado.
-  * **Oclusão Do Ambiente** **- Raio**: 0-1\
+  * **Oclusão de ambiente** **- Raio**: 0-1\
     Ajuste o raio do efeito AO.
 * **Opacidade**: alternar\
   Define se o canal de opacidade é afetado pelo filtro. Se ativado, um controle adicional será exibido:

@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrição
 
-Corrija as áreas com problemas na iluminação do ambiente. A correção de panorama mantém a transformação e a inclinação para corresponder naturalmente à correção com a superfície de fundo.
+Corrija as áreas com problemas em sua iluminação do ambiente. A correção de panorama mantém a transformação e a inclinação para corresponder naturalmente à correção com a superfície de fundo.
 
 As imagens abaixo mostram a <b>Correção de Panorama </b> em ação, neste caso, substituindo o centro de uma nuvem grande por céus abertos.
 
@@ -54,4 +54,4 @@ As imagens abaixo mostram a <b>Correção de Panorama </b> em ação, neste caso
 
 ## Guia de Uso
 
-Adicione o **filtro Correção de Panorama** ao topo da pilha de camadas e use as alças na **exibição 2D** para ajustar os locais de origem e correção.
+Adicione o **filtro de Correção de Panorama** na parte superior da pilha de camadas e use as alças da **Visualização 2D** para ajustar os locais de origem e de correção.

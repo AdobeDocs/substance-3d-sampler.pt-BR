@@ -30,7 +30,7 @@ O Sampler 6.0 adota o [OpenPBR](../features-and-workflows/openpbr.md), o modelo 
 
 ## Materiais complexos em um clique
 
-Crie materiais mais ricos e complexos instantaneamente. Os novos modelos, como fuzz, translucidez e revestimento transparente, permitem adicionar efeitos físicos avançados sem a complexidade. Basta escolher um modelo, e vá!
+Crie materiais mais ricos e complexos instantaneamente. Novos modelos, como fuzz, translucidez e revestimento transparente, permitem adicionar efeitos físicos avançados sem a complexidade. Basta escolher um modelo, e vá!
 
 Mais informações *[aqui](../interface/tools-and-widgets/material-creation-presets.md)*
 
@@ -104,7 +104,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Adicionado:**
 
-* [Exibição 3D] Fornece malhas padrão em formato USD
+* [Visualização 3D] Fornece malhas padrão no formato USD
 * [Aplicativo] Detecta usos em um material que não está disponível no modelo de material atual
 * Marca de modelo de material de leitura do [Aplicativo] de arquivos SBSAR
 * [Legendas] Permitem a rotação da região de interesse e da nova resolução 4K
@@ -121,7 +121,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Exportar] Use o caminho do projeto como caminho de exportação padrão
 * [Filtros] Permitem a atualização de filtros compostos estáticos para dinâmicos
 * [Filtros] Permitem a atualização de filtros estáticos para dinâmicos
-* [Filtros] Versões dinâmicas de Divisão em blocos gráficos automáticos, Preenchimento sensível ao conteúdo, Mesclagem de Heights, Mesclagem normal
+* [Filtros] Versões dinâmicas de Divisão em Blocos Gráficos Automáticos, Preenchimento Sensível ao Conteúdo, Combinar de Height, Combinar Normal
 * [Filtros] ocultam a versão estática de um filtro quando a versão dinâmica está presente
 * [Filtros] - Nova experiência de preenchimento
 * [Filtros] Novo Material de base compatível com OpenPBR e ASM
@@ -132,7 +132,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Preferências] Adicione uma preferência de modelo de material padrão
 * A predefinição padrão [Predefinição] agora usa modelo de material de OpenPBR
 * [Renderização] Habilita renderização 8K
-* [Renderizando] Manipular sombreador de OpenPBR na cena USD
+* [Renderizando] Trata do sombreador do OpenPBR na cena do USD
 * [Renderizando] imagens no tamanho do documento quando não estiver exportando
 * modelo de material de manuseio de [Scripts] para a criação de ativos na API Python
 * [Gerando script] da nova propriedade MaterialModel no ativo
@@ -152,7 +152,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Corrigido:**
 
-* [Exibição 2D] ordene a exibição 2D de acordo com o índice de uso do resultado na especificação
+* [Visualização 2D] Ordene a Visualização 2D de acordo com o índice de uso do resultado na especificação
 * [Aplicativo] Corrigir uma falha no início
 * [Aplicativo] Corrigir lógica incorreta para filtragem de uso de fluxo de trabalho com OpenPBR
 * A lista de versões conhecidas do [Aplicativo] agora é lida ao procurar uma atualização
@@ -181,7 +181,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Exportar] as saídas selecionadas não são persistentes na caixa de diálogo de exportação
 * [Filtros] Exportar uma árvore com imagens interrompe a resolução dinâmica da imagem
 * [Filtros] Corrigir disponibilidade de filtro C++
-* [Filtros] Corrigir detecção de filtro dinâmico de Carimbo
+* [Filtros] Corrigir detecção de filtro dinâmico de carimbo de Clonar
 * [Filtros] corrige a inicialização do contador de UID ao preencher usos dinâmicos
 * [Filtros] Corrigir espaço de cores no assistente de AutoEnquadramento
 * [Filtros] Corrigir tamanhos de saída de corte
@@ -205,7 +205,7 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 * [Projeto] Corrigir importação de projetos .alch
 * O salvamento do [Projeto] não falha mais silenciosamente
 * [Renderização] evite falhas no macOS mantendo o modo de agendamento automático
-* [Renderização] A alteração do componente V da divisão de textura em blocos gráficos não teve efeito
+* [Renderização] A alteração do componente V da divisão em blocos gráficos de textura não teve efeito
 * [Renderização] Corrigir renderização e miniaturas ausentes
 * [Renderização] Impede acessos simultâneos aos valores de saída
 * [Renderização] Trata corretamente os valores de saída de uma árvore no renderizador

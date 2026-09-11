@@ -20,11 +20,11 @@ ht-degree: 1%
 
 # Exportar ativos paramétricos
 
-Os parâmetros expostos podem ser modificados em outros aplicativos sem precisar voltar para o Sampler. Isso reduz o tempo de iteração para que você possa se concentrar em encontrar a melhor aparência sem precisar alternar entre aplicativos.
+Os parâmetros expostos podem ser modificados em outros aplicativos sem precisar voltar para o Sampler. Isso reduz o tempo de iteração para que você possa se concentrar em encontrar a melhor aparência sem precisar alternar entre os aplicativos.
 
 ## Expor e não expor parâmetros
 
-Para expor parâmetros, abra o **painel Propriedades**. Passe o mouse ou clique com o botão direito sobre o parâmetro desejado e, em seguida, clique no ícone de pino ou em “expor este parâmetro”.
+Para expor parâmetros, abra o **painel Propriedades**. Passe o mouse ou clique com o botão direito sobre o parâmetro desejado e, em seguida, clique no ícone de fixar ou em “expor este parâmetro”.
 
 ![](../assets/ezgif-com-gif-maker-2.gif)
 
@@ -33,7 +33,7 @@ Há duas maneiras de cancelar a exposição de um parâmetro:
 * No **Painel de parâmetros expostos**, clique com o botão direito do mouse no parâmetro e escolha “não expor”.
 
   ![](../assets/ezgif-com-gif-maker-3.gif)
-* No **painel Propriedades**, clique no ícone de pino cruzado ou clique com o botão direito do mouse no parâmetro e escolha “não expor este parâmetro”.
+* No **painel Propriedades**, clique no ícone de fixar cruzado ou clique com o botão direito do mouse no parâmetro e escolha “não expor este parâmetro”.
 
   ![](../assets/ezgif-com-gif-maker-4.gif)
 

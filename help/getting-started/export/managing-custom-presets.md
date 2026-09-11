@@ -51,7 +51,7 @@ Exemplo: definição da entrada de cor base
 
 As saídas representam o resultado da exportação da textura.
 
-Crie um nó de Saída por textura e adicione <b>uso</b> e um <b>rótulo</b> nos atributos de cada nó de saída. O <b>rótulo</b> será exibido na lista Canais na janela Exportador e no nome do seu arquivo de textura.
+Crie um nó de Saída por textura e adicione <b>uso</b> e um <b>rótulo</b> nos atributos de cada nó de saída. O <b>rótulo</b> será exibido na lista Canais na janela do Exportador e no nome do seu arquivo de textura.
 
 Exemplo: definição da opacidade de cor da textura personalizada
 
@@ -59,7 +59,7 @@ Exemplo: definição da opacidade de cor da textura personalizada
 
 #### Exemplo de embalagem de canal e conversão de canal
 
-Embalagem de 3 canais em tons de cinza em uma textura de RGB:
+Embalagem de 3 canais em tons de cinza em uma textura:
 
 ![](../../assets/channel-packing-example.png){width="600px"}
 

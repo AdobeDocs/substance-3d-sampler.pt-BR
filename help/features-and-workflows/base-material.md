@@ -108,9 +108,9 @@ O que isso faz
 
 O que ela não faz
 
-* Ele não assenta nem congela valores
+* Ele não faz bake nem congela valores
 * Isso não impede outras edições
-* Ele não adiciona mapas de textura automaticamente
+* Isso não adiciona mapas de textura automaticamente
 
 Você pode pensar nisso como escolher por onde começar, não limitar aonde pode ir.
 

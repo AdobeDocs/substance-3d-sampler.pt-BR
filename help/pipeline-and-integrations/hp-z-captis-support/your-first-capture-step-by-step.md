@@ -75,7 +75,7 @@ Você também pode optar por definir algumas das configurações manualmente:
 
 *Saídas*
 
-* Por padrão, somente os canais PBR de material (cor base, normal, height e opacidade) serão salvos.\
+* Por padrão, somente os canais PBR de material (Cor de base, normal, height e opacidade) serão salvos.\
   É possível escolher o tipo de saída entre LDR (intervalo dinâmico baixo) e HDR (intervalo dinâmico).
 
 
@@ -125,7 +125,7 @@ Outros tipos de configurações<b> só precisam ser modificados ocasionalmente</
 
 * Calibração de cores
 
-Calibre a cor do mapa de cores de base graças às áreas técnicas do HP Z Captis. \
+Calibre a cor do mapa de cor de base graças às áreas técnicas do HP Z Captis. \
 Isso fará com que o material final tenha exatamente a mesma cor da amostra adicionada na bandeja do HP Z Captis.\
 As áreas técnicas com as amostras de cores são detectadas automaticamente e usadas para a calibração. Eles devem ser colocados em seu espaço específico em cada lado da amostra.
 
@@ -152,7 +152,7 @@ A parte de processamento é dividida em três partes:
 
 * <b>Capturar</b>: tirando todas as fotos necessárias
 
-* <b>Processamento</b>: processamento de fotos para gerar canais PBR (Cor base, normal, height, opacidade)
+* <b>Processando</b>: processando as fotos para gerar canais PBR (Cor de base, normal, height, opacidade)
 
 * <b>Copiando</b>: copiando os resultados do dispositivo HP Z Captis para o seu computador
 
@@ -174,12 +174,12 @@ Em ambos os casos, você encontrará os mapas digitalizados na pasta equivalente
 
 ## Edição de material
 
-Depois de sair da janela do HP Z Captis, os canais (cor base, normal, height, aspereza e opacidade, se relevante) serão adicionados como uma camada no painel Camadas.
+Depois de sair da janela do HP Z Captis, os canais (cor de base, normal, height, aspereza e opacidade, se relevante) serão adicionados como uma camada no painel Camadas.
 
 ![texto alternativo](../../../help/assets/sampler_captis-imported-material.png)
 
 
-Use filtros do Sampler (Equalizar, Corte de perspectiva, Divisão em blocos gráficos...) para processar e limpar seu material.
+Use filtros do Sampler (Equalizar, Cortar Perspectiva, Divisão em blocos gráficos...) para processar e limpar seu material.
 
 Depois de concluir, você pode:
 

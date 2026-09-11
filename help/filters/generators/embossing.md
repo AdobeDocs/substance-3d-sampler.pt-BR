@@ -33,7 +33,7 @@ Geradores de **Entrada:**
 
 ## Descrição
 
-Entalhe texto ou padrões em seus materiais.
+Relevo texto ou padrões em seus materiais.
 
 </td>
 </tr>
@@ -43,30 +43,30 @@ Entalhe texto ou padrões em seus materiais.
 
 **Parâmetros Básicos**
 
-* **Tamanho do Entalhe**: 0-1\
+* **Tamanho do Relevo**: 0-1\
   Alterar o tamanho de cada instância
-* **Distância de entalhe**: 0-1\
+* **Distância do Relevo**: 0-1\
   Alterar o thickness das linhas em alto-relevo
 * **Seleção de padrão**:\
-  Selecione o padrão de entalhe. Aqui, você pode selecionar para entalhar o texto ou um padrão personalizado.
+  Selecione o padrão de relevo. Aqui, você pode selecionar para relevo o texto ou um padrão personalizado.
 * **Bloco X de Padrão**: 1-64\
   Alterar o número de instâncias no eixo X
 * **Bloco de Padrão Y**: 1-64\
   Alterar o número de instâncias no eixo Y
 
-**Entalhe**
+**Relevo**
 
-* **Usar Entalhe de Borda**: alternar\
-  Alterna entre gravar ou não a borda do padrão escolhido
-* **Inversão de Entalhe de Borda**: alternar\
-  Inverter o height do entalhe da borda
-* **Intensidade de entalhe da borda**: 0-1\
-  Alterar a intensidade do efeito de entalhe
-* **Usar Entalhe de Preenchimento**: alternar\
-  Alterna se o preenchimento do padrão escolhido será gravado
-* **Inversão de Entalhe de Preenchimento**: alternar\
-  Inverter o height do efeito de entalhe de preenchimento
-* **Intensidade de entalhe de preenchimento**: 0-1\
+* **Usar Relevo de Borda**: alternar\
+  Alternar entre relevo da borda do padrão escolhido
+* **Inversão de Relevo da borda**: alternar\
+  Inverter o height do relevo de borda
+* **Intensidade de Relevo da borda**: 0-1\
+  Alterar a intensidade do efeito relevo
+* **Usar Preencher Relevo**: alternar\
+  Alternar se o preenchimento do padrão escolhido deve ser relevo
+* **Inversão de Relevo de preenchimento**: alternar\
+  Inverter o height do efeito de relevo de preenchimento
+* **Intensidade de Relevo de preenchimento**: 0-1\
   Alterar a intensidade do efeito de entalhe
 
 **Padrão**
@@ -85,10 +85,10 @@ Entalhe texto ou padrões em seus materiais.
 * **Deslocamento de Padrão**: 0-1\
   Desloca cada linha do padrão da linha anterior.
 * **Usar aspereza de padrão**: alternar\
-  Ative essa opção para substituir a aspereza do material subjacente por um valor de aspereza personalizado onde quer que o efeito de entalhe seja exibido.\
+  Ative essa opção para substituir a aspereza do material subjacente por um valor de aspereza personalizado onde quer que o efeito relevo seja exibido.\
   Quando habilitado, um controle de **Aspereza do padrão** aparecerá para definir a aspereza.
 * **Usar padrão metálico**: alternar\
-  Ative essa opção para substituir os valores metálicos do material subjacente por um valor metálico personalizado onde quer que o efeito de entalhe seja exibido.\
+  Ative essa opção para substituir os valores metálicos do material subjacente por um valor metálico personalizado onde quer que o efeito de relevo seja exibido.\
   Quando habilitado, um controle **Metálico de Padrão** aparecerá para definir a aspereza.
 
 **Texto** - Esta seção só será exibida se a **Seleção de Padrão** em **Parâmetros básicos** estiver definida como **Texto**
@@ -103,7 +103,7 @@ Entalhe texto ou padrões em seus materiais.
 **Borracha**
 
 * **Borracha Normal**: 0-1
-* **Apagar Oclusão de Ambiente**: 0-1
+* **Oclusão de ambiente DE Borracha**: 0-1
 * **Opacidade da Borracha**: 0-1
 
 **Parâmetros avançados**
@@ -118,6 +118,6 @@ Esses parâmetros permitem ajustar valores para o material inteiro.
 
 ## Guia de Uso
 
-Adicione o filtro Entalhe no topo da pilha de camadas e comece a ajustar os parâmetros.
+Adicione o filtro Entalhe na parte superior da pilha de camadas e comece a ajustar os parâmetros.
 
 Os parâmetros mais importantes geralmente são **Parâmetros Básicos > Seleção de Padrão** para modificar qual padrão o filtro usará e **Padrão > Usar Bloco de Padrão** para ativar e desativar o enquadramento.

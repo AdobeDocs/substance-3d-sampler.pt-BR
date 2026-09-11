@@ -28,7 +28,7 @@ O <b>Substance 3D Sampler 4.2</b> apresenta uma nova versão viabilizada por IA 
 
 ![](../assets/sa_whats-new-screen_v4-2-0_image_to_material.png)
 
-A opção Imagem para material gera canais de material (cor base, aspereza, normal, deslocamento e metálico) para você a partir de uma única imagem.
+A opção Imagem para material gera canais de material (cor de base, rugosidade, normal, deslocamento e metálico) para você a partir de uma única imagem.
 
 A versão atualizada da Imagem para material melhora a geração de material e a gama de materiais suportados.
 
@@ -44,9 +44,9 @@ A versão atualizada tem um novo parâmetro para selecionar o tipo de material p
 
 Graças à nova camada Upscale (Aumentar), o Sampler aprimora os recursos do seu material ou imagem multiplicando por 2 ou 4 a resolução do seu ativo (material ou imagem).
 
-Isso permite aumentar a qualidade e o nível de detalhes das texturas de baixa resolução para manter a coerência de recursos entre mapas durante o aumento das texturas.
+Isso permite aumentar a qualidade e o nível de detalhes das texturas de baixa resolução para manter a coerência de recursos entre os mapas durante a ampliação do textura.
 
-O filtro Escala superior melhora a cor de base, o normal, o height, a aspereza e os canais metálicos do material.
+O filtro Escala superior melhora os canais de cor de base, normal, height, aspereza e metálico do material.
 
 Para maximizar a qualidade dos resultados, o filtro Upscale deve ser usado em dados (material e imagem) na resolução original sem alteração anterior da resolução.
 
@@ -90,12 +90,12 @@ Isso permite que você aumente a qualidade dos materiais, mas também o desempen
 * [Camadas] Avisar o usuário ao fazer um upscale linear e se oferecer para usar o filtro Upscale
 * [Camadas] Computar uma camada Image to Material (AI) agora pode ser cancelada mais rapidamente, para melhorar os tempos de renderização ao ajustar a pilha de camadas
 * [Camadas] Computar uma camada em alta escala agora pode ser cancelada mais rapidamente, para melhorar os tempos de renderização ao ajustar a pilha de camadas
-* [Exportar] Permitir a substituição de resolução de texturas exportadas
+* [Exportar] Permitir a substituição da resolução de texturas exportadas
 * [Exportar] Os canais para exportar a lista agora estão classificados
 * [Exportar] Exibe a resolução do canal na lista de canais a serem exportados
 * [Aplicativo] Nova preferência para habilitar ou desabilitar redes neurais aceleradas por GPU
 * [UI] Suspensões de resolução aprimoradas
-* [UI] Novos ícones para os filtros Transformação de malha, Pós-processo de malha e Tena
+* [UI] Novos ícones para os filtros Transformo de malha, Pós-processo de malha e tecelagem
 * [UI] Renomear o painel “Compartilhar” para “Exportar”
 * [Script] Adicionar suporte à resolução de saída de camada à API de exportação
 * [Scripting] Adição de corte, aumento e tamanho do documento à API de importação de imagem
@@ -113,7 +113,7 @@ Isso permite que você aumente a qualidade dos materiais, mas também o desempen
 * [Parâmetros expostos] As alterações dos parâmetros expostos podem ser perdidas ao trocar de materiais
 * [Interoperabilidade] Enviar um material do painel Exportar pode levar a uma falha
 * [Camadas] O Preenchimento com reconhecimento de conteúdo para o processamento ao alternar de uma única entrada de imagem para uma entrada de material
-* [Camadas] Falha após duplicar uma Luz ambiente que contém um material
+* [Camadas] Falha após duplicar uma Iluminação do ambiente que contém um material
 * [Camadas] A camada de importação de imagem exibe o nome de imagem incorreto no painel Propriedades se o arquivo de imagem tiver sido renomeado
 * [Camadas] Às vezes, um ícone giratório é exibido em uma camada inativa
 * [Camadas] Às vezes, alterar o uso de saída de uma imagem em uma camada de importação de imagem não funciona

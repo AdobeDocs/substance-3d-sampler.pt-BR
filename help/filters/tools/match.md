@@ -70,7 +70,7 @@ As imagens abaixo mostram o **Filtro de correspondência** sendo usado para conv
   * **Parâmetro**
     * **Predefinições**:\
       Selecione se deseja corresponder apenas cor ou ambas as cores e aspereza. Esta seleção altera quais opções estão disponíveis em **Parâmetros Avançados**
-    * **Cor base**: seleção de cor\
+    * **Cor de base**: seleção de cores\
       Selecione a cor a ser correspondida
     * **Aspereza**: 0-1\
       Definir a aspereza para corresponder

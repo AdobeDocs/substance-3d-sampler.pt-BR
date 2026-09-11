@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
-description: Use o filtro Vibratilidade no Substance 3D Sampler para melhorar a saturação e a vibratilidade das cores em texturas, preservando os tons de pele.
+description: Use o filtro Vibratilidade no Substance 3D Sampler para melhorar a saturação e a vibratilidade das cores no textura, preservando os tons de pele.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Vibrance
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Descrição
 
-O filtro Vibratilidade permite ajustar rapidamente a vibratilidade da Cor base ou dos canais difusos do material.
+O filtro Vibratilidade permite ajustar rapidamente a vibratilidade dos canais de Cor de base ou Difusão do material.
 
 A Vibratilidade e a Saturação funcionam de maneira semelhante, pois aumentam a intensidade das cores. Enquanto a Saturação aumenta a intensidade de todas as cores na imagem, a Vibratilidade aumenta principalmente a intensidade dos tons opacos ou silenciados.
 
@@ -53,7 +53,7 @@ A Vibratilidade e a Saturação funcionam de maneira semelhante, pois aumentam a
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

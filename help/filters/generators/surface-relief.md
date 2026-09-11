@@ -50,16 +50,16 @@ Use o filtro Relevo de superfície para adicionar ruído ao material. Isso pode 
 * <b>Intensidade de desfoque</b>: 0-1\
   A intensidade do desfoque aplicado ao ruído
 * <b>Imperfeição De Superfície </b>: Gerador De Imagem/Pincel/Textura\
-  Use uma imagem ou um Gerador de textura para usar como a imperfeição de superfície.
+  Use uma imagem ou um Gerador de Textura para usar como a imperfeição de superfície.
 
 <b>Parâmetros de Ruído</b>
 
-* <b>Suporte</b>: 0-1\
-  Aperte o ruído a uma determinada faixa
+* <b>Restrinjo</b>: 0-1\
+  Restringir o ruído para um determinado intervalo
 * <b>Contraste</b>: 0-1\
   Modifique o contraste do ruído
 * <b>Inverter</b>: alternar\
-  Inverter o mapa de height do ruído
+  Inverter o mapa de altura do ruído
 
 <b>Transformar</b>
 
@@ -76,8 +76,8 @@ Use o filtro Relevo de superfície para adicionar ruído ao material. Isso pode 
 
 * <b>Usar Máscara Personalizada</b>: alternar\
   Ative para ver os controles de Máscara personalizada:
-  * <b>Máscara</b>: imagem/pincel/Gerador de textura\
-    Importe uma imagem para usar como máscara ou use o pincel para pintar diretamente na <b>exibição 2D</b>
+  * <b>Máscara</b>: Gerador de imagem/pincel/Textura\
+    Importe uma imagem para usar como máscara ou use o pincel para tinta diretamente no <b>Visualização 2D</b>
   * <b>Máscara Personalizada - Desfoque</b>: 0-1\
     Desfocar a máscara
   * <b>Máscara personalizada - Inverter</b>: alternar
@@ -89,9 +89,9 @@ Use o filtro Relevo de superfície para adicionar ruído ao material. Isso pode 
 * <b>Height - Substituir base</b>: alternar\
   Alternar entre substituir ou não o height base
 * <b>Intensidade Normal</b>: 0-1\
-  Ajustar a intensidade do mapa normal do ruído
+  Ajuste a intensidade do mapa normal de ruído
 * <b>Normal - Substituir Base</b>: alternar\
-  Alternar entre substituir ou não o mapa base normal
+  Alternar entre substituir ou não o mapa normal base
 * <b>Direção-Normal</b>:\
   Modificar quais eixos usar para geração normal
 * <b>Normal - Girar Direção</b>

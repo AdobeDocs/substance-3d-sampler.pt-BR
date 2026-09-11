@@ -59,9 +59,9 @@ As seguintes opções estão disponíveis:
     Defina a estratégia de resolução padrão usada no aplicativo.
   * **modelo de material padrão**
     Defina o modelo padrão a ser usado ao criar um material ou quando ações rápidas precisarem escolher uma modelo de material.
-  * **Divisão de textura de material padrão - U**\
-    Defina a divisão em blocos gráficos da textura U padrão.
-  * **Divisão de textura de material padrão - V**\
+  * **Divisão em blocos gráficos de textura de Material Padrão - U**\
+    Defina a divisão em blocos gráficos padrão da textura U.
+  * **Divisão em blocos gráficos de textura de Material Padrão - V**\
     Defina a divisão em blocos gráficos da textura V padrão.
   * **Escala de Height padrão**\
     Defina a escala de height padrão para materiais.
@@ -69,7 +69,7 @@ As seguintes opções estão disponíveis:
   * **Enviar automaticamente estatísticas de uso**
     Alternar se as estatísticas de uso anônimas devem ser enviadas para ajudar a melhorar o Sampler.
 * **Configurações de cores**
-  * **Seletor de Cores Especiais Experimentais**\
+  * **Seletor de cores de ponto experimental**\
     Ative ou desative o seletor de cores experimental sempre que um parâmetro de seleção de cores for exibido. O seletor de cores experimental permite escolher cores diretamente de uma coleção de amostras do PANTONE.
 * **Recursos**
   * **Qualidade da Miniatura**\

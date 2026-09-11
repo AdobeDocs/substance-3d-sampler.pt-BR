@@ -79,7 +79,7 @@ Use o filtro Perfurar para adicionar furos ao material.
   * **Inverter Mapa de Escala**: alternar\
     Inverter os valores do mapa de escala
   * **Mapa de escala personalizado**: imagem/pincel\
-    Importe uma imagem para usar como um mapa de escala ou use o pincel para pintar um mapa de escala diretamente na **exibição** **exibição**
+    Importe uma imagem para usar como um mapa de escala ou use o pincel para tinta um mapa de escala diretamente na **exibição** **2D**
 
 **Máscara**
 
@@ -91,7 +91,7 @@ Esta seção só será visível se **Parâmetros básicos > Usar Máscara** esti
 * **Limite de Máscara**: 0-1\
   Modifique o limite da máscara. Use os valores de **Desfoque de máscara** e **Limite de máscara** juntos para ajustar as bordas da máscara.
 * **Máscara personalizada**: imagem/pincel\
-  Importar uma imagem para usar como máscara ou pintar sua própria máscara diretamente na **exibição 2D**
+  Importar uma imagem para usar como máscara ou tinta sua própria máscara diretamente no **Visualização 2D**
 
 **Perfuração**
 
@@ -123,4 +123,4 @@ Esta seção só será visível se **Parâmetros básicos > Usar Máscara** esti
 * **Intensidade normal**: -1 a 1\
   Ajuste a intensidade de cada perfuração normal
 * **Intensidade de Height**: 0-1\
-  Ajustar a intensidade de cada mapa de height de perfurações
+  Ajustar a força de cada mapa de altura de perfurações

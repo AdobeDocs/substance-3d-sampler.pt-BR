@@ -29,7 +29,7 @@ As opções Enviar para... permitem enviar diretamente o ativo para outros aplic
 Atualmente, o Sampler oferece suporte ao envio para:
 
 * **Substance 3D Painter**: importe materiais e ambientes que você pode usar ao texturizar seus ativos.
-* **Substance 3D Stager**: importa luzes ambiente para alterar o clima da cena. Disponível apenas com luzes ambiente, desativadas para materiais.
+* **Substance 3D Stager**: importa iluminações do ambiente para alterar o clima da cena. Disponível apenas com iluminações do ambiente, desativado para materiais.
 
 Os materiais são sempre enviados como SBSAR, ambientes como EXR.
 
@@ -51,7 +51,7 @@ Com as Configurações de material selecionadas, você pode alterar vários par�
 | Predefinição | Selecione uma predefinição para organizar automaticamente sua exportação para um aplicativo específico. [Mais informações sobre predefinições estão disponíveis aqui](../../getting-started/export/default-presets/default-presets.md). As predefinições só estão disponíveis quando um formato de imagem é selecionado. |
 | Compactação | Escolha se a compactação prioriza velocidade ou eficiência <br> <ul> <li> **Automático**: permita que o Sampler escolha. <li> **Melhor**: maximize a eficiência da compactação para arquivos menores. <li> **Nenhum**: nenhuma compactação significa abertura e fechamento mais rápidos dos arquivos exportados, mas tamanhos de arquivo maiores. </ul> |
 | Resolução | Altere a resolução da exportação. Esta opção aparece de forma diferente com base no Formato selecionado <br> <ul> <li> **SBSAR/SBS**: selecione uma largura e um height padrão para o material. Eles podem ser atualizados posteriormente. <li> **Formato de imagem**: selecione entre **a saída de camadas**, que exporta cada mapa no tamanho definido pela pilha de camadas, ou **Substitua tudo**, que permite especificar uma largura e um height para exportação. |
-| Modelo do material | Selecione se deseja exportar como um Material padrão da Adobe ou como um material de OpenPBR. A opção selecionada deve depender dos outros aplicativos que você está usando no pipeline. Canais diferentes estarão disponíveis com base no Modelo de material. |
+| Modelo do material | Selecione se deseja exportar como um Adobe Standard Material ou como um material de OpenPBR. A opção selecionada deve depender dos outros aplicativos que você está usando no pipeline. Canais diferentes estarão disponíveis com base no Modelo de material. |
 | Canais | Alterne quais canais devem ser exportados como parte do ativo. |
 
 >[!NOTE]

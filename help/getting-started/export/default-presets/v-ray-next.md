@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | Predefinição | Compatibilidade | Descrição da Saída de Embalagem |
 | --- | --- | --- |
-| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Aspereza &#x200B;**&#x200B;**Difusa**&#x200B;**Metalidade &#x200B;**&#x200B;**Normal**&#x200B;**Deslocamento**&#x200B;**AutoIluminação** **Opacidade** |
+| V-Ray Next | <ul data-preserve-html="true"><li data-preserve-html="true">PBR metálico/aspereza</li></ul> | **Aspereza &#x200B;**&#x200B;**De Difusão**&#x200B;**Metais &#x200B;**&#x200B;**Normal**&#x200B;**De Deslocamento**&#x200B;**AutoIlusão** **Opacidade** |

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
-description: Use a ferramenta Luz de plano no Substance 3D Sampler para adicionar fontes de luz planar a ambientes HDRI para efeitos de iluminação de área.
+description: Use a ferramenta Luz de plano no Substance 3D Sampler para adicionar fontes planares de luz a ambientes HDRI para efeitos de iluminação de área.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > Plane Light
 helpx_experience_level: ""
@@ -61,7 +61,7 @@ Adicione uma luz na forma de um plano plano ao seu ambiente.
   * **Amostra de plano de fundo**
     * O plano de fundo de amostra não disponibiliza novos parâmetros; em vez disso, ele baseia a cor da luz nos valores do plano de fundo.
 * **Modo de Posição**:\
-  Altere o método usado para determinar a posição das luzes. Os parâmetros na seção **Coordenadas de Posição** serão alterados com base na seleção. Com a **Posição mundial** selecionada, as alças desaparecerão da **exibição 2D**. Em vez disso, use os parâmetros nas **Coordenadas de posição** para modificar a posição da luz.
+  Altere o método usado para determinar a posição das luzes. Os parâmetros na seção **Coordenadas de Posição** serão alterados com base na seleção. Com a **Posição mundial** selecionada, as alças desaparecerão da **Visualização 2D**. Em vez disso, use os parâmetros nas **Coordenadas de posição** para modificar a posição da luz.
 
 **Forma**
 
@@ -76,7 +76,7 @@ Adicione uma luz na forma de um plano plano ao seu ambiente.
 * **Dureza do padrão**: 0-1\
   Suavizar ou desfocar as bordas da luz
 * **Modo UV de padrão**:\
-  Escolha se as transformações esticam toda a forma ou apenas o meio da forma para manter os detalhes da borda e do canto.
+  Escolha se as transformas esticarão toda a forma ou somente o meio da forma para manter os detalhes da borda e do canto.
 
 **Coordenadas de Posição**
 

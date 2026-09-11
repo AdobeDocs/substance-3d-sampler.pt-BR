@@ -28,7 +28,7 @@ A solução abrange casos de uso entre setores (automotivo, vestuário, design d
 +++
 
 +++Quais tipos de material podem ser digitalizados e capturados com o Captis?
-Qualquer tipo de material pode ser digitalizado e capturado, exceto com várias camadas de revestimento claras (as tintas para carros são excluídas do escopo Captis). Alguns materiais específicos podem exigir processamento adicional no Sampler para otimizar os resultados. Observe que os algoritmos de processamento serão continuamente otimizados ao longo do tempo.
+Qualquer tipo de material pode ser digitalizado e capturado, exceto com várias camadas de revestimento claras (tintas de carro são excluídas do escopo Captis). Alguns materiais específicos podem exigir processamento adicional no Sampler para otimizar os resultados. Observe que os algoritmos de processamento serão continuamente otimizados ao longo do tempo.
 
 +++
 
@@ -77,28 +77,28 @@ A partir da versão de 20 de fevereiro de 2025, você pode acessar o Adobe Subst
 
 * O fluxo de trabalho do Sampler com HP Z Captis está disponível somente no Windows por enquanto.
 
-* Os cinco mapas que estão sendo exportados hoje são a cor de base, aspereza, normal, Height, opacidade.
+* Os cinco mapas que estão sendo exportados hoje são Cor de base, Aspereza, Normal, Height, Opacidade.
 
 * O Modo Explorer ainda é uma versão anterior e ainda não está otimizado.
 
-* A divisão em blocos é executada na pilha de camadas do Sampler usando os filtros de divisão em blocos atuais.
+* A divisão em blocos é executada no Sampler pilha de camadas usando os filtros de divisão em blocos atuais.
 
 +++
 
 +++Quais canais PBR estão disponíveis?
-A partir da versão de 7 de agosto de 2025, os cinco mapas que estão sendo exportados são a cor base, aspereza, normal, Height, opacidade. O pipeline de processamento atual ainda não trata do mapa do Metalness.
+A partir da versão de 7 de agosto de 2025, os cinco mapas que estão sendo exportados são Cor de base, Aspereza, Normal, Height, Opacidade. O pipeline de processamento atual ainda não trata do mapa do Metalness.
 
 +++
 
 +++A divisão em blocos gráficos é feita automaticamente?
-A divisão em blocos é executada na pilha de camadas do Sampler usando os filtros de divisão em blocos atuais.
+A divisão em blocos gráficos é executada na pilha de camadas do Sampler usando os filtros de divisão em blocos gráficos atuais.
 
 O filtro de revestimento automático pode ser usado para revestir automaticamente materiais com uma estrutura repetitiva definida ou pequenos padrões, com um mínimo de 3 padrões em cada direção. Saiba mais sobre este filtro na [seção dedicada da documentação](../../filters/tools/auto-tiling.md).
 
 +++
 
 +++Como quais formatos os materiais digitalizados podem ser exportados?
-O HP Z Captis é operado de forma nativa pela Adobe Substance 3D Sampler. O HP Z Captis captura 64 imagens raw (que podem ser recuperadas de sua pasta local) e mapas PBR (que são processados a partir das imagens raw capturadas e que são carregadas automaticamente no Substance 3D Sampler). O Substance 3D Sampler criará um material 3D com base nos canais PBR que são carregados automaticamente na pilha de camadas do Sampler após a captura.
+O HP Z Captis é operado de forma nativa pela Adobe Substance 3D Sampler. O HP Z Captis captura 64 imagens raw (que podem ser recuperadas de sua pasta local) e mapas PBR (que são processados a partir das imagens raw capturadas e que são carregadas automaticamente no Substance 3D Sampler). O Substance 3D Sampler criará um material 3D com base nos canais PBR que são carregados automaticamente no Sampler pilha de camadas após a captura.
 
 No Adobe Substance 3D Sampler, você pode exportar seu material digital em qualquer formato de exportação disponível no Substance 3D Sampler: como arquivos Substance (arquivos .SBS e .SBSAR) ou como texturas de bitmap, incluindo .PNG, .JPG, .TIFF, ... (consulte os detalhes na página da documentação da Sampler: [https://helpx.adobe.com/br/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)).
 
@@ -106,7 +106,7 @@ No Adobe Substance 3D Sampler, você pode exportar seu material digital em qualq
 
 +++Qual é a diferença entre LDR e HDR durante a captura?
 Durante a visualização, você tem a possibilidade de escolher o tipo de saída entre LDR (intervalo dinâmico baixo) e HDR (intervalo dinâmico).\
-Mesmo que o LDR seja escolhido, os mapas HDR serão capturados e salvos em seu dispositivo.\
+Mesmo se o LDR for escolhido, os mapas de HDR serão capturados e salvos no seu dispositivo.\
 É aconselhável selecionar o LDR, pois isso tornará o tamanho do projeto mais gerenciável no Sampler e em qualquer aplicativo de terceiros onde o arquivo sbsar será usado.
 
 +++
@@ -123,7 +123,7 @@ Em todos os aplicativos que integram o formato de arquivo Substance como 3DS Max
 +++
 
 +++Quantas fotos estão sendo tiradas para criar os mapas?
-[8 painéis de luz + 1 iluminação de fundo] x [8 estados de polarização] x [8 exposições de suporte para HDR] x [4 sobrecargas para reduzir o ruído] = 2048 + 256 (para iluminação de fundo)
+[8 painéis de luz + 1 retroiluminação] x [8 estados de polarização] x [8 exposições de agrupamento para HDR] x [4 sobreposições para reduzir o ruído] = 2048 + 256 (para retroiluminação)
 
 +++
 

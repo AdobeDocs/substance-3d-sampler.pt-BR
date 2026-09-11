@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/release-notes/version-4-1.html"
 breadcrumb-title: ''
-description: Consulte as notas de versão do Substance 3D Sampler versão 4.1 para saber mais sobre o filtro Distorção de pintura, as atualizações do filtro Bordado e as melhorias do captura 3D.
+description: Revise as notas de versão do Substance 3D Sampler versão 4.1 para saber mais sobre o filtro Distorção de Tinta, atualizações do filtro Bordado e melhorias de captura 3D.
 helpx_creative_field: ""
 helpx_description: Sampler > Release Notes > Version 4.1
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Versão 4.1
 
-O <b>Substance 3D Sampler 4.1.0 </b>apresenta novo conteúdo com o filtro <b>Distorção de tinta </b> e uma versão aprimorada do filtro <b>Bordados </b>. Esta atualização inclui algumas melhorias no captura 3D.
+O <b>Substance 3D Sampler 4.1.0 </b>apresenta novo conteúdo com o filtro <b>Distorção de Tinta </b> e uma versão aprimorada do filtro <b>Bordados </b>. Esta atualização inclui algumas melhorias no captura 3D.
 
 *Data de lançamento: 28 de março de 2023*
 
@@ -74,8 +74,8 @@ Pode bordar até 6 cores e combina várias técnicas de costura.
 * [Exportar] Falha se algo der errado durante a exportação de objeto 3D
 * [Exportar] Falha ao exportar um arquivo .sbs/.sbsar
 * [Export] Falha ao importar predefinição personalizada que tem o mesmo rótulo, mas não o mesmo nome de arquivo
-* [Exportar] Exportar uma luz ambiente para um arquivo .sbs/.sbsar às vezes não funciona
-* [Exportar] A exportação Gltf/Glb codifica texturas em base64
+* [Exportar] Exportar uma iluminação do ambiente para um arquivo .sbs/.sbsar às vezes não funciona
+* [Exportar] A exportação Gltf/Glb codifica as texturas na base64
 * [Exportar] O campo de texto de nome não funciona ao focar novamente
 * [Exportar] A opção Preservar divisão em blocos gráficos não funciona ao exportar uma camada de Imagem para material (desenvolvida por IA) para um arquivo .sbs/.sbsar
 * [Exportar] Ao exportar gltf e substituir arquivos, a lista de arquivos a serem substituídos não está correta
@@ -96,14 +96,14 @@ Pode bordar até 6 cores e combina várias técnicas de costura.
 <b>Adicionado:</b>
 
 * [Conteúdo] Novo filtro de bordado
-* [Conteúdo] Novo filtro de Distorção de pintura
+* [Conteúdo] Novo filtro de Distorção de Tinta
 * [UI] Opção Adicionar exportação no menu Arquivo
 * [captura 3D] O botão Voltar agora está disponível na etapa de alinhamento
 * [captura 3D] As imagens manipulam a orientação EXIF do JPEG
 * [captura 3D] Script - Nova propriedade dataset\_info.camera
 * [captura 3D] Adicionar suporte a Linux (consulte a documentação)
 * [captura 3D] Verificar o acesso de leitura das imagens importadas
-* [Integração] Saiba mais: 2 novos tutoriais (bordado e distorção de pintura)
+* [Integração] Aprendizado - 2 novos tutoriais (Bordado e Distorção de Tinta)
 * [Integração] Conteúdo de novidades atualizado
 
 <b>Corrigido:</b>
@@ -115,7 +115,7 @@ Pode bordar até 6 cores e combina várias técnicas de costura.
 * [Ativos] O ícone da lixeira não faz nada no painel Ativos
 * [Content] Atualizar filtros com slots de material não funciona como esperado
 * [Exportar] Possível falha ao exportar um ativo com filtros específicos
-* [Export] Exportação SBS/SBSAR - as camadas de importação de imagem tinham prioridade sobre os parâmetros de imagem
+* [Exportar] Exportação SBS/SBSAR - as camadas de importação de imagem tinham prioridade sobre os parâmetros de imagem
 * [Exportar] A predefinição de exportação UE4 não funciona com PNG
 * [Camadas] Falha ao soltar um material e um filtro ao mesmo tempo do explorador do sistema operacional
 * [Camadas] Falha ao arrastar qualquer arquivo SBSAR com qualquer arquivo de imagem

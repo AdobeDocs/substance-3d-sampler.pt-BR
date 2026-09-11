@@ -46,7 +46,7 @@ Há três opções disponíveis:
 
 >[!WARNING]
 >
-> Para instalar o arquivo de licença com o Assistente de ativação, execute o Sampler como administrador e desative temporariamente o antivírus.
+> Para instalar o arquivo de licença com o Assistente de ativação, certifique-se de executar o Sampler como administrador e desativar temporariamente o antivírus.
 
 ### Ativação manual
 

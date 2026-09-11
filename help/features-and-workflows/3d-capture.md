@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## O que é fotogrametria?
 
-O Sampler está usando a fotogrametria para transformar imagens em uma malha com texturas. A fotogrametria é a ciência que faz medições a partir de imagens. É usado para extrair informações de fotografias e criar texturas e modelos 3D. O processo envolve tirar várias fotografias de um objeto de diferentes ângulos e, em seguida, processar as imagens para extrair informações sobre a forma e a localização de características nas imagens.
+O Sampler está usando fotogrametria para transformar imagens em uma malha com o textura. A fotogrametria é a ciência que faz medições a partir de imagens. É usado para extrair informações de fotografias, para criar modelos e texturas 3D. O processo envolve tirar várias fotografias de um objeto de diferentes ângulos e, em seguida, processar as imagens para extrair informações sobre a forma e a localização de características nas imagens.
 
 O objetivo é combinar recursos correspondentes entre as imagens para estabelecer as posições relativas da câmera para cada imagem. A partir dos recursos correspondentes, um modelo 3D do objeto é reconstruído. A etapa final é projetar as texturas no modelo 3D.
 
@@ -45,7 +45,7 @@ Recomendamos:
 Mac
 
 * Dispositivos Apple Silicon são altamente recomendados (M1 ou M2)
-* GPU baseada em Intel e AMD com pelo menos 4 Gb de VRAM e suporte a rastreamento de raios
+* GPU baseada em Intel e AMD com pelo menos 4 Gb de VRAM e suporte a Rastreamento de raios
 
 ## Iniciar uma nova Captura 3D
 
@@ -140,7 +140,7 @@ Se o contorno da imagem for laranja, a imagem não foi alinhada corretamente e n
 
 ![](../assets/3d-capture-alignment-results.png)
 
-Você pode clicar na imagem no painel esquerdo para enquadrar a nuvem de pontos na câmera associada.
+Você pode clicar na imagem no painel esquerdo para quadro a nuvem de pontos na câmera associada.
 
 Você pode clicar em uma câmera para enquadrar a nuvem de pontos nela.
 
@@ -177,7 +177,7 @@ Ao pressionar Shift durante o dimensionamento, você dimensionará a caixa a par
 
 ## Pós-processamento
 
-O pós-processamento ajuda a adaptar e otimizar sua malha e texturas para suas necessidades e como você deseja usá-la.
+O pós-processamento o ajuda a adaptar e otimizar sua malha e texturas às suas necessidades e como você deseja usá-las.
 
 O resultado da reconstrução pode gerar uma malha com milhões de polígonos e texturas de até 16K. Isso geralmente não será otimizado para renderização, tempo real ou experiência de AR.
 
@@ -187,8 +187,8 @@ A etapa de pós-processamento encadeia 4 etapas automaticamente:
 
 * Decimação: reduza o número de polígonos definindo o número de faces que deseja
 * Desembrulhar UV: define automaticamente as costuras, desembrulhar e empacotar UVs da malha dizimada
-* Reprojeção: Reprojete a textura de cor da malha de fotogrametria na malha dizimada
-* Cozimento: assar os detalhes normais, de height e AO da malha de fotogrametria na malha dizimada. Isso garantirá a transferência de todos os detalhes da malha perdidos durante a dizimação para mapas de textura.
+* Reprojeção: Reprojete a textura de cores da malha de fotogrametria na malha dizimada
+* Fça bake: Fça bake os detalhes normais, de height e de AO da malha de fotogrametria para a malha dizimada. Isso garantirá a transferência de todos os detalhes da malha perdidos durante a dizimação para mapas de textura.
 
 ![](../assets/3d-capture-original-version-post-processing.png)
 
@@ -220,7 +220,7 @@ A primeira camada é o resultado da reconstrução.
 
 A segunda camada (se você fez algum pós-processo) é a camada de pós-processamento de malha com os valores definidos na janela captura 3D. Você ainda poderá editar os parâmetros nesta etapa se quiser usar outras configurações.
 
-A terceira camada é uma camada de transformação de malha para dimensionar, traduzir e girar seu objeto 3D.
+A terceira camada é uma camada de transformo de malha para dimensionar, traduzir e girar seu objeto 3D.
 
 Nesta etapa, é possível adicionar filtros usados para aplicar em materiais para editar as texturas no objeto 3D.
 

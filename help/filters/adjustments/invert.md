@@ -39,7 +39,7 @@ Nas imagens abaixo, é possível ver o impacto da inversão do canal de aspereza
 
 ![](../../assets/3d-2d-filters-cropped-0019-invert-in.jpg)
 
-Antes de inverter, as telhas são brilhantes e refletem claramente a luz ambiente.
+Antes de inverter, os ladrilhos são brilhantes e refletem claramente a iluminação do ambiente.
 
 ![](../../assets/invert-rough-filter.jpg.img.jpg)
 
@@ -53,14 +53,14 @@ Após a inversão, os ladrilhos ficam foscos e não apresentam fortes realces de
 
 **Parâmetros básicos**
 
-Cada canal pode ser invertido independentemente através do uso de um botão de alternância. Habilite o botão de alternância para inverter o canal. Se os resultados não estiverem visíveis na visualização 3D, selecione o canal na parte inferior da visualização 2D para ver o impacto.
+Cada canal pode ser invertido independentemente através do uso de um botão de alternância. Habilite o botão de alternância para inverter o canal. Se os resultados não estiverem visíveis na visualização 3D, selecione o canal na parte inferior da Visualização 2D para ver o impacto.
 
 **Máscara**
 
 * **Usar Máscara Personalizada**: alternar\
   Ativar ou desativar o uso de uma máscara personalizada. Se ativado, os seguintes parâmetros serão exibidos:
   * **Máscara**: imagem/pincel\
-    Selecione uma imagem para usar como máscara ou use o pincel para pintar uma máscara personalizada diretamente na exibição 2D
+    Selecione uma imagem para usar como máscara ou use o pincel para tinta uma máscara personalizada diretamente na Visualização 2D
   * **Máscara Personalizada - Desfoque**: 0-1\
     Desfocar a máscara
   * **Máscara personalizada - Inverter**: alternar\

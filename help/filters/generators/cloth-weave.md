@@ -89,7 +89,7 @@ Parâmetros
 * **Intensidade de imperfeição:** 0-1\
   Defina a intensidade das imperfeições dos encadeamentos.
 * **Intensidade Normal:** 0-2\
-  Ajuste a intensidade do mapa normal.
+  Ajuste a força do mapa normal.
 * **Posição do Height:** 0-1\
   Desloque o height do material completo.
 

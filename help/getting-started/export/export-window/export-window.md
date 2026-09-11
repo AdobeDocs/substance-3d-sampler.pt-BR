@@ -63,7 +63,7 @@ Ao exportar materiais, o painel Configurações de material da janela Exportar t
 >
 > A seleção de predefinição não está disponível quando o formato de exportação é SBS ou SBSAR. Para esses formatos, o arquivo de saída já está configurado para ser utilizável em todos os produtos Substance e integrações de Substance.
 
-* <b>Tipo de material </b>(SBSAR, SBS): selecione se o material exportado se comporta como um material padrão, decalque ou atlas. Esta configuração pode alterar como é tratada por outros aplicativos que suportam arquivos SBSAR e SBS.
+* <b>Tipo de material </b>(SBSAR, SBS): selecione se o material exportado se comporta como um material padrão, decalque ou atlas. Essa configuração pode alterar como é tratada por outros aplicativos que suportam arquivos SBSAR e SBS.
 
 ![](../../../assets/screenshot-2023-01-24-at-16-32-58.png)
 
@@ -81,7 +81,7 @@ Ao exportar materiais, o painel Configurações de material da janela Exportar t
 
 ![](../../../assets/SAPR_ResolutionTextures.png)
 
-* **Modelo de material** (Todos os formatos enquanto estiverem na predefinição padrão): selecione um padrão de sombreador para as texturas exportadas.
+* **Modelo de material** (Todos os formatos enquanto estiver na predefinição padrão): selecione um padrão de sombreador para as texturas exportadas.
   * Alterar o Modelo de material afetará os nomes dos arquivos exportados. Por exemplo, OpenPBR usa “Metalness” em vez de ASM que usa “Metallic”.
 
 ### Informações adicionais

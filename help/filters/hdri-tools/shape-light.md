@@ -64,7 +64,7 @@ Crie uma luz na forma de um retângulo ou disco.
 * **Posição do Ponto de Acesso**: 0-1\
   Deslocar a posição do ponto ativo
 * **Deslocamento de Matriz**: -2 para 2\
-  Altere a posição da luz da forma. Você também pode arrastar a luz na **exibição 2D** para reposicioná-la.
+  Altere a posição da luz da forma. Você também pode arrastar a luz no **Visualização 2D** para reposicioná-la.
 
 **Forma**
 

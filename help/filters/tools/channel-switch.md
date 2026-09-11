@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Use a ferramenta Alternância de canal no Substance 3D Sampler para reorganizar e trocar canais de cores em mapas de textura para a criação de material.
+description: Use a ferramenta Alternância de canal no Substance 3D Sampler para reorganizar e trocar canais de cores nos mapas de textura para a criação de material.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""

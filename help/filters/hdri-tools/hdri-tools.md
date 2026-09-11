@@ -24,9 +24,9 @@ ht-degree: 4%
 >
 > Mudança futura
 > 
-> O suporte a luzes ambiente e malhas será removido com o lançamento do Sampler V5.2. A remoção de luzes ambiente também incluirá a remoção de Ferramentas HDRI e filtros.
+> O suporte para iluminação do ambiente e Malhas será removido com o lançamento do Sampler V5.2. A remoção de iluminações do ambiente também incluirá a remoção de Ferramentas HDRI e filtros.
 
-Os filtros na seção Ferramentas HDRI são ferramentas específicas para trabalhar com luzes ambiente. HDRI significa Imagem de Intervalo dinâmico, mas é comumente usado para se referir às imagens panorâmicas usadas para criar luzes ambiente. Modificar imagens panorâmicas no software tradicional pode ser difícil devido à forma como as informações esféricas 3D devem ser mapeadas para um arquivo de imagem 2D - as Ferramentas HDRI no Sampler são projetadas com essa consideração em mente, portanto, corrigir e adicionar luzes aos HDRIs é muito mais fácil.
+Os filtros na seção Ferramenta HDRI são ferramentas específicas para trabalhar com o iluminação do ambiente. HDRI significa Imagem de Intervalo dinâmico, mas é comumente usado para se referir às imagens panorâmicas usadas para criar iluminações do ambiente. Modificar imagens panorâmicas no software tradicional pode ser difícil devido à forma como as informações esféricas 3D devem ser mapeadas para um arquivo de imagem 2D - as Ferramentas HDRI no Sampler são projetadas com essa consideração em mente, portanto, corrigir e adicionar luzes aos HDRIs é muito mais fácil.
 
 Os seguintes filtros são Ferramenta HDRI:
 

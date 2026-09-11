@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
-description: Use a ferramenta Carimbo no Substance 3D Sampler para clonar e pintar áreas de textura para obter edição e reparo de material perfeitos.
+description: Use a ferramenta Carimbo de Clonar no Substance 3D Sampler para clonar e tinta áreas de textura para obter edição e reparo de material perfeitos.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Clone Stamp
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Carimbo do clone
+title: Carimbo de Clonar
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Carimbo do clone
+# Carimbo de Clonar
 
 <table>
 <tr style="border: 0;">
@@ -33,9 +33,9 @@ Ferramentas de **Entrada:**
 
 ## Descrição
 
-A **ferramenta Carimbo** ajuda você a duplicar ou corrigir manualmente partes do seu material. Isso é útil para corrigir emendas ou remover erros do material. O **filtro Carimbo** é uma das ferramentas disponíveis na barra lateral esquerda.
+A **ferramenta Carimbo de Clonar** ajuda você a duplicar ou corrigir manualmente partes do seu material. Isso é útil para corrigir emendas ou remover erros do material. O **filtro Carimbo** é uma das ferramentas disponíveis na barra lateral esquerda.
 
-As imagens abaixo mostram o **Carimbo** sendo usado para remover resíduos de um material de neve.
+As imagens abaixo mostram o **Clonar Stamp** sendo usado para remover detritos de um material de neve.
 
 ![](../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
@@ -43,13 +43,13 @@ Na imagem acima, o material da neve inclui uma série de galhos e outros detrito
 
 ![](../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
-A ferramenta **Carimbo** é usada para remover alguns galhos e substituí-los por neve limpa.
+A ferramenta **Carimbo de Clonar** é usada para remover alguns galhos e substituí-los por neve limpa.
 
 </td>
 </tr>
 </table>
 
-## Tutorial sobre o carimbo de clonar
+## Tutorial sobre carimbo de Clonar
 
 ## Parâmetros
 
@@ -91,13 +91,13 @@ Use os controles de mesclagem de atenuação para ajustar individualmente a mesc
 
 ## Guia de Uso
 
-Clique na **ferramenta Carimbo** para criar uma nova camada de filtro Carimbo no topo da sua pilha de camadas. Você também pode adicionar um filtro de Carimbo usando o **botão Adicionar uma camada** no **painel Camadas**.
+Clique na **ferramenta Carimbo de Clonar** para criar uma nova camada de filtro Carimbo de Clonar na parte superior da pilha de camadas. Você também pode adicionar um filtro de Clonar Stamp usando o **botão Adicionar uma camada** no **painel Camadas**.
 
-Criar uma camada de filtro Carimbo abre automaticamente a **exibição 2D** no **Viewport**. Uma **barra de ferramentas** aparece na parte superior da **exibição 2D** quando a camada de Carimbo está selecionada.
+Criar uma camada de filtro Carimbo de Clonar abre automaticamente o **Visualização 2D** no **Viewport**. Uma **Barra de ferramentas** aparece na parte superior do **Visualização 2D** quando a camada de Carimbo de Clonar está selecionada.
 
 ![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
 
-Para começar a usar a ferramenta Carimbo, clique e arraste sobre a área problemática na **exibição 2D**. O material começará a ser atualizado automaticamente com base na origem. As áreas onde você usa a **ferramenta Carimbo** são realçadas.
+Para começar a usar a ferramenta Carimbo de Clonar, clique e arraste sobre a área problemática no **Visualização 2D**. O material começará a ser atualizado automaticamente com base na origem. As áreas em que você usa a **ferramenta Carimbo** são realçadas.
 
 ## Barra de ferramentas
 
@@ -110,7 +110,7 @@ Para começar a usar a ferramenta Carimbo, clique e arraste sobre a área proble
 </td>
 <td width="83.33%" style="border: 0;" valign="top">
 
-Enquanto a camada Carimbo está selecionada, uma barra de ferramentas aparece na exibição 2D com controles adicionais.
+Quando a camada de carimbo de Clonar está selecionada, uma barra de ferramentas aparece no Visualização 2D com controles adicionais.
 
 * Selecione a <b>ferramenta Pincel </b> para adicionar à máscara ou a <b>ferramenta Apagar </b> para remover da máscara.
 * Define o tamanho da ferramenta atualmente selecionada.
@@ -118,8 +118,8 @@ Enquanto a camada Carimbo está selecionada, uma barra de ferramentas aparece na
   * <b>Divisão de pincel</b>: \
     Alterna a divisão em blocos gráficos do pincel X e Y.
   * <b>Sobreposição:</b>\
-    Se marcada, a sobreposição é mostrada ao passar o mouse sobre a exibição 2D.
-* Exibir controles de exibição 2D.
+    Se marcada, a sobreposição é exibida ao passar o mouse sobre a Visualização 2D.
+* Exibir controles Visualização 2D.
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Enquanto a camada Carimbo está selecionada, uma barra de ferramentas aparece na
 
 ## Seleção de Origem
 
-Use Ctrl + clique na visualização 2D para adicionar uma nova fonte. Adicionar uma nova origem criará um carimbo adicional sob a camada Carimbo no <b>painel Camadas</b>. Você pode controlar cada estampa individualmente.
+Use Ctrl + clique na visualização 2D para adicionar uma nova fonte. Adicionar uma nova origem criará um carimbo adicional abaixo da camada Carimbo de Clonar no <b>painel Camadas</b>. Você pode controlar cada estampa individualmente.
 
 >[!NOTE]
 >

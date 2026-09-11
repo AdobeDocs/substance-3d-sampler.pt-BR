@@ -35,7 +35,7 @@ Os parâmetros que aparecem no **painel Propriedades** dependem do que você sel
 </td>
 <td style="border: 0;" valign="top">
 
-Nesta imagem do **painel Camadas**, cada ícone na pilha de camadas tem um conjunto diferente de parâmetros para controlar a aparência do material. Por exemplo, a camada Argila tem o ícone de material e o ícone de mesclagem, cada um com um conjunto separado de parâmetros. A camada Pintura de rolagem também tem ícones de material e mesclagem, mas como está sendo passado o mouse, também tem uma alternância de visibilidade.
+Nesta imagem do **painel Camadas**, cada ícone na pilha de camadas tem um conjunto diferente de parâmetros para controlar a aparência do material. Por exemplo, a camada Argila tem o ícone de material e o ícone de mesclagem, cada um com um conjunto separado de parâmetros. A Camada de tinta de rolagem também tem ícones de material e mesclagem, mas como está sendo passado o mouse, também tem uma alternância de visibilidade.
 
 </td>
 </tr>
