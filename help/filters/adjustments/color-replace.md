@@ -59,8 +59,8 @@ As imagens abaixo mostram **Substituição de cor** em ação. Observe como as �
   Ajuste o quanto os valores de luminosidade originais são afetados pela luminosidade da nova cor.
 * **Intervalo de máscaras**\
   A máscara é criada com base na combinação dos seguintes valores
-  * ****** Da Luminosidade **: 0-1\
-    O intervalo de luminosidade usado para criar a máscara ****
+  * **&#x200B;**&#x200B;**&#x200B; Da Luminosidade &#x200B;**: 0-1\
+    O intervalo de luminosidade usado para criar a máscara **&#x200B;**
   * **De Cor**: 0-1\
     O intervalo de cores usado para criar a máscara
 * **Smoothness de máscara**: 0-1\

@@ -35,7 +35,7 @@ Geradores de **Entrada:**
 
 Adicione um padrão ao seu material usando uma das opções disponíveis ou use uma imagem ou pincel para personalizar seu próprio padrão.
 
-*Um exemplo do **Filtro de padrão**aplicado ao jeans.*
+*Um exemplo do **Filtro de padrão**&#x200B;aplicado ao jeans.*
 
 <table>
 <tr style="border: 0;">

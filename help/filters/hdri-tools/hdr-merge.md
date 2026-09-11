@@ -33,7 +33,7 @@ ht-degree: 2%
 
 ## Descrição
 
-O **filtro** Mesclagem de HDR **** permite mesclar uma coleção de imagens SDR (Intervalo Dinâmico Padrão) para criar uma imagem HDR.
+O **filtro** Mesclagem de HDR **&#x200B;**&#x200B;permite mesclar uma coleção de imagens SDR (Intervalo Dinâmico Padrão) para criar uma imagem HDR.
 
 As imagens abaixo mostram os resultados da **Mesclagem de HDR**.
 

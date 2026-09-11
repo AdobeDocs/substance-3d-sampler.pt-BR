@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## Descrição
 
-Adicione uma camada de oxidação sobre a parte superior do material.*Uma superfície enrugada tem o **filtro de oxidado**aplicado.*
+Adicione uma camada de oxidação sobre a parte superior do material.*Uma superfície enrugada tem o **filtro de oxidado**&#x200B;aplicado.*
 
 <table>
 <tr style="border: 0;">

@@ -35,7 +35,7 @@ Ferramentas de **Entrada:**
 
 O Delighter permite que você remova as informações de iluminação do canal de cor de base. Isso é importante ao converter imagens em materiais, pois geralmente os materiais não devem incluir informações de iluminação. Um material é uma coleção de informações que explica como a luz deve reagir com uma superfície, de modo que, se já houver informações de luz feitas bake em um canal que não deve ter informações de luz, isso pode quebrar a capacidade do material de representar a superfície realisticamente.
 
-*Um **n exemplo de uma imagem antes e depois de ser processada pelo**filtro de Alegria (IA)**. Observe que as sombras e os realces foram removidos, restando apenas a cor de base.*
+*Um **n exemplo de uma imagem antes e depois de ser processada pelo**&#x200B;filtro de Alegria (IA)**. Observe que as sombras e os realces foram removidos, restando apenas a cor de base.*
 
 ![](../../assets/120-0-comparison.png)
 

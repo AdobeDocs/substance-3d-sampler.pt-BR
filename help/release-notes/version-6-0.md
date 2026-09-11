@@ -74,29 +74,29 @@ Mais informações *[aqui](../pipeline-and-integrations/hp-z-captis-support/your
 
 **Adicionado:**
 
-* &amp;lbrack;Assets&amp;rbrack; Verifique a versão do sbsar e avise os usuários se o mecanismo é muito antigo para lê-lo
-* &amp;lbrack;Captis&amp;rbrack; Adicionar opção de volta para salvar a fotometria das legendas nas preferências
+* &lbrack;Assets&rbrack; Verifique a versão do sbsar e avise os usuários se o mecanismo é muito antigo para lê-lo
+* &lbrack;Captis&rbrack; Adicionar opção de volta para salvar a fotometria das legendas nas preferências
 
 **Corrigido:**
 
-* &amp;lbrack;Exibição 2D&amp;rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
-* &amp;lbrack;Analytics&amp;rbrack; Eventos de análise ausentes
-* &amp;lbrack;Analytics&amp;rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
-* &amp;lbrack;Aplicativo&amp;rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
-* &amp;lbrack;Aplicativo&amp;rbrack; Corrigir saída do inspetor de coleções vinculadas + gerenciador de canais
-* &amp;lbrack;Aplicativo&amp;rbrack; Evitar falhas ao sair
-* O filtro &amp;lbrack;Content&amp;brack; “metal finish” não afeta a metalidade
-* &amp;lbrack;Content&amp;brack; Adicionar tamanho físico a filtros dinâmicos nos quais está faltando
-* &amp;lbrack;Filtros&amp;rbrack; Remover preenchimento sensível a conteúdo da lista de ativos ocultos
-* &amp;lbrack;Camadas&amp;rbrack; Clicar em &#39;redefinir todas as configurações&#39; não redefine o menu suspenso &#39;aplica a&#39;
-* &amp;lbrack;Camadas&amp;rbrack; Corrigir ajuste mínimo &amp; máximo para o widget de posição
-* &amp;lbrack;Camadas&amp;rbrack; Atualizar filtro corretamente
-* &amp;lbrack;Tamanho físico&amp;rbrack; Certificar-se de que a escala física está funcionando em todos os lugares + deixar o tamanho físico ok com filtros dinâmicos
-* &amp;lbrack;Projeto&amp;rbrack; Certifique-se de que a resolução do ativo é a padrão (2k x 2k) ao criar um novo ativo
-* &amp;lbrack;Projeto&amp;rbrack; Reabrindo o projeto atual usado para abrir a versão anterior
-* &amp;lbrack;Projeto&amp;rbrack; O Sampler não oferece mais a opção de restaurar um backup de projetos corrompidos
-* &amp;lbrack;Renderização&amp;rbrack; Renderizar a miniatura do material em no máximo 2k de resolução
-* &amp;lbrack;UI&amp;rbrack; Código defensivo para evitar falhas se o usuário for mais rápido que a interface
+* &lbrack;Exibição 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
+* &lbrack;Analytics&rbrack; Eventos de análise ausentes
+* &lbrack;Analytics&rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
+* &lbrack;Aplicativo&rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
+* &lbrack;Aplicativo&rbrack; Corrigir saída do inspetor de coleções vinculadas + gerenciador de canais
+* &lbrack;Aplicativo&rbrack; Evitar falhas ao sair
+* O filtro &lbrack;Content&brack; “metal finish” não afeta a metalidade
+* &lbrack;Content&brack; Adicionar tamanho físico a filtros dinâmicos nos quais está faltando
+* &lbrack;Filtros&rbrack; Remover preenchimento sensível a conteúdo da lista de ativos ocultos
+* &lbrack;Camadas&rbrack; Clicar em &#39;redefinir todas as configurações&#39; não redefine o menu suspenso &#39;aplica a&#39;
+* &lbrack;Camadas&rbrack; Corrigir ajuste mínimo &amp; máximo para o widget de posição
+* &lbrack;Camadas&rbrack; Atualizar filtro corretamente
+* &lbrack;Tamanho físico&rbrack; Certificar-se de que a escala física está funcionando em todos os lugares + deixar o tamanho físico ok com filtros dinâmicos
+* &lbrack;Projeto&rbrack; Certifique-se de que a resolução do ativo é a padrão (2k x 2k) ao criar um novo ativo
+* &lbrack;Projeto&rbrack; Reabrindo o projeto atual usado para abrir a versão anterior
+* &lbrack;Projeto&rbrack; O Sampler não oferece mais a opção de restaurar um backup de projetos corrompidos
+* &lbrack;Renderização&rbrack; Renderizar a miniatura do material em no máximo 2k de resolução
+* &lbrack;UI&rbrack; Código defensivo para evitar falhas se o usuário for mais rápido que a interface
 
 ### **6.0.1**
 
