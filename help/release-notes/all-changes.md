@@ -6,19 +6,28 @@ helpx_description: Sampler > Release Notes > All Changes
 title: Todas as alterações
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '24940'
+source-wordcount: '24964'
 ht-degree: 0%
-
 ---
-
 
 # Todas as alterações
 
 Esta página agrupa todas as alterações que aconteceram no Substance 3D Sampler, desde novos recursos até correções de erros.
 
 ## Versão 6
+
+### **6.0.4**
+
+*(Lançado em: 24 de setembro de 2026)*
+
+**Alterado**
+Atualização do Substance Engine para 9.6.1 do [Engine]
+
+**Corrigido**
+[Camadas] falham ao adicionar imagem à máscara de relevo
+Correções gerais de [segurança]
 
 ### **6.0.3**
 
@@ -39,7 +48,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 
 **Corrigido:**
 
-* &lbrack;Visualização 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desativado
+* &lbrack;Exibição 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
 * &lbrack;Analytics&rbrack; Eventos de análise ausentes
 * &lbrack;Analytics&rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
 * &lbrack;Aplicativo&rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
@@ -113,7 +122,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Renderização&rbrack; a rotação de Textura não foi convertida de 0-1 para 0-360
 * &lbrack;Scripting&brack; Remover classes não existentes da documentação do Python
 * &lbrack;Scripting&rbrack; seletedAsset retorna Nenhum se não houver nenhum ativo selecionado
-* &lbrack;Ferramentas&rbrack; Redefinir um valor de textura agora para de pintar e limpa a visualização de correção
+* &lbrack;Ferramentas&rbrack; A redefinição de um valor de textura agora para de pintar e limpa a exibição de correção
 * &lbrack;UI&rbrack; Não feche as seções no painel de propriedades sempre que algo for ajustado
 * &lbrack;UI&rbrack; Rótulo de ajuste de cor exposto invisível ao passar o mouse
 * &lbrack;UI&rbrack; Corrigir comportamento responsivo da lista de ativos
@@ -520,7 +529,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * O cache do &brack;Application&brack; agora está armazenado em uma subpasta separada
 * &preto;Geração de AI&rbrack; Imagem para Textura (Beta)
 * &Preta;Geração de AI&rbrack; Texto com Padrão (Beta)
-* &Preenchimento;Geração de AI&rbrack; Texto para Textura (Beta)
+* &Preta;Geração de AI&rbrack; Texto para Textura (Beta)
 * &lbrack;Scripting&brack; Os ativos agora têm uma propriedade &#39;resource&#39;
 * As camadas do &brack;Scripting&brack; agora têm uma propriedade &#39;output_usages&#39;
 
@@ -558,7 +567,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Aplicativo&rbrack; o Sampler não responde por um momento quando iniciado pela primeira vez
 * O mapa de Ângulos de anisotropia do &brack;Export&brack; não é exportado
 * &lbrack;Filtros&rbrack; Adicionar um tecido à pilha de camadas pode causar um travamento
-* &lbrack;Filtros&rbrack; Adicionar um Relevo à pilha de camadas pode causar um travamento
+* &lbrack;Filtros&rbrack; Adicionar Entalhe à pilha de camadas pode levar a um travamento
 * &lbrack;Filtros&rbrack; O Preenchimento sensível ao conteúdo falha ao usar imagens de 32 bits
 * &lbrack;Filtros&rbrack; Relevo: a opacidade das camadas abaixo não é totalmente substituída
 * &lbrack;Filtros&rbrack; Preenchimento: o modo Combinar não funciona no Designer e no Painter
@@ -753,7 +762,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Export&brack; Exibir resolução do canal nos canais para exportar lista
 * &lbrack;Application&brack; Nova preferência para ativar ou desativar redes neurais aceleradas por GPU
 * &lbrack;UI&rbrack; Melhorias nas listas suspensas de resolução
-* &lbrack;UI&rbrack; Novos ícones para os filtros Transformação em malha, Pós-processo em malha e Entrelinha
+* &lbrack;UI&rbrack; Novos ícones para os filtros Transformo de malha, Pós-processo de malha e tecelagem
 * &lbrack;UI&rbrack; Renomeie o painel “Compartilhar” para “Exportar”
 * &lbrack;Scripting&brack; Adicionar suporte de resolução de saída de camada à API de exportação
 * &lbrack;Scripting&rbrack; Adicionado Corte, Ampliação e Tamanho do documento à API de importação de imagem
@@ -909,17 +918,17 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;captura 3D; Remover uma máscara faz a imagem desaparecer
 * &lbrack;Aplicativo&rbrack; Falha ao importar duas vezes um ativo simultaneamente
 * &lbrack;Aplicativo&rbrack; Fazer backup da versão anterior dos ativos ao abrir um projeto, se eles nunca tiverem feito backup
-* &lbrack;Aplicativo&rbrack; Armazena corretamente em cache os mapas baked quando nem todos os mapas estão armazenados
+* &lbrack;Aplicativo&rbrack; Armazena em cache os mapas baked corretamente quando nem todos os mapas são feitos bake
 * &lbrack;O aplicativo&rbrack; trava quando um objeto 3D é exibido.
 * &lbrack;Aplicativo&rbrack; O último material é duplicado ao salvar o projeto
-* &lbrack;Aplicativo&rbrack; Evitar falhas ao cancelar o computador de Pós-processamento de Malha durante a etapa de cozimento
+* &lbrack;Aplicativo&rbrack; Evitar falha ao cancelar o computador de Pós-processamento de Malha durante a etapa de fça bake
 * &lbrack;Aplicativo&rbrack; A reabertura do projeto atual não descarta as alterações
 * &lbrack;Aplicativo&rbrack; Parar de gerar miniaturas para objetos 3D
 * &lbrack;Visualização 2D&rbrack; Falha ao usar a ferramenta pincel
 * &lbrack;Content&rbrack; Preenchimento sensível ao conteúdo - a computação pode travar
 * &lbrack;Content&brack; O filtro Criador de Atlas está reduzindo o canal Opacidade
 * &lbrack;Export&rbrack; Corrigir falha ao limpar fila de exportações
-* &lbrack;Exportar&rbrack; exportação OBJ cria objeto 100 vezes menor do que o esperado
+* &lbrack;Export&brack; A exportação de OBJ cria objetos 100 vezes menores do que o esperado
 * &preto;Camadas&rbrack; As imagens coloridas importadas como canais em tons de cinza agora são consideradas tons de cinza
 * &lbrack;Os arquivos FBX do Export&brack; não podem ser importados em aplicativos de terceiros
 * &lbrack;Export&rbrack; os nomes de saída do Sombreador nos arquivos USD não estão corretos
@@ -975,7 +984,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;captura 3D; Cada uma das versões é automaticamente dizimada para o conjunto de números de faces de destino
 * &lbrack;captura 3D&rbrack; A etapa de pós-processamento automaticamente desembrulha, reprojeta texturas e, em seguida, faz bake as informações normais de height e AO da malha de alto polígono
 * &lbrack;captura 3D&rbrack; Adicionar o resultado original ou uma versão ao projeto do Sampler
-* &lbrack;captura 3D&rbrack; Nova camada de Pós-processamento de Malha para dizimar, quebrar, reprojetar texturas automaticamente e fazer bake detalhes da camada de malha subjacente
+* &lbrack;captura 3D&rbrack; Nova camada de Pós-processamento de Malha para dizimar, desempacotar, reprojetar texturas e preparar automaticamente detalhes da camada de malha subjacente
 * &lbrack;captura 3D&rbrack; Nova camada de Transformo de Malha para dimensionar, girar ou traduzir a camada de malha subjacente
 * &brack;Exportar&rbrack; Nova janela de Exportação
 * &lbrack;Export&brack; Configurações dedicadas e interface dependendo do tipo de ativo (material, iluminação do ambiente, malha)
@@ -1199,7 +1208,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Ferramentas&rbrack; Centralize a transformação pressionando Ctrl ao redimensionar a ferramenta Transformar ou Cortar
 * &lbrack;Ferramentas&rbrack; Bloqueie a proporção para o quadrado pressionando Shift ao redimensionar a ferramenta Transformar ou Cortar
 * &lbrack;Ferramentas&rbrack; o cursor do carimbo de Clonar oferece uma previsão do que será carimbado
-* &lbrack;Ferramentas&rbrack; Visualize o conteúdo original no cursor Borracha ao usar o Carimbo
+* &lbrack;Ferramentas&rbrack; Visualize o conteúdo original no cursor de Borracha ao usar o carimbo de Clonar
 * &lbrack;Tools&brack; Ctrl+Clique cria um novo carimbo na camada Clonar Carimbo
 * &lbrack;Ferramentas&rbrack; Carimbos de clonagem sucessivos agora são agrupados em uma única camada
 * &lbrack;Ferramentas&rbrack; Pincel barra de ferramentas IU Renovar
@@ -1209,9 +1218,9 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Ferramentas&rbrack; Novo atalho, tecla “X”, para alternar entre Pincel e Borracha
 * &lbrack;Ferramentas&rbrack; Novo atalho, “&lbrack;” “&rbrack;” para alterar o tamanho do pincel
 * &lbrack;Ferramentas&rbrack; Novo atalho, tecla “E”, para alternar a Borracha
-* &lbrack;Exibição 2D&rbrack; Novo modo de Projeção esférica ao criar luz ambiente
+* &lbrack;Visualização 2D&rbrack; Novo modo de Projeção esférica ao criar iluminação do ambiente
 * A ferramenta Pincel do &lbrack;Visualização 2D&rbrack; é suportada com o modo de projeção esférica
-* &lbrack;A ferramenta de Posição do &amp;2D View&rbrack; é suportada com o modo de projeção esférica
+* A ferramenta de Posição do &lbrack;Visualização 2D&rbrack; é suportada com o modo de projeção esférica
 * &lbrack;Visualização 2D; Desfazer/refazer é suportado com o modo de projeção esférica
 * &lbrack;Visualização 2D; Na Projeção esférica, defina a posição padrão para olhar para o centro do ambiente
 * &lbrack;Visualização 2D&rbrack; Novo controle de exposição
@@ -1360,7 +1369,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Camadas&rbrack; Nenhuma atualização é sugerida quando um filtro personalizado é atualizado no disco
 * &lbrack;Camadas&rbrack; O canal Normal às vezes tem o formato de pixel incorreto
 * &lbrack;Camadas&rbrack; Algumas camadas ainda são computadas mesmo quando não visíveis
-* &lbrack;Camadas&rbrack; As ferramentas de exibição 2D podem ser interrompidas ao alternar a visibilidade de uma camada
+* &lbrack;Camadas&rbrack; As ferramentas podem ser quebradas ao alternar a visibilidade de uma camada
 * &lbrack;Camadas&rbrack; A interface congela ao usar a Imagem para material (AI)
 * &lbrack;Camadas&rbrack; Alternar a visibilidade da camada de filtro de Transformo interrompe a ferramenta de Visualização 2D e pode levar a um travamento
 * &lbrack;Camadas&rbrack; Muitos recálculos ao remover uma camada da pilha de camadas
@@ -1424,7 +1433,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 **Corrigido:**
 
 * &lbrack;Content&brack; Cortar - Preservar proporção ao cortar imagens não quadradas
-* &lbrack;Transformo do Content&brack; - A transformação horizontal não é invertida ao usar o widget
+* &lbrack;Content&brack; Transform - A transformação horizontal não é invertida ao usar o widget
 * &lbrack;Content&brack; Gravel - corrigir pintura de máscara personalizada em todos os canais
 * &lbrack;Content&brack; Ladrilhos do piso - corrigir problemas com divisão em blocos gráficos e repetição de padrão
 * &lbrack;Assets&rbrack; opção Gray out Adobe Bridge se não estiver instalada
@@ -1460,7 +1469,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;UI&rbrack; Nova interface deslizante de escala de cinza
 * &lbrack;Aplicativo&rbrack; Adicionar seleção de formato normal nas preferências
 * &lbrack;Aplicativo&rbrack; O formato normal nas camadas de importação de imagem segue o formato normal padrão definido nas preferências
-* &lbrack;Aplicativo&rbrack; Na exibição 2D, o normal é exibido seguindo o formato normal definido nas preferências
+* &lbrack;Aplicativo&rbrack; No Visualização 2D, o normal é exibido seguindo o formato normal definido nas preferências
 * &lbrack;Aplicativo&rbrack; O normal é exportado no formato normal definido nas preferências
 * &lbrack;Export&brack; Adicionar parâmetro de formato normal às exportações de arquivos SBS e SBSAR
 * &preto;Exportar&rbrack; Adicionar configurações de sombreador às exportações de arquivos SBS e SBSAR
@@ -1519,7 +1528,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Pincel&rbrack; manter a tecla Shift pressionada na ferramenta pincel desenha linhas retas
 * &lbrack;Pincel&rbrack; Mostra uma visualização de linha ao manter a tecla Shift pressionada na ferramenta Pincel
 * A ferramenta Pincel &preto;Pincel&rbrack; agora suporta desfazer e refazer
-* &lbrack;Visualização 2D&rbrack; A cor padrão de entrada da imagem é usada ao pintar
+* &lbrack;Visualização 2D; A cor padrão de entrada da imagem é usada ao pintar
 * &lbrack;Camadas&rbrack; Leitura do valor padrão de entrada de Substance em arquivos SBSAR
 * &lbrack;Renderização&rbrack; Permitir combinar height com normal
 * &lbrack;Renderização&rbrack; Suporte à dispersão de subsuperfícies (não disponível no MacOS)
@@ -1530,18 +1539,18 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Import&brack; Detectar automaticamente texturas de anisotropia, capa, brilho e specular edge color na importação
 * &lbrack;UI&rbrack; Substitui o título do painel com cabeçalho por um ícone
 * &lbrack;UI&rbrack; Atualização do estilo de campos de texto
-* &lbrack;UI&rbrack; Novo texto de descrição na janela de Criação do Modelo de Luz do Ambiente
+* &lbrack;UI&rbrack; Novo texto de descrição na janela de Criação do Modelo de Iluminação do ambiente
 * &preto;Aplicativo&rbrack; Exportar ativos com a resolução atual ao enviar para um aplicativo externo
 * &lbrack;A resolução padrão do material agora é 2048\*2048 (1024\*1024 no macos)
-* &lbrack;Content&brack; Novos padrões no filtro Ladrilhos
+* &lbrack;Content&brack; Novos padrões no filtro de blocos de Número inteiro
 * &lbrack;Content&brack; Novo modo de Cor Dupla no filtro Substituição de cor
 
 **Corrigido:**
 
 * &lbrack;Visualização 2D&rbrack; O primeiro traçado na ferramenta pincel às vezes é quebrado
 * &lbrack;Visualização 2D&rbrack; Recursos livres quando a ferramenta pincel não está visível
-* &lbrack;Exibição 2D&rbrack; Usar o cursor de redimensionamento direito no widget de transformação
-* &lbrack;Visualização 2D&rbrack; Os widgets não são exibidos se o usuário já tiver feito panorâmica na visualização 2D antes
+* &lbrack;Visualização 2D&rbrack; Usar o cursor de redimensionamento à direita no widget de transformo
+* &lbrack;Visualização 2D&rbrack; Os widgets não são exibidos se o usuário já tiver usado a panorâmica no Visualização 2D antes
 * &lbrack;Aplicativo&rbrack; Falha ao abrir um projeto com fluxo de trabalho quebrado
 * &lbrack;Aplicativo&rbrack; Corrigir o desligamento do aplicativo para evitar inundar o log com erros inúteis
 * &lbrack;Aplicativo&rbrack; Refazer, excluir e salvar atalhos de teclado não funcionam em alguns sistemas operacionais
@@ -1631,7 +1640,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Projeto&rbrack; Abrir um .sbsar a partir do explorador do sistema operacional iniciará o Sampler com um novo projeto com este arquivo .sbsar pronto para uso
 * &lbrack;Projeto&rbrack; Abra um .alch (arquivo de Substance Alchemist legado) do explorador do sistema operacional
 * &lbrack;Painel do projeto&rbrack; Novo painel que conterá todos os ativos criados em um projeto
-* &preto;Painel do projeto&rbrack; Criar um ativo (material ou luz ambiente) usando o ícone +
+* &preto;Painel do projeto&rbrack; Criar um ativo (material ou iluminação do ambiente) usando o ícone +
 * &preto;Painel do projeto&rbrack; Clicar com o botão direito do mouse no ativo abre um menu de contexto
 * &lbrack;Painel do Projeto&rbrack; No menu de contexto acessado ao clicar com o botão direito do mouse, é possível excluir um ativo
 * &lbrack;Painel do projeto&rbrack; No menu de contexto do botão direito do mouse, você pode duplicar um ativo
@@ -1639,9 +1648,9 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Painel do projeto&rbrack; Alternar entre ativos não perderá as modificações
 * &lbrack;Resolução&rbrack; Agora você pode definir uma resolução não quadrada para todos os seus ativos
 * &lbrack;Resolution&rbrack; O valor de resolução é salvo por um ativo dentro de um projeto
-* &preto;Luz ambiente&rbrack; Criar luz ambiente no Substance 3D Sampler
-* &preto;Luz ambiente&rbrack; Ao criar uma luz ambiente, arrastar e soltar imagens exibirá a janela Modelo de criação de luz ambiente
-* &preto;Luz do ambiente&rbrack; No Modelo de criação da Luz do ambiente, selecione Importação do ambiente para atribuir sua imagem ao ambiente na visualização 3D
+* &lbrack;Iluminação do ambiente&rbrack; Criar iluminação do ambiente no Substance 3D Sampler
+* &lbrack;Iluminação do ambiente&rbrack; Ao criar uma iluminação do ambiente, arrastar e soltar imagens exibirá a Janela Modelo de Criação de Iluminação do ambiente
+* &lbrack;Iluminação do ambiente&rbrack; No Modelo de Criação de Iluminação do ambiente, selecione Importação de Ambiente para atribuir sua imagem ao ambiente na visualização 3D
 * &lbrack;Luz do ambiente&rbrack; No Modelo de criação da luz ambiente, selecione Mesclar HDR para criar uma luz ambiente de várias imagens de 360 graus com diferentes exposições
 * &lbrack;Luz do ambiente&rbrack; No Modelo de criação da Luz do ambiente, selecione “Usar como bitmap” para editar a(s) imagem(ns) antes de criar uma luz do ambiente
 * &preto;Luz do ambiente&rbrack; Atribui o uso do ambiente na camada de importação de imagem para atribuir diretamente a imagem ao ambiente na visualização 3D
@@ -1679,11 +1688,11 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Adobe Photoshop&rbrack; A cada salvamento no Adobe Photoshop, a imagem editada será recarregada no Sampler
 * &lbrack;Os ativos do Substance 3D Designer&rbrack; enviados do Adobe Substance 3D Designer chegarão diretamente na seção “Seus ativos” do painel Ativos
 * &lbrack;Exportar&rbrack; Envia ativos diretamente para o Adobe Substance 3D Painter e Adobe Substance 3D Stager
-* &lbrack;Export&brack; Enviar materiais e iluminações do ambiente para o Adobe Substance 3D Painter
+* &preto;Exportar&rbrack; Enviar materiais e luzes ambiente para o Adobe Substance 3D Painter
 * &preto;Exportar&rbrack; Enviar iluminações do ambiente para o Adobe Substance 3D Stager
 * &lbrack;Renderização&rbrack; Novas propriedades de material agora são suportadas e renderizadas em 3D
 * &lbrack;Renderização&rbrack; Adição de suporte a Brilho (Cor do brilho, opacidade de Brilho e aspereza de Brilho)
-* &lbrack;Renderização&rbrack; Adição de suporte a Revestimento (Cor do revestimento, Aspereza do revestimento, Normal do revestimento, Nível especular do revestimento e Revestimento IOR)
+* &lbrack;Renderização&rbrack; Adição de suporte a Revestimento (Cor de revestimento, Aspereza do revestimento, Revestimento normal, Specular level de revestimento e Revestimento IOR)
 * &lbrack;Renderização&rbrack; Adicionando suporte a Anisotropia (Nível de anisotropia e Ângulo de anisotropia)
 * &lbrack;Renderização&rbrack; Adicionando suporte a Speculares edge colores
 * &lbrack;Renderização&rbrack; Ativar estas novas propriedades no painel Configurações do canal
@@ -1878,13 +1887,13 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Camadas&rbrack; O cache de disco não é usado ao inserir uma pilha em uma pilha
 * &lbrack;Camadas&rbrack; Alguns usos de canal são computados embora não sejam usados
 * &lbrack;Camadas&rbrack; Saídas em branco são criadas às vezes ao importar imagens
-* &lbrack;Exibição 2D&rbrack; Alternando para outra camada com o modo de Desenho ativa bloqueia a panorâmica e o zoom
-* &lbrack;Content&brack; Snow - Problema de 8 bits no mapa normal
+* &lbrack;Visualização 2D&rbrack; Alternar para outra camada com o modo de Desenho ativa bloqueia a panorâmica e o zoom
+* &lbrack;Content&brack; Snow - problema de 8 bits no mapa normal
 * &lbrack;Content&brack; Padrão de pavimento - problema de 8 bits no mapa normal
 * &lbrack;Content&brack; Equalizador - Problema de 8 bits no mapa normal
 * &lbrack;Content&brack; Gravel Generator - problema de 8 bits no mapa normal
-* &lbrack;Content&brack; Floor Tiles - Manipular opacidade e specular level
-* &lbrack;Content&rbrack; O mesclador reinicia a predefinição de exportação - inverter mapa normal
+* &lbrack;Content&brack; Número inteiro ladrilhos - Manipular opacidade e specular level
+* &amp;predefinição de exportação - inverter mapa normal
 * &lbrack;Content&brack; Corrigir problema com imagens enormes com Imagem para material (alimentado por IA)
 * &lbrack;Application&brack; Falha ao escolher “Fazer Backup e Reiniciar” em erro de banco de dados
 * &lbrack;Aplicativo&rbrack; Falha ao clicar rapidamente no mesmo ativo
@@ -1906,7 +1915,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * O Delighter trava com drivers NVIDIA mais antigos (menos de 400.x)
 * Os filtros de Preenchimento sensível a conteúdo são lentos em alta resolução
 * Coma ou ponto pode ser ignorado ao digitar um valor específico em um controle deslizante
-* Impossível salvar duas vezes exatamente a mesma pilha de camadas de material
+* Impossível salvar duas vezes a mesma pilha de camadas de material exata
 
 ### 2.2.0 (2020.2.0) Udon
 
@@ -1921,15 +1930,15 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Importação de imagem&rbrack; Ser capaz de arrastar e soltar imagens adicionais no Modelo de criação de material
 * &lbrack;Importação de imagem&rbrack; Ser capaz de remover imagens no Modelo de criação de material
 * &preto;Importação de imagem&rbrack; Atribui canal aos bitmaps importados automaticamente com base no nome do arquivo
-* &preto;Importação de imagem&rbrack; Ser capaz de inverter mapas normais
+* &lbrack;Importação de imagem&rbrack; Ser capaz de inverter mapas normais
 * &lbrack;Visualização 2D&rbrack; Introdução de um modo de pintura
-* &lbrack;Exibição 2D&rbrack; Os blocos de pintura
+* &lbrack;Visualização 2D; Os ladrilhos de pintura
 * &lbrack;Visualização 2D; Define um valor em tons de cinza para a cor do pincel
-* &lbrack;Exibição 2D&rbrack; Panorâmica e zoom ao pintar
-* &lbrack;Visualização 2D&rbrack; X atalho para inverter o valor do pincel em escala de cinza
-* &lbrack;Exibição 2D&rbrack; &lbrack; e &rbrack; atalhos para alterar o tamanho do pincel
-* &lbrack;Exibição 2D&rbrack; Ctrl (ou Cmd) + Roda do mouse alteram o tamanho do pincel
-* &lbrack;Exibição 2D&rbrack; Agora é possível modificar a posição do código-fonte ao usar Clonar correção
+* &lbrack;Visualização 2D; Panorâmica e zoom ao pintar
+* &lbrack;Visualização 2D&rbrack; Atalho de X para inverter o valor do pincel em escala de cinza
+* &lbrack;Visualização 2D&rbrack; &lbrack; e &rbrack; atalhos para alterar o tamanho do pincel
+* &lbrack;Visualização 2D&rbrack; Ctrl (ou Cmd) + Roda do mouse alteram o tamanho do pincel
+* &lbrack;Visualização 2D&rbrack; Agora é possível modificar a posição do código-fonte ao usar o Clonar Patch
 * &preto;Camadas&rbrack; Shift + arrastar e soltar para atlas de dispersão automática
 * &lbrack;Camadas&rbrack; Alt + arrastar e soltar insere um material como um decalque
 * &lbrack;Camadas&rbrack; Expor facilmente as matriz de transformação do Substance Designer
@@ -1989,7 +1998,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Content&brack; Corrigir mudança de cor com o filtro avançado Tornar bloco
 * &lbrack;Desempenho&rbrack; Abrir uma caixa de diálogo de cores é lento e recalcula a camada atual
 * Atalhos de teclado do &brack;UI&rbrack; às vezes não funcionam
-* &lbrack;2D Visualizar&rbrack; Preenchimento sensível a conteúdo precisa de um primeiro clique inútil para funcionar
+* O Preenchimento Sensível ao Conteúdo do &lbrack;Visualização 2D&rbrack; precisa de um primeiro clique inútil para funcionar
 * &lbrack;Recursos&rbrack; As pastas em discos locais ainda são monitoradas por atualizações após sua remoção
 * &lbrack;Resources&rbrack; Excluir uma pasta vinculada do sistema de arquivos não a remove
 * &preto;Exportar&rbrack; Os usos personalizados em predefinições de exportação personalizadas não são exportados
@@ -2000,12 +2009,12 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * Recálculos repetitivos de imagem para material (com IA) podem acionar um travamento (memória insuficiente)
 * Recálculos repetitivos do Delighter podem disparar uma falha (memória insuficiente)
 * O uso de imagem para material (viabilizado por IA) em imagens de alta resolução pode ser lento
-* O uso de imagem para material (alimentado por IA) em GPU com baixo VRAM pode acionar uma falha (memória insuficiente)
+* O uso de imagem para material (alimentado por IA) em GPU com VRAM baixo pode acionar uma falha (memória insuficiente)
 * A imagem para material (alimentada por IA) não está disponível em Specular/textura reluzente de PBR
 * O Delighter trava com drivers NVIDIA mais antigos (menos de 400.x)
 * Os filtros de Preenchimento sensível a conteúdo são lentos em alta resolução
 * Coma ou ponto pode ser ignorado ao digitar um valor específico em um controle deslizante
-* Impossível salvar duas vezes exatamente a mesma pilha de camadas de material
+* Impossível salvar duas vezes a mesma pilha de camadas de material exata
 
 ### 2.1.1 (2020.1.1) Tiramisu
 
@@ -2040,7 +2049,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Recursos&rbrack; Os filtros personalizados importados em versões anteriores funcionam
 * &lbrack;Recursos&rbrack; Os materiais com o mesmo nome não se apagam mais
 * &lbrack;Resources&rbrack; Falha ao vincular uma pasta local
-* &lbrack;Resources&rbrack; As pastas criadas pelo usuário dos materiais de início não são mais removidas após uma reinicialização
+* &lbrack;Recursos&rbrack; Materiais iniciais criados pelo usuário não são mais removidos após uma reinicialização
 * &lbrack;Inspire&brack; Corrija a área de soltar material/coleção e adicione uma mensagem de aviso se estiver usando um material não salvo
 
 **Problemas Conhecidos:**
@@ -2083,7 +2092,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &preto;Tela de boas-vindas&rbrack; Novo banner de boas-vindas
 * &lbrack;Projeto&rbrack; Abrir último projeto na inicialização
 * &lbrack;UI&rbrack; Novo estilo de caixa de combinação
-* &lbrack;exibição 2D&rbrack; F atalho para focalizar na exibição 2d
+* &lbrack;Visualização 2D&rbrack; F atalho para focar na visualização 2d
 * &lbrack;Filtros&rbrack; Adicionado suporte para a tag alchemist::parameterVisibility em gráficos de Substance
 * &lbrack;Filtros&rbrack; Tenha um ajuste global para gerenciar a visibilidade de parâmetros com base no seu fluxo de trabalho
 * &lbrack;Resources&rbrack; Nova opção de linha de comando para configurar recursos e pastas vinculadas com um arquivo de configuração
@@ -2290,10 +2299,10 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Ajuda&rbrack; Corrigir arquivo de log de exportação
 * &lbrack;Content&brack; O filtro Aleatório funciona em todos os canais
 * &lbrack;Content&brack; O fluxo de trabalho de multiângulo leva todas as digitalizações em consideração
-* &lbrack;Content&brack; AO Mesclar mistura correta
-* &lbrack;Conteúdo&rbrack; Curvatura Mesclar mistura correta
-* &lbrack;Content&brack; Mistura correta da ID de cor
-* &lbrack;Content&brack; Mesclagem de máscara personalizada correta
+* &lbrack;Content&brack; AO Combinar correta mesclagem
+* &lbrack;Conteúdo&rbrack; Curvatura Combinar de mistura correta
+* &lbrack;Content&rbrack; Combinar de ID de cor correta
+* &lbrack;Content&rbrack; Personalizar Combinar de máscaras mistura correta
 * &lbrack;Content&rbrack; Corrigir filtro de ajuste para modificação de aspereza
 * &lbrack;Content&rbrack; Corrigir filtro de Material de base para upload de canais normais personalizados
 * &lbrack;Content&brack; Corrigir padrão de importação personalizada do filtro de entalhe
@@ -2342,14 +2351,14 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Content&brack; Nova versão do filtro Delighter
 * &lbrack;Content&brack; Novo filtro de Preenchimento sensível ao conteúdo da imagem
 * &lbrack;Content&brack; Novo filtro de Preenchimento sensível a conteúdo de material
-* O filtro de Transformação do &Preenchimento; tem uma opção de transformação segura
+* O filtro de Transformo &lbrack;Content&brack; tem uma opção de transformo segura
 
 **Corrigido:**
 
 * Todos os erros anteriores relacionados ao Create são inválidos hoje com a nova interface do usuário e a versão da arquitetura
 * As dicas de ferramenta não ocultam os ícones na barra superior (3D, 2D, 2D/3D)
 * &lbrack;Content&rbrack; O filtro Respingo aceita Atlas com mapa de altura completo
-* &lbrack;Content&brack; O filtro Transformar funciona em imagens (scan1, scan2,...)
+* O filtro de Transformo &lbrack;Content&brack; funciona em imagens (scan1, scan2,...)
 
 **Problemas Conhecidos:**
 
@@ -2467,13 +2476,13 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * &lbrack;Content&brack; Novo filtro de acabamento metálico
 * &lbrack;Content&rbrack; Novo Filtro de Snow
 * &lbrack;Content&brack; Novo filtro aleatório
-* &lbrack;Content&brack; Agora você pode importar suas texturas diretamente no filtro Material de base
+* &lbrack;Content&brack; Agora você pode importar suas texturas diretamente no filtro de Material de base
 
 **Corrigido:**
 
 * Corrigir uma falha ao salvar a pilha de camadas
 * É possível adicionar um valor acima de 1 no controle deslizante de rotação do ambiente
-* Não perca os parâmetros de mesclagem quando uma camada de mesclagem for transformada para frente e para trás de uma camada de mesclagem para uma camada de material
+* Não perca os parâmetros de mesclagem quando uma camada de mesclagem for transformada para frente e para trás da camada de mesclagem para a camada de material
 * Corrigir duplicatas ao gerar variações da mesma pilha de camadas várias vezes
 * Ao reabrir um material, o Alchemist se lembra dos intervalos modificados (mínimo e máximo) dos controles deslizantes
 
@@ -2540,7 +2549,7 @@ Esta página agrupa todas as alterações que aconteceram no Substance 3D Sample
 * Corrigir pequenos problemas de fonte nas janelas pop-up
 * Corrigir problema de interface de transparência devido a um conflito com o parâmetro FXAA de algumas placas NVIDIA
 * Remover o foco do campo depois de inserir um valor em um controle deslizante
-* Aloque a quantidade mínima de VRAM para o delicioso para reduzir travamentos
+* Aloque a quantidade mínima de VRAM para o delighter para reduzir travamentos
 * Corrigir o congelamento da janela ao redimensionar a janela do aplicativo
 * Correção de uma falha em que a pilha de camadas era excluída durante a avaliação
 
