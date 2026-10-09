@@ -48,7 +48,7 @@ Correções gerais de [segurança]
 
 **Corrigido:**
 
-* &lbrack;Exibição 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desabilitado
+* &lbrack;Visualização 2D&rbrack; Não “exibir com proporção física” se o tamanho físico estiver desativado
 * &lbrack;Analytics&rbrack; Eventos de análise ausentes
 * &lbrack;Analytics&rbrack; Impedir que o bloco de anotações reporte uma falha no vk devicelost
 * &lbrack;Aplicativo&rbrack; Não destrua dispositivos vkna saída para evitar uma falha no driver nvidia
@@ -122,7 +122,7 @@ Correções gerais de [segurança]
 * &lbrack;Renderização&rbrack; a rotação de Textura não foi convertida de 0-1 para 0-360
 * &lbrack;Scripting&brack; Remover classes não existentes da documentação do Python
 * &lbrack;Scripting&rbrack; seletedAsset retorna Nenhum se não houver nenhum ativo selecionado
-* &lbrack;Ferramentas&rbrack; A redefinição de um valor de textura agora para de pintar e limpa a exibição de correção
+* &lbrack;Ferramentas&rbrack; Redefinir um valor de textura agora para de pintar e limpa a visualização de correção
 * &lbrack;UI&rbrack; Não feche as seções no painel de propriedades sempre que algo for ajustado
 * &lbrack;UI&rbrack; Rótulo de ajuste de cor exposto invisível ao passar o mouse
 * &lbrack;UI&rbrack; Corrigir comportamento responsivo da lista de ativos
@@ -215,18 +215,18 @@ Correções gerais de [segurança]
 
 **Adicionado:**
 
-* &lbrack;Exibição 2D&rbrack; Consegue reduzir mais na exibição 2D para texturas de alta resolução
+* &lbrack;Visualização 2D&rbrack; Consegue reduzir mais o zoom nas texturas de alta resolução do Visualização 2D
 * &lbrack;Captis&rbrack; Avisa os usuários sobre problemas ao copiar arquivos
 * &lbrack;Camadas&rbrack; Ao duplicar uma camada, use um número incremental no nome da nova camada
 
 **Corrigido:**
 
-* &lbrack;Exibição 2D&rbrack; Ao pintar traçados após redefinir todas as propriedades do Carimbo, os traçados criados anteriormente reaparecerão
+* &lbrack;Visualização 2D&rbrack; Ao pintar traçados após redefinir todas as propriedades do Carimbo de Clonar, os traçados criados anteriormente reaparecem
 * &lbrack;Aplicativo&rbrack; “Salvar projeto atual?” o pop-up usa um nome de projeto incorreto
 * &lbrack;O aplicativo &rbrack; falha ao sair
 * &lbrack;Aplicativo&rbrack; Possível falha
 * &lbrack;Application&brack; Às vezes, uma miniatura é gerada com um material incorreto
-* &lbrack;Captis&rbrack; Em alguns dispositivos, ao executar uma varredura em alta resolução, o mapa de height fica preto
+* &lbrack;Captis&rbrack; Em alguns dispositivos, ao executar uma digitalização em alta resolução, o mapa de altura é preto
 * &lbrack;Captis&rbrack; O botão “Iniciar captura” não é mais desativado quando nenhum nome de captura está definido e quando uma calibragem está em execução
 * &lbrack;Export&rbrack; Ao exportar um arquivo .sbsar, a exportação pode falhar sem que o usuário seja notificado
 * &lbrack;Filtros&rbrack; Tela de parâmetros avançados para o filtro de divisão em blocos automáticos às vezes pisca ao ajustar parâmetros
@@ -269,7 +269,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Menu de contexto ao clicar com o botão direito do mouse em uma camada para renomear, duplicar, excluir ou nivelar a camada
 * &lbrack;Integração&rbrack; Atualizar conteúdo de telas de Boas-vindas e Novidades
 * &lbrack;Desempenho&rbrack; Melhor desempenho ao usar o filtro Corte demarcado
-* &lbrack;Desempenho&rbrack; Melhorar o uso de memória para a Visualização 3D
+* &lbrack;Desempenho&rbrack; Melhorar o uso de memória para o Visualização 3D
 * &lbrack;Desempenho&rbrack; A atualização da visualização 3D é mais rápida
 * &lbrack;Tamanho físico&rbrack; Habilitar “exibição com proporção física” ao trabalhar em filtros de Substance quando o Tamanho físico estiver habilitado
 * &lbrack;Tamanho físico&rbrack; Ao importar imagens em uma pilha vazia, proponha uma resolução mais coerente com a proporção da imagem
@@ -278,14 +278,14 @@ Correções gerais de [segurança]
 * &lbrack;Scripting&brack; Obtém o nome de arquivo de cada imagem de uma camada de importação de imagem
 * &lbrack;Scripting&brack; Nova função para ativar/desativar um determinado canal de um ativo
 * &lbrack;UI&rbrack; Retrabalhe os ícones e botões no painel Camadas para acomodar os novos recursos
-* &lbrack;UI&rbrack; Avisar sobre a obsolescência da criação de luz ambiente
+* &lbrack;UI&rbrack; Avisar sobre a descontinuação da criação de iluminações do ambiente
 
 **Corrigido:**
 
-* &lbrack;2D View&rbrack; Selecionar &#39;display with physical ratio&#39; pode não funcionar ao usar filtros de Substance
+* &lbrack;Visualização 2D&rbrack; Selecionar “exibir com proporção física” pode não funcionar ao usar filtros de Substance
 * &lbrack;captura 3D&rbrack; Os arquivos SVG estão listados no seletor de arquivos, mas não são suportados
-* O parâmetro de intensidade de emissão do &brack;Visualização 3D&rbrack; nas Configurações do sombreador não funciona
-* &lbrack;Visualização 3D&rbrack; Às vezes, a posição da malha está incorreta ao criar um novo ativo
+* O parâmetro de intensidade de emissão &lbrack;Visualização 3D&rbrack; nas Configurações do Sombreador não funciona
+* &lbrack;Visualização 3D; Às vezes, a posição da malha está incorreta ao criar um novo ativo
 * &lbrack;Visualização 3D&rbrack; Alternar para o traçado de caminho renderiza falhas em hardware não suportado
 * &lbrack;O aplicativo &rbrack; trava ao fechar o pop-up de medida manual sem definir um tamanho
 * &lbrack;Falha do aplicativo&rbrack;
@@ -314,7 +314,7 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; O botão Redefinir para o valor padrão do parâmetro Ponto de Vista não funciona
 * &lbrack;UI&rbrack; Sobreposição do botão Redefinir para valor padrão
 * &lbrack;UI&rbrack; Alguns botões não são clicáveis quando um painel é desencaixado
-* &lbrack;UI&rbrack; Textura inclinando o parâmetro V parcialmente oculto nas Configurações do visualizador e Visualização 3D
+* &lbrack;UI&rbrack; Textura o Parâmetro V parcialmente oculto em Configurações do visualizador e Visualização 3D
 
 **Removido:**
 
@@ -390,12 +390,12 @@ Correções gerais de [segurança]
 
 * &lbrack;O controle deslizante de Exposição do &amp;Visualização 2D; não tem efeito quando a projeção esférica está desativada
 * &lbrack;Visualização 2D; Pintar fora da textura cria um traçado descontinuado
-* &lbrack;Exibição 2D&rbrack; O botão de exposição não tem dica de ferramenta.
+* &lbrack;Visualização 2D&rbrack; O botão de exposição não tem dica de ferramenta.
 * &lbrack;Visualização 2D; O zoom na lateral de uma imagem não quadrada não segue o mouse
 * O &lbrack;captura 3D&rbrack; captura 3D não funciona no Windows 11 24H2
 * &lbrack;captura 3D&rbrack; Falha se sairmos do Sampler durante a etapa de reconstrução de malha
 * &lbrack;Visualização 3D&rbrack; O tempo de computação às vezes é mostrado como 0ms
-* &lbrack;Visualização 3D&rbrack; Ao alterar a projeção de ortográfico para perspectiva, o visor se torna cinza
+* &lbrack;Visualização 3D&rbrack; Ao alterar a projeção de ortográfica para Perspectiva, o visor se torna cinza
 * &lbrack;Aplicativo&rbrack; Falha na inicialização ao verificar os recursos da GPU
 * &lbrack;O aplicativo &rbrack; falha durante a instalação
 * &lbrack;Aplicativo&rbrack; Falha ao sair após clicar com o botão direito do mouse em um campo de metadados
@@ -529,7 +529,7 @@ Correções gerais de [segurança]
 * O cache do &brack;Application&brack; agora está armazenado em uma subpasta separada
 * &preto;Geração de AI&rbrack; Imagem para Textura (Beta)
 * &Preta;Geração de AI&rbrack; Texto com Padrão (Beta)
-* &Preta;Geração de AI&rbrack; Texto para Textura (Beta)
+* &Preenchimento;Geração de AI&rbrack; Texto para Textura (Beta)
 * &lbrack;Scripting&brack; Os ativos agora têm uma propriedade &#39;resource&#39;
 * As camadas do &brack;Scripting&brack; agora têm uma propriedade &#39;output_usages&#39;
 
@@ -567,7 +567,7 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; o Sampler não responde por um momento quando iniciado pela primeira vez
 * O mapa de Ângulos de anisotropia do &brack;Export&brack; não é exportado
 * &lbrack;Filtros&rbrack; Adicionar um tecido à pilha de camadas pode causar um travamento
-* &lbrack;Filtros&rbrack; Adicionar Entalhe à pilha de camadas pode levar a um travamento
+* &lbrack;Filtros&rbrack; Adicionar um Relevo à pilha de camadas pode causar um travamento
 * &lbrack;Filtros&rbrack; O Preenchimento sensível ao conteúdo falha ao usar imagens de 32 bits
 * &lbrack;Filtros&rbrack; Relevo: a opacidade das camadas abaixo não é totalmente substituída
 * &lbrack;Filtros&rbrack; Preenchimento: o modo Combinar não funciona no Designer e no Painter
@@ -604,10 +604,10 @@ Correções gerais de [segurança]
 
 **Adicionado**
 
-* &lbrack;Assets&rbrack; Novo tipo de ativo: Geradores de textura
+* &lbrack;Assets&rbrack; Novo tipo de ativo: Geradores de Textura
 * &lbrack;Ativos&rbrack; Novos materiais incluídos nos Ativos iniciais
 * &lbrack;Ativos&rbrack; Novo seletor de ativos para parâmetros de imagem no painel Propriedades
-* &lbrack;Ativos&rbrack; Arraste e solte Geradores de textura do painel Ativos para os seletores de imagem no painel Propriedades
+* &lbrack;Ativos&rbrack; Arraste e solte Geradores de Textura do painel Ativos para os seletores de imagem no painel Propriedades
 * &lbrack;Assets&rbrack; Arrastar e soltar Geradores de Textura do explorador de arquivos do sistema operacional
 * &lbrack;Ativos&rbrack; Os filtros podem sugerir o ajuste de geradores por meio de uma tag de usuário na entrada da imagem
 * &lbrack;Assets&rbrack; Os Geradores de Textura podem definir qual filtro deve sugerir através de uma tag de usuário
@@ -615,13 +615,13 @@ Correções gerais de [segurança]
 * &lbrack;Content&brack; Novo filtro de estilização
 * &preto;Content&brack; Modo de mesclagem no Filtro de preenchimento
 * &lbrack;Content&brack; Filtro de bordado atualizado
-* &lbrack;Content&brack; Filtro de quebra de pintura atualizado
-* &lbrack;Content&brack; Atualizado todos os filtros para suportar Geradores de Textura
+* &lbrack;Content&brack; Filtro de quebra de Tinta atualizado
+* &lbrack;Content&brack; Atualizou todos os filtros para suportar Geradores de Textura
 * &lbrack;Camadas&rbrack; Capacidade de escolher um canal de saída do Gerador de Textura ao adicioná-lo à pilha de camadas
-* &lbrack;Camadas&rbrack; Capacidade de listar e aplicar facilmente predefinições em Geradores de textura
+* &lbrack;Camadas&rbrack; Capacidade de listar e aplicar facilmente predefinições em Geradores de Textura
 * &lbrack;Camadas&rbrack; Exibir uma visualização do Gerador de Textura nos seletores de imagem
-* Os parâmetros do Gerador de textura do &brack;Layers&brack; podem ser expostos e exportados
-* &lbrack;Camadas&rbrack; Atribui o uso de Cor Base ao importar uma única imagem com o Modelo de Criação de Importação de Textura
+* &lbrack;Camadas&rbrack; Os parâmetros do Gerador de Textura podem ser expostos e exportados
+* &lbrack;Camadas&rbrack; Atribui o uso de Cor de base ao importar uma única imagem com o Modelo de Criação de Importação de Textura
 * &lbrack;Camadas&rbrack; Feedback ao tentar arrastar e soltar arquivos incompatíveis em seletores de imagem no painel Propriedades
 * &lbrack;Camadas&rbrack; Gerar um canal de opacidade a partir do canal alfa de uma imagem importada
 * &lbrack;Camadas&rbrack; A imagem para material (AI) é mais rápida de calcular ao alterar sua categoria
@@ -680,9 +680,9 @@ Correções gerais de [segurança]
 * O &brack;Aplicativo&rbrack; pode travar ao falhar na conversão de malhas 3D
 * &lbrack;Aplicativo&rbrack; Falha silenciosa ao abrir um .sbsar enquanto o Sampler está em execução
 * &lbrack;Export&rbrack; Falha ao exportar um arquivo .sbs/.sbsar com um uso personalizado
-* &lbrack;Export&brack; Mapas normais exportados são sempre DirectXs, independentemente da configuração do usuário
+* &preto;Exportar&rbrack; Os mapas normais exportados são sempre DirectXs, independentemente da configuração do usuário
 * &lbrack;Exportar&rbrack; exportar um objeto 3D para um arquivo FBX no macos não funciona
-* Inconsistências do &brack;Export&brack; ao exportar uma Pilha de camadas com um filtro de Bordado como um arquivo .sbs/.sbsar
+* &lbrack;Export&brack; Inconsistências ao exportar uma Pilha de camadas com um filtro de Bordado como um arquivo .sbs/.sbsar
 * &lbrack;Export&rbrack; Às vezes, exportar arquivos .sbs/.sbsar não funciona
 * &lbrack;Export&brack; Às vezes, ao exportar um arquivo .sbs/.sbsar, as imagens não têm a profundidade de bits correta
 * &lbrack;Camadas&rbrack; Tornar uma camada de respingo invisível renderiza seu primeiro filho
@@ -705,9 +705,9 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; As imagens podem ser adicionadas nas camadas de importação de imagem
 * &lbrack;Camadas&rbrack; As imagens podem ser removidas nas camadas de importação de imagem
 * &lbrack;Camadas&rbrack; Camadas inválidas agora podem ser excluídas
-* &lbrack;2D View&rbrack; Shift+C atalho para voltar os canais
+* &lbrack;Visualização 2D&rbrack; Shift+C atalho para voltar os canais
 * &lbrack;captura 3D; Exibir uma caixa de informações de aviso quando o usuário importar menos de 20 imagens
-* &lbrack;Aplicativo&rbrack; Novas preferências para definir o valor padrão da divisão em blocos gráficos da textura do material
+* &lbrack;Aplicativo&rbrack; Novas preferências para definir o valor padrão de divisão em blocos gráficos de textura de material
 * &lbrack;Integração&rbrack; Interface do usuário do tutorial atualizada para Imagem para material (IA) e Aumento
 * &lbrack;Scripting&rbrack; API captura 3D: DatasetInfo tem mais dados quando Capture3dState está definido como alinhado
 * &lbrack;Scripting&brack; Novo argumento select_asset para create_asset(). Novas funções: wait_for_computation() e clear_render_cache()
@@ -721,10 +721,10 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; O cache de renderização pode não ser invalidado corretamente com os filtros Imagem para material (AI) e Aumento
 * &lbrack;Camadas&rbrack; Não é possível adicionar o filtro de Ampliação ao selecionar “Não mostrar esta mensagem novamente” no pop-up de aviso
 * &lbrack;Camadas&rbrack; Não é possível restaurar a imagem no filtro Bordado depois de modificada
-* &lbrack;Export&brack; A resolução normal de mapas exportada muda ao alterar o formato normal
+* &lbrack;Export&brack; A resolução do mapa normal exportado muda ao alterar o formato normal
 * &lbrack;Export&brack; Remover o sufixo de nome de arquivo “\_environment” ao exportar um ambiente
-* &lbrack;Export&brack; Não é possível exportar um arquivo .sbsar quando há uma camada de Transformação de distorção na pilha de camadas
-* &lbrack;O modo de exibição 2D&rbrack; “Ajustar à tela” não funciona quando a resolução é alterada
+* &lbrack;Export&brack; Não é possível exportar um arquivo .sbsar quando há uma camada de Transformo Distorcer na pilha de camadas
+* &lbrack;Visualização 2D&rbrack; “Ajustar à tela” não funciona quando a resolução é alterada
 * &lbrack;Aplicativo&rbrack; Após fechar a janela do aplicativo durante a computação, o processo do aplicativo ainda poderia estar em execução
 * &lbrack;O aplicativo &rbrack; falha ao sair
 * &lbrack;Aplicativo&rbrack; Invalidar o cache de renderização ao alternar as redes neurais aceleradas por GPU
@@ -984,7 +984,7 @@ Correções gerais de [segurança]
 * &lbrack;captura 3D; Cada uma das versões é automaticamente dizimada para o conjunto de números de faces de destino
 * &lbrack;captura 3D&rbrack; A etapa de pós-processamento automaticamente desembrulha, reprojeta texturas e, em seguida, faz bake as informações normais de height e AO da malha de alto polígono
 * &lbrack;captura 3D&rbrack; Adicionar o resultado original ou uma versão ao projeto do Sampler
-* &lbrack;captura 3D&rbrack; Nova camada de Pós-processamento de Malha para dizimar, desempacotar, reprojetar texturas e preparar automaticamente detalhes da camada de malha subjacente
+* &lbrack;captura 3D&rbrack; Nova camada de Pós-processamento de Malha para dizimar, quebrar, reprojetar texturas automaticamente e fazer bake detalhes da camada de malha subjacente
 * &lbrack;captura 3D&rbrack; Nova camada de Transformo de Malha para dimensionar, girar ou traduzir a camada de malha subjacente
 * &brack;Exportar&rbrack; Nova janela de Exportação
 * &lbrack;Export&brack; Configurações dedicadas e interface dependendo do tipo de ativo (material, iluminação do ambiente, malha)
@@ -994,9 +994,9 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; As viewports 2D e 3D agora podem ser redimensionadas, trocadas e empilhadas verticalmente
 * &lbrack;Aplicativo&rbrack; Nova variável de ambiente SAMPLER_RESOURCES_PATH para adicionar ativos iniciais extras
 * &lbrack;Scripting&rbrack; Adicionadas variáveis de ambiente SAMPLER_PLUGIN_PATH e SAMPLER_SCRIPT_PATH para importar plug-ins e scripts na inicialização
-* &lbrack;Scripting&brack; Funções de exportação adicionadas para materiais, luzes de ambiente e objetos 3D
-* &lbrack;Scripting&rbrack; Identificador adicionado, valor padrão, valores mínimos e máximos, rótulos e valores de enumeração para parâmetros
-* &lbrack;Scripting&rbrack; Adicionada a função import_textures para inserir um uso personalizado ao importar imagens
+* &lbrack;Scripting&rbrack; Funções de exportação adicionadas para materiais, iluminações do ambiente e objetos 3D
+* &lbrack;Scripting&rbrack; identificador adicionado, valor padrão, valores mínimos e máximos, rótulos e valores enum para parâmetros
+* &lbrack;Scripting&rbrack; Adicionada a função import_textura para inserir um uso personalizado ao importar imagens
 
 **Corrigido:**
 
@@ -1005,7 +1005,7 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; As caixas de diálogo de arquivos podem aparecer em uma janela em segundo plano no macOS
 * &lbrack;Aplicativo&rbrack; Possível falha ao abrir projetos 3.2
 * &lbrack;Aplicativo&rbrack; Selecionar um arquivo fecha a caixa de diálogo Arquivo antes de exibir avisos
-* &lbrack;Parâmetros expostos&rbrack; Exportar luzes de ambiente paramétricas não funciona
+* &lbrack;Parâmetros expostos&rbrack; Exportar iluminações do ambiente paramétricas não funciona
 * &lbrack;Camadas&rbrack; O link “Clique aqui para procurar” na pilha de camadas não funciona mais
 * &lbrack;Camadas&rbrack; Pintar várias imagens dentro da mesma camada às vezes não funciona
 * &lbrack;Camadas&rbrack; Configurar uma imagem nas propriedades da camada não atualiza a miniatura do seletor de imagens
@@ -1016,7 +1016,7 @@ Correções gerais de [segurança]
 * &lbrack;Scripting&rbrack; a exportação de JPEG está ausente da API
 * &lbrack;Scripting&brack; O painel de registro não é somente leitura
 * &lbrack;Scripting&brack; o valor do parâmetro image_picker não funciona
-* &lbrack;UI&rbrack; Ícone de ativo ausente para luzes ambiente no painel Projeto
+* &lbrack;UI&rbrack; Ícone de ativo ausente para iluminações do ambiente no painel Projeto
 * &lbrack;UI&rbrack; A lista suspensa Enviar para o formato do Designer no pop-up Preferências pode estar vazia
 * &lbrack;UI&rbrack; Alguns botões têm um estilo incorreto
 * &lbrack;UI&rbrack; O rótulo se sobrepõe aos botões nos widgets Grupo de Botões
@@ -1026,8 +1026,8 @@ Correções gerais de [segurança]
 **Problemas Conhecidos:**
 
 * &lbrack;captura 3D&rbrack; Ao usar máscaras, a projeção de textura pode estar quebrada
-* &lbrack;captura 3D&rbrack; Pequenos artefatos poderão aparecer em seu objeto se sua escala na transformação de malha for muito pequena
-* &lbrack;captura 3D&rbrack; A malha exportada pode ser realmente pequena. Redefinir o dimensionamento da transformação e da reexportação da malha
+* &lbrack;captura 3D&rbrack; Pequenos artefatos poderão aparecer em seu objeto se a escala no transformo Mesh for muito pequena
+* &lbrack;captura 3D&rbrack; A malha exportada pode ser realmente pequena. Redefina o dimensionamento do transformo de malha e exporte-o novamente
 * &lbrack;Seletor de Cores&rbrack; Escolher uma cor em um segundo monitor com uma resolução diferente pode não funcionar
 * &lbrack;O widget de luz do Content&brack; Shape não está funcionando no modo de projeção esférica
 * &lbrack;Interoperabilidade&rbrack; O material com deslocamento enviado para o Stager perderá os controles do deslocamento
@@ -1054,8 +1054,8 @@ Correções gerais de [segurança]
 * &lbrack;Export&brack; Exportar um arquivo .sbsar com uma camada de Bordado resulta em um material cinza
 * &lbrack;Export&brack; Exportar um material para um arquivo .sbs/sbsar pode gerar um material totalmente transparente
 * O parâmetro Formato Normal do &brack;Export&brack; não é exposto corretamente em arquivos .sbs/.sbsar
-* &lbrack;Export&rbrack; A exportação de Sbs/sbsar de uma pilha de camadas que faz referência a um arquivo .svg está quebrada
-* &lbrack;Exportar&rbrack; a camada de transformação não é exportada corretamente / Enscape atualizado - Revit export preset
+* &lbrack;Export&rbrack; A exportação de Sbs/sbsar de uma pilha de camadas que faz referência a um arquivo .svg está danificada
+* A camada de Transformo &lbrack;Export&brack; não é exportada corretamente / Enscape atualizado - Predefinição de exportação do Revit
 * &lbrack;Parâmetros expostos&rbrack; Falha ao excluir uma camada contendo um parâmetro exposto
 * &lbrack;Parâmetros expostos&rbrack; Atualizar uma camada desatualizada na pilha de camadas pode levar a uma lista corrompida de parâmetros expostos
 * &lbrack;Parâmetros Expostos&rbrack; Os parâmetros que não devem ser exportados são exportados mesmo assim
@@ -1065,7 +1065,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Falha ao carregar um filtro
 * &lbrack;Camadas&rbrack; Não é possível recarregar a imagem anterior ao redefinir o campo de Imagem
 * &lbrack;Camadas&rbrack; Não é possível desfazer/refazer alterações na ferramenta transformar
-* &lbrack;Camadas&rbrack; A camada de Carimbo fica parada após clicar em “Redefinir todas as configurações”
+* &lbrack;Camadas&rbrack; A camada de carimbo de Clonar fica presa após clicar em “Redefinir todas as configurações”
 * &lbrack;Camadas&rbrack; Usar qualquer um dos botões de redefinição impede o desenho no campo de Imagem
 * &lbrack;Camadas&rbrack; O botão Redefinir não limpa a máscara de desenho no campo Imagem
 * &lbrack;Camadas&rbrack; O botão Redefinir no campo de Imagem não faz nada se o usuário tiver pintado algo
@@ -1073,7 +1073,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; A camada excluída ainda pode aparecer no painel Propriedades
 * &lbrack;Camadas&rbrack; O cálculo da camada pode parar ao alternar entre ativos de projeto
 * &lbrack;Projeto&rbrack; Às vezes, o Sampler não consegue abrir um projeto do disco
-* &lbrack;Exibição 2D&rbrack; A exibição 2D sempre retorna como padrão para Saída de material
+* &lbrack;Visualização 2D&rbrack; O Visualização 2D sempre volta por padrão para Saída de material
 
 **Problemas Conhecidos:**
 
@@ -1130,7 +1130,7 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; Salvar com a caixa de diálogo de cor aberta não salva suas alterações
 * &lbrack;Export&brack; A convenção de nomenclatura de uso não está correta ao exportar
 * &lbrack;Camadas&rbrack; Soltar um material sobre um filtro pode falhar
-* &lbrack;Camadas&rbrack; Atualizar uma pilha de camadas desatualizada poderia atualizar pilhas de camadas não relacionadas
+* &lbrack;Camadas&rbrack; Atualizar uma pilha de camadas desatualizada pode atualizar pilhas de camadas não relacionadas
 * &lbrack;Metadados&rbrack; Os campos vazios são exportados
 * &lbrack;Metadados&rbrack; Quando há apenas um item de metadados, a interface do usuário permite que você tente reordená-lo
 * &lbrack;Projeto&rbrack; A computação nunca termina após a duplicação de um material
@@ -1157,8 +1157,8 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; Corrigir falha potencial ao abrir um projeto
 * &lbrack;Export&rbrack; Reiniciar o Sampler interrompe a lista de predefinições de exportação personalizadas importadas
 * &lbrack;Interoperabilidade&rbrack; Corrigir falha quando um material enviado do Designer é excluído e reenviado do Designer
-* &lbrack;Projeto&rbrack; Impossível excluir o último material ou luz ambiente se for o último ativo no projeto
-* &lbrack;Projeto&rbrack; Clicar com o botão direito do mouse em uma luz ambiente faz com que o asterisco “modificações não salvas” apareça
+* &lbrack;Projeto&rbrack; Impossível excluir o último material ou iluminação do ambiente se for o último ativo no projeto
+* &lbrack;Projeto&rbrack; Clicar com o botão direito do mouse em uma iluminação do ambiente faz com que o asterisco “modificações não salvas” apareça
 
 **Problemas Conhecidos:**
 
@@ -1230,20 +1230,20 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Nova dica de ferramenta com atalhos de controles de navegação de exibição 3D
 * &lbrack;UI&rbrack; Nova dica de ferramenta com controles de pincel
 * &lbrack;UI&rbrack; Nova dica de ferramenta com atalhos de controles de navegação de projeção
-* &preto;Filtros compostos&rbrack; Os filtros compostos manipulam variações para trabalhar em imagens, materiais PBR e luzes ambiente
+* &preto;Filtros compostos&rbrack; Os filtros compostos manipulam variações para trabalhar em imagens, materiais PBR e iluminações do ambiente
 * &preto;Filtros compostos&rbrack; A ordem dos ajustes corresponde à ordem da lista de nós no filtro composto
 * &preto;Filtros compostos&rbrack; Os ajustes de nós diferentes com o mesmo grupo serão mesclados em um único grupo no painel Propriedades
 * &lbrack;Aplicativo&rbrack; Possui configurações de visualizador dedicadas por tipo de ativo
 
 **Corrigido:**
 
-* &lbrack;O aplicativo&rbrack; pode falhar ao alternar para a exibição 2D
+* &lbrack;O aplicativo&rbrack; pode travar ao alternar para o Visualização 2D
 * &lbrack;Aplicativo&rbrack; Corrigir um possível deadlock ou falha ao exportar várias vezes
 * &lbrack;Aplicativo&rbrack; Tornar os valores padrão para canais consistentes com o Substance 3D Designer
 * &lbrack;Aplicativo&rbrack; Carregar um projeto não aciona o recálculo do material
-* &lbrack;Aplicativo&rbrack; Atualizou o URL para a documentação de importação de textura
+* &lbrack;Aplicativo&rbrack; Atualizou o URL para textura a documentação de importação
 * &lbrack;Content&brack; Ao usar um filtro composto, ele pede para ser atualizado quando não deveria, ao recarregar
-* &lbrack;Content&brack; Os detalhes no mapa de height desaparecem ao usar a Mesclagem de opacidade
+* &lbrack;Content&brack; Os detalhes no mapa de altura desaparecem ao usar o Combinar de opacidade
 * &lbrack;UI&rbrack; Na caixa de diálogo Cor, é possível sair do intervalo usando os campos de texto do controle deslizante
 * &lbrack;UI&rbrack; A lista de Uso tem uma barra de rolagem vertical inútil
 
@@ -1319,7 +1319,7 @@ Correções gerais de [segurança]
 * &lbrack;Tamanho físico&rbrack; Widget de lista suspensa para definir o nível de zoom no Visualização 2D
 * &lbrack;Tamanho físico&rbrack; Nova opção “Exibir com proporção física” no nível do menu suspenso de zoom
 * &lbrack;Tamanho físico&rbrack; Nova opção “Ajustar ao tamanho físico” no menu suspenso de nível de zoom
-* &lbrack;Tamanho físico&rbrack; Exibir o Tamanho físico na exibição 2D
+* &lbrack;Tamanho físico&rbrack; Exibir a Tamanho físico no Visualização 2D
 * &lbrack;Tamanho físico&rbrack; Exibir a Tamanho físico no visor 3D
 * &lbrack;Tamanho físico&rbrack; Na caixa de diálogo de importação de imagem, mostrar profundidade de tamanho físico se houver um mapa de altura importado
 * &lbrack;Tamanho físico&rbrack; Mostrar o Tamanho físico no menu contextual do ativo
@@ -1346,7 +1346,7 @@ Correções gerais de [segurança]
 * &lbrack;Content&brack; Novo filtro de Comutador de Canal
 * &lbrack;Content&brack; Todos os filtros relevantes agora estão cientes do Tamanho físico
 * &lbrack;Content&brack; Novos ícones para Acabamento em madeira
-* &lbrack;Content&rbrack; Todos os filtros agora são compatíveis com canais de Materiais Padrão de Adobe (ASM)
+* &lbrack;Content&brack; Todos os filtros agora são compatíveis com canais Adobe Standard Material (ASM)
 * Os Filtros do &amp;predefinição;Content&brack; agora podem ter uma variação de “ambiente”
 
 **Corrigido:**
@@ -1433,9 +1433,9 @@ Correções gerais de [segurança]
 **Corrigido:**
 
 * &lbrack;Content&brack; Cortar - Preservar proporção ao cortar imagens não quadradas
-* &lbrack;Content&brack; Transform - A transformação horizontal não é invertida ao usar o widget
+* &lbrack;Transformo do Content&brack; - A transformação horizontal não é invertida ao usar o widget
 * &lbrack;Content&brack; Gravel - corrigir pintura de máscara personalizada em todos os canais
-* &lbrack;Content&brack; Ladrilhos do piso - corrigir problemas com divisão em blocos gráficos e repetição de padrão
+* &lbrack;Content&brack; blocos de Número inteiro - corrigir problemas com divisão em blocos gráficos de padrão e repetição
 * &lbrack;Assets&rbrack; opção Gray out Adobe Bridge se não estiver instalada
 * &preto;Seletor de cores&rbrack; A tecla Escape fecha o Seletor de cores
 * &lbrack;Renderização&rbrack; Corrigir a Escala de Distância de Dispersão ao usar entrada em tons de cinza
@@ -1570,7 +1570,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Os usos podem ser interrompidos pela mesclagem de camadas
 * &lbrack;Projeto&rbrack; Falha ao carregar um projeto legado com pasta de dependências ausentes
 * &lbrack;Projeto&rbrack; Falha ao usar Desfazer/Refazer após salvar
-* &lbrack;Projeto&rbrack; Abrir um arquivo SBSAR contendo uma luz ambiente cria um ativo material
+* &lbrack;Projeto&rbrack; Abrir um arquivo SBSAR contendo uma iluminação do ambiente cria um ativo de material
 * &lbrack;Projeto&rbrack; Renomear um material pode acionar uma geração de miniatura
 * &lbrack;Projeto&rbrack; Salvar após renomear um material marca o projeto como não modificado
 * &lbrack;Project&brack; Algumas alterações após renomear um material não são salvas
@@ -1594,8 +1594,8 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Atualizar imagem do banner da tela de boas-vindas
 * &lbrack;Content&rbrack; O filtro de divisão em blocos gráficos não processa o canal de oclusão de ambiente
 * &lbrack;Content&brack; Quilt Stitch problema com a seleção de costura de montagem e padrão de diamante
-* &lbrack;Content&rbrack; O filtro Entalhe funciona em 256px por 256px
-* &lbrack;Content&rbrack; Corrigir problema de divisão em blocos gráficos com os blocos de piso quando o deslocamento for maior que 0
+* O filtro de Relevo &lbrack;Content&rbrack; funciona em 256px por 256px
+* &lbrack;Content&brack; Corrigir problema de divisão em blocos gráficos com os blocos do Número inteiro quando o deslocamento for maior que 0
 
 **Problemas Conhecidos:**
 
@@ -1618,14 +1618,14 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Desencaixar painéis para criar uma janela separada na mesma tela ou em uma tela diferente
 * &lbrack;UI&rbrack; Painéis fechados pop-over ao clicar em seus ícones
 * &lbrack;UI&rbrack; Reorganize as barras esquerda e direita movendo os ícones dos painéis
-* &lbrack;UI&rbrack; Nova barra de ferramentas para acessar diretamente filtros específicos (Cortar, Transformar, Transformação de perspectiva, Carimbo)
+* &lbrack;UI&rbrack; Nova barra de ferramentas para acessar diretamente filtros específicos (Cortar, Transformar, Transformar Perspectiva, Carimbo de Clonar)
 * &lbrack;UI&rbrack; Novo botão “Obter conteúdo” na barra esquerda
 * &lbrack;UI&rbrack; Importe arquivos diretamente em seus ativos com o botão Obter conteúdo
 * &lbrack;UI&rbrack; Importe arquivos diretamente para suas Camadas com o botão Obter Conteúdo
 * &lbrack;UI&rbrack; Acesse diretamente o site do Adobe Substance 3D Assets com o botão Obter Conteúdo
 * O widget de resolução do &lbrack;UI&rbrack; agora pode ser acessado diretamente no visor
 * &lbrack;UI&rbrack; Todos os elementos da interface agora são carregados dinamicamente
-* &lbrack;UI&rbrack; Atalho - Use “2” para alternar a visibilidade da exibição 2D
+* &lbrack;UI&rbrack; Atalho - Use “2” para alternar a visibilidade da Visualização 2D
 * &lbrack;UI&rbrack; Atalho - Use “3” para alternar a visibilidade da visualização 3D
 * &Preenchimento;Tela de boas-vindas&Preenchimento; Crie um projeto com um clique usando o botão Novo
 * &preto;Tela de boas-vindas&rbrack; Novo banner de arte
@@ -1651,11 +1651,11 @@ Correções gerais de [segurança]
 * &lbrack;Iluminação do ambiente&rbrack; Criar iluminação do ambiente no Substance 3D Sampler
 * &lbrack;Iluminação do ambiente&rbrack; Ao criar uma iluminação do ambiente, arrastar e soltar imagens exibirá a Janela Modelo de Criação de Iluminação do ambiente
 * &lbrack;Iluminação do ambiente&rbrack; No Modelo de Criação de Iluminação do ambiente, selecione Importação de Ambiente para atribuir sua imagem ao ambiente na visualização 3D
-* &lbrack;Luz do ambiente&rbrack; No Modelo de criação da luz ambiente, selecione Mesclar HDR para criar uma luz ambiente de várias imagens de 360 graus com diferentes exposições
-* &lbrack;Luz do ambiente&rbrack; No Modelo de criação da Luz do ambiente, selecione “Usar como bitmap” para editar a(s) imagem(ns) antes de criar uma luz do ambiente
-* &preto;Luz do ambiente&rbrack; Atribui o uso do ambiente na camada de importação de imagem para atribuir diretamente a imagem ao ambiente na visualização 3D
-* &preto;Luz do ambiente&rbrack; Na exibição 2D do canal de ambiente, há uma correção de cores automática para que a renderização apareça da mesma forma que na exibição 3D
-* &preto;Luz do ambiente&rbrack; Novo conteúdo dedicado para criação de luz ambiente
+* &lbrack;Iluminação do ambiente&rbrack; No Modelo de criação de Iluminação do ambiente, selecione HDR mesclar para criar uma iluminação do ambiente a partir de várias imagens de 360 graus com diferentes exposições
+* &lbrack;Iluminação do ambiente&rbrack; No Modelo de Criação de Iluminação do ambiente, selecione “Usar como bitmap” para editar sua(s) imagem(ns) antes de criar uma iluminação do ambiente
+* &lbrack;Iluminação do ambiente&rbrack; Atribui o uso do ambiente na camada de Importação de imagem para atribuir diretamente a imagem ao ambiente na visualização 3D
+* &lbrack;Iluminação do ambiente&rbrack; No Visualização 2D para o canal ambiente, há uma correção de cores automática para que a renderização apareça da mesma forma que na visualização 3D
+* &lbrack;Iluminação do ambiente&rbrack; Novo conteúdo dedicado para criação de iluminação do ambiente
 * &preto;Painel de ativos&rbrack; Os painéis Recursos e Filtros são mesclados em um novo painel Ativos
 * &lbrack;Painel Ativos&rbrack; O painel Ativos agora suporta os seguintes tipos de ativos: materiais, filtros e imagens
 * &lbrack;Painel de ativos&rbrack; Todos os ativos iniciais podem ser acessados na seção Ativos iniciais
@@ -1688,11 +1688,11 @@ Correções gerais de [segurança]
 * &lbrack;Adobe Photoshop&rbrack; A cada salvamento no Adobe Photoshop, a imagem editada será recarregada no Sampler
 * &lbrack;Os ativos do Substance 3D Designer&rbrack; enviados do Adobe Substance 3D Designer chegarão diretamente na seção “Seus ativos” do painel Ativos
 * &lbrack;Exportar&rbrack; Envia ativos diretamente para o Adobe Substance 3D Painter e Adobe Substance 3D Stager
-* &preto;Exportar&rbrack; Enviar materiais e luzes ambiente para o Adobe Substance 3D Painter
+* &lbrack;Export&brack; Enviar materiais e iluminações do ambiente para o Adobe Substance 3D Painter
 * &preto;Exportar&rbrack; Enviar iluminações do ambiente para o Adobe Substance 3D Stager
 * &lbrack;Renderização&rbrack; Novas propriedades de material agora são suportadas e renderizadas em 3D
 * &lbrack;Renderização&rbrack; Adição de suporte a Brilho (Cor do brilho, opacidade de Brilho e aspereza de Brilho)
-* &lbrack;Renderização&rbrack; Adição de suporte a Revestimento (Cor de revestimento, Aspereza do revestimento, Revestimento normal, Specular level de revestimento e Revestimento IOR)
+* &lbrack;Renderização&rbrack; Adição de suporte a Revestimento (Cor do revestimento, Aspereza do revestimento, Normal do revestimento, Nível especular do revestimento e Revestimento IOR)
 * &lbrack;Renderização&rbrack; Adicionando suporte a Anisotropia (Nível de anisotropia e Ângulo de anisotropia)
 * &lbrack;Renderização&rbrack; Adicionando suporte a Speculares edge colores
 * &lbrack;Renderização&rbrack; Ativar estas novas propriedades no painel Configurações do canal
@@ -1746,8 +1746,8 @@ Correções gerais de [segurança]
 * &lbrack;Realtime Engine 2021&rbrack; Alterar o layout, falha o aplicativo
 * &lbrack;Realtime Engine 2021&rbrack; Computação pesada, falha o aplicativo
 * &brack;Painéis&rbrack; MacOS - Os painéis desencaixados estão na frente de todos os aplicativos
-* &lbrack;Widgets&rbrack; Os widgets de Transformação e Posições podem desaparecer. Oculte e reexiba a camada para fazê-las aparecer.
-* &lbrack;Export&rbrack; A exportação de SBSAR de uma luz de ambiente perde a precisão 32profundidade de bits
+* &lbrack;Widgets&rbrack; os widgets de Transformo e Posições podem desaparecer. Oculte e reexiba a camada para fazê-las aparecer.
+* &lbrack;Export&rbrack; A exportação de uma iluminação do ambiente para SBSAR perde a precisão de 32profundidade de bits
 * &lbrack;Painel de Ativos&rbrack; Os ativos podem ser destacados ao abrir uma pasta
 * &lbrack;Painel de Propriedades&rbrack; A redefinição dos parâmetros não redefine a interface do usuário da caixa de combinação
 * &lbrack;Localização&rbrack; A alteração do idioma não afeta o painel do projeto até que ele seja recriado
@@ -1771,7 +1771,7 @@ Correções gerais de [segurança]
 * O uso de imagem para material (viabilizado por IA) em imagens de alta resolução pode ser lento
 * Os filtros de Preenchimento sensível a conteúdo são lentos em alta resolução
 * Coma ou ponto pode ser ignorado ao digitar um valor específico em um controle deslizante
-* Impossível salvar duas vezes exatamente a mesma pilha de camadas de material
+* Impossível salvar duas vezes a mesma pilha de camadas de material exata
 
 ### 2.3.1 (2020.3.1) Vermicelli
 
@@ -1782,9 +1782,9 @@ Correções gerais de [segurança]
 * &lbrack;Atualização do Substance Engine do motor&rbrack;
 * &lbrack;Aplicativo&rbrack; Variável de ambiente para desativar recursos específicos
 * &lbrack;Content&brack; Substituir cor - Nova opção de segmentação avançada
-* &lbrack;Content&brack; Floor Tiles - novos padrões e opções disponíveis
+* &lbrack;Content&brack; Número inteiro Blocos - novos padrões e opções disponíveis
 * &lbrack;Content&brack; Bordado - Renovação completa do filtro
-* &lbrack;Content&brack; Adjustment - Novo parâmetro metálico + correção de transformação segura de opacidade
+* &lbrack;Content&brack; Adjustment - Novo parâmetro metálico + correção de transformo de opacidade segura
 
 **Corrigido:**
 
@@ -1794,7 +1794,7 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Atualizar créditos da imagem de boas-vindas
 * &lbrack;UI&rbrack; Corrigir separador invisível nos menus
 * &lbrack;UI&rbrack; Os botões de opção exibem uma dica de ferramenta quando estão truncados
-* &lbrack;UI&rbrack; Erro de Digitação: Materiais Iniciais
+* &lbrack;UI&rbrack; Erro de Digitação: Materiais iniciais
 * &lbrack;O aplicativo&rbrack; com caracteres UTF-8 em nomes de ativos não funciona
 * &preto;Localização&rbrack; Desativar estilo de fonte em itálico para o idioma chinês
 * &lbrack;Localizaçãp&rbrack; Cadeia localizada dividida em 2 linhas
@@ -1802,7 +1802,7 @@ Correções gerais de [segurança]
 * &lbrack;Localização&rbrack; Formatar números com separador de milhar
 * &preto;Localização&rbrack; Localizar exibição de data e hora
 * &lbrack;Localizaçãp&rbrack; Localizar seletor de cores no Windows
-* &lbrack;Content&brack; Transform - Com a transformação segura ativada, o normal gira corretamente a cada 45°
+* &lbrack;Transformo do Content&brack; - Com a transformação segura ativada, o normal gira corretamente a cada 45°
 * &lbrack;Content&brack; relevo de Superfície - Corrigir problema de divisão em blocos gráficos com ruído fractal de perlin (ruído avançado)
 * &lbrack;Content&rbrack; Brickwall Pattern - Height de entrada em 16 bits
 * &lbrack;Content&brack; Ícone de Material Renderizar - problema de reflexos de Specular
@@ -1814,7 +1814,7 @@ Correções gerais de [segurança]
 * O uso de imagem para material (viabilizado por IA) em imagens de alta resolução pode ser lento
 * Os filtros de Preenchimento sensível a conteúdo são lentos em alta resolução
 * Coma ou ponto pode ser ignorado ao digitar um valor específico em um controle deslizante
-* Impossível salvar duas vezes exatamente a mesma pilha de camadas de material
+* Impossível salvar duas vezes a mesma pilha de camadas de material exata
 
 ### 2.3.0 (2020.3.0) Vermicelli
 
@@ -1832,7 +1832,7 @@ Correções gerais de [segurança]
 * &lbrack;Miniaturas&rbrack; Alterar a qualidade da miniatura nas Preferências
 * &lbrack;Engine&rbrack; Atualizado para a versão 8 do Substance Engine
 * &lbrack;Localização&rbrack; Localização em chinês
-* &preto;UI&rbrack; Seletor de Cores Especiais Experimentais
+* &lbrack;UI&rbrack; Seletor de cores de ponto Experimental
 * &lbrack;Content&rbrack; Novo Mapa de Ambiente - Studio 06
 * &preto;Content&brack; Adicionar filtro Gerador de Atlas
 * &preto;Content&brack; Adicionar filtro de Atlas splitter
@@ -1844,8 +1844,8 @@ Correções gerais de [segurança]
 * &preto;Content&brack; Adicionar filtro Inverter
 * &preto;Content&brack; Adicionar filtro Colorir
 * &preto;Content&brack; Adicionar filtro Substituir cor
-* &lbrack;Content&brack; Transform - Adiciona a possibilidade de desativar a transformação em um canal específico
-* &lbrack;Content&brack; Transform - Adicionar rotação quando a transformação segura estiver ativada
+* &lbrack;Content&brack; Transforma - Adiciona a possibilidade de desativar a transformação em um canal específico
+* &lbrack;Transformo do Content&brack; - Adicionar rotação quando o transformo seguro estiver ativado
 * Variação de cor do &brack;Content&brack; - Adicione uma opção de segmentação para escolher como distribuir as cores
 
 **Corrigido:**
@@ -1857,7 +1857,7 @@ Correções gerais de [segurança]
 * &lbrack;Aplicativo&rbrack; Falha ao fechar o aplicativo
 * &lbrack;Aplicativo&rbrack; Corrigir detecção de quantidade de VRAM no MacOS
 * &lbrack;Export&brack; Algumas predefinições de exportação às vezes estão ausentes
-* &lbrack;Content&brack; Efeito de pintura a óleo - Corrigir o intervalo do height com amplitude de deslocamento alta
+* &lbrack;Content&brack; Efeito de Tinta a óleo - Corrigir o intervalo do height com amplitude de deslocamento alta
 * &lbrack;Content&brack; Tornar bloco avançado - Sem cor base desbotada na exportação
 * &lbrack;Content&brack; Tornar bloco avançado - Máscara branca na cor base quando o AO for muito forte
 * &lbrack;Ajuste de &amp;Content&brack; - Agora funciona em imagens (scan1, ...)
@@ -1867,7 +1867,7 @@ Correções gerais de [segurança]
 * O uso de imagem para material (viabilizado por IA) em imagens de alta resolução pode ser lento
 * Os filtros de Preenchimento sensível a conteúdo são lentos em alta resolução
 * Coma ou ponto pode ser ignorado ao digitar um valor específico em um controle deslizante
-* Impossível salvar duas vezes exatamente a mesma pilha de camadas de material
+* Impossível salvar duas vezes a mesma pilha de camadas de material exata
 
 ### 2.2.1 (2020.2.1) Udon
 
@@ -1948,7 +1948,7 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Sombras projetadas adicionadas para pop-ups e menus
 * &lbrack;UI&rbrack; Novo Widget de Cor com opções do botão direito (limpar, copiar, colar)
 * &lbrack;UI&rbrack; Novo widget de imagem com a opção de ferramenta Pintura
-* &lbrack;UI&rbrack; Ser capaz de pintar sobre uma imagem importada em um widget de imagem
+* &lbrack;UI&rbrack; Ser capaz de tinta sobre uma imagem importada em um widget de imagem
 * &lbrack;Renderização&rbrack; Nova posição padrão da câmera
 * &lbrack;Exportar&rbrack; os arquivos de Substance são exportados para o Substance Designer 2020.1.2 (10.1.2)
 * &lbrack;Desempenho&rbrack; Melhor tempo de inicialização do aplicativo
@@ -1956,18 +1956,18 @@ Correções gerais de [segurança]
 * &lbrack;Desempenho&rbrack; Melhorar o desempenho da pilha de camadas ao adicionar, remover ou mover camadas
 * &lbrack;Desempenho&rbrack; Imagem para material (com IA) é executada mais rapidamente em GPUs RTX
 * &lbrack;Content&brack; Novas malhas: Camiseta Feminina, Camiseta Masculina, Sapato
-* &lbrack;Content&rbrack; Novo Modo de Mesclagem - Mesclagem por Canal
+* &lbrack;Content&rbrack; Novo Modo Combinar - Por Combinar do Canal
 * &lbrack;Conteúdo&rbrack; Opacidade mesclar correção de height com 2 novos parâmetros (posição do height e escala do height)
-* &lbrack;Content&brack; Adicionar ajustes de Height no modo de mesclagem Height
-* &lbrack;Content&rbrack; Usar a opção de informações do Height na Mesclagem de máscaras personalizadas
-* &lbrack;Content&rbrack; Nova ferramenta de correção de perspectiva
+* &lbrack;Content&brack; Adicionar ajustes de Height no modo Combinar de Height
+* &lbrack;Content&rbrack; Usar a opção de informações de Height no Combinar de Máscara Personalizada
+* &lbrack;Content&rbrack; Nova ferramenta de correção de Perspectiva
 * &lbrack;Gerador de padrões do Content&brack; - Adicionar um parâmetro para inverter o padrão
 * &lbrack;Content&brack; Gerador de padrões - Adicionar um novo parâmetro Sobrescrever detalhes do material
 * &brack;Content&brack; Novo filtro de decalques
 * &lbrack;Content&brack; Novo filtro de musgo
 * &lbrack;Content&brack; Novo filtro do Rachadura
 * &lbrack;Content&brack; Novo filtro de Validações do PBR
-* &lbrack;Content&brack; Novo Blocos de Piso, filtro
+* &lbrack;Content&rbrack; Novo filtro de Números inteiros
 * &lbrack;Content&brack; Novo Filtro Colar Comichão
 * &lbrack;Content&brack; Atlas scatter - Adicionar entrada de Máscara personalizada para ativar a opção de pintura
 * &lbrack;Content&brack; Dirt - Adicionar entrada de Máscara personalizada para ativar a opção de pintura
@@ -1983,11 +1983,11 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Filtro após importação de imagem funciona incorretamente
 * &lbrack;Layers&brack; o valor workflow_type não é atualizado ao alternar o fluxo de trabalho entre projetos com um filtro personalizado
 * &lbrack;Camadas&rbrack; Desativar o botão “remover camada” quando nenhuma camada estiver selecionada
-* &lbrack;Camadas&rbrack; Falha ao carregar um ativo contendo uma correção de clone
+* &lbrack;Camadas&rbrack; Falha ao carregar um ativo contendo um Clonar Patch
 * &lbrack;Camadas&rbrack; O filtro Normal para Height trava no MacOs
 * &lbrack;Application&brack; Falha ao carregar mapas de ambiente para frente e para trás
 * &lbrack;Aplicativo&rbrack; Problemas de desempenho quando algum driver de tablet gráfico está instalado
-* &lbrack;Application&brack; os arquivos de 32 bits EXR importados são pretos
+* &lbrack;Application&brack; EXR arquivos de 32 bits importados são pretos
 * &lbrack;O aplicativo &rbrack; trava ao carregar e descarregar ativos
 * &lbrack;Aplicativo&rbrack; Falha ao alternar de explorar para criar
 * &lbrack;Aplicativo&rbrack; A coleção de destino ao salvar um material não é do projeto atual
@@ -2031,7 +2031,7 @@ Correções gerais de [segurança]
 * &lbrack;UI&rbrack; Indicador de computação fixa no visor
 * &lbrack;UI&rbrack; A inserção de valores negativos nos controles deslizantes é fixa
 * &lbrack;UI&rbrack; Caixas de combinação: setas do teclado e barra de rolagem agora funcionam
-* &lbrack;UI&rbrack; Mantenha o canal selecionado ao alternar entre “Saídas de material” e “Entradas de camada” na exibição 2D
+* &lbrack;UI&rbrack; Mantenha o canal selecionado ao alternar entre “Saídas de material” e “Entradas de camada” no Visualização 2D
 * &lbrack;Camadas&rbrack; Corrigido um erro fatal ao adicionar canais personalizados no Material de base
 * &lbrack;Camadas&rbrack; Falha ao manipular camadas
 * &lbrack;Camadas&rbrack; Os canais personalizados não são exibidos com um material salvo
@@ -2041,7 +2041,7 @@ Correções gerais de [segurança]
 * &lbrack;Export&rbrack; Predefinição de paisagem renomeada para Enscape Revit
 * &amp;predefinição;Exportar&amp;predefinição; Importar uma predefinição de exportação após removê-la funciona
 * &lbrack;Export&brack; Falha na exportação
-* &lbrack;Renderização&rbrack; Renderização fixa quando a cor base está no formato half float de 16 bits
+* &lbrack;Renderização&rbrack; Renderização corrigida quando a cor de base está no formato half float de 16 bits
 * &lbrack;Projeto&rbrack; Não falhar ao importar pacote corrompido
 * &lbrack;Project&rbrack; Manipular a migração 2019.1.4 para 2.x.x quando Criar nunca tiver sido aberto
 * &lbrack;Projeto&rbrack; Corrigir uma falha ao importar o mesmo projeto duas vezes
@@ -2279,7 +2279,7 @@ Correções gerais de [segurança]
 
 **Adicionado:**
 
-* &lbrack;Mesclagem&rbrack; Novo modo de mesclagem de opacidade
+* &lbrack;Combinar&rbrack; Novo modo de Combinar de opacidade
 * &lbrack;Engine&rbrack; Nova versão do Substance Engine
 
 **Corrigido:**
@@ -2288,7 +2288,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Corrigir falha ao remover a camada inferior
 * &lbrack;Camadas&rbrack; Corrigir falha enquanto o nome do material contém caracteres especiais
 * &lbrack;Camadas&rbrack; Parar de computar todos os filtros que usam um widget
-* &lbrack;Camadas&rbrack; Evite falhas ao usar os filtros Patch de Clone e Preenchimento sensível ao conteúdo
+* &lbrack;Camadas&rbrack; Evite falhas ao usar os filtros Correção de Clonar e Preenchimento sensível ao conteúdo
 * &lbrack;Camadas&rbrack; Corrigir falha ao arrastar e soltar um filtro em slots de entrada de respingos
 * &lbrack;Recursos&rbrack; Corrigir falha ao vincular pastas locais ou importar recursos no Substance Alchemist
 * &lbrack;Collection&rbrack; Corrigir falha ao alternar rapidamente entre materiais
@@ -2340,7 +2340,7 @@ Correções gerais de [segurança]
 * &lbrack;Camadas&rbrack; Adicionar materiais diretamente nas entradas dedicadas do filtro Respingo na pilha de camadas
 * &lbrack;Camadas&rbrack; Altera a ordem de digitalização diretamente na camada de importação de imagem
 * &lbrack;Visor&rbrack; Controle do campo de visão da câmera
-* &lbrack;Visor&rbrack; Possibilidade de alternar entre a câmera ortográfica ou de perspectiva
+* &lbrack;Viewport&rbrack; Possibilidade de alternar entre a câmera ortográfica ou Perspectiva
 * &lbrack;Visor&rbrack; Resolução de exibição e informações de profundidade de bits para cada canal
 * &lbrack;Recursos&rbrack; Materiais de base é aberto por padrão
 * &lbrack;Cache&rbrack; Localiza a pasta de cache em miniaturas
@@ -2504,7 +2504,7 @@ Correções gerais de [segurança]
 
 * &lbrack;Engine&rbrack; atualização de Substance Engine para ser compatível com a versão mais recente do Substance Designer
 * &lbrack;Licença&rbrack; Atualizar pasta de licenças para as primeiras instalações
-* &lbrack;Camadas&rbrack; Recarregue a qualquer momento a pilha de camadas para atualizar seus filtros personalizados
+* &lbrack;Camadas&rbrack; Recarregue a qualquer momento sua pilha de camadas para atualizar seus filtros personalizados
 
 **Corrigido:**
 
@@ -2549,7 +2549,7 @@ Correções gerais de [segurança]
 * Corrigir pequenos problemas de fonte nas janelas pop-up
 * Corrigir problema de interface de transparência devido a um conflito com o parâmetro FXAA de algumas placas NVIDIA
 * Remover o foco do campo depois de inserir um valor em um controle deslizante
-* Aloque a quantidade mínima de VRAM para o delighter para reduzir travamentos
+* Aloque a quantidade mínima de VRAM para o delicioso para reduzir travamentos
 * Corrigir o congelamento da janela ao redimensionar a janela do aplicativo
 * Correção de uma falha em que a pilha de camadas era excluída durante a avaliação
 
@@ -2808,7 +2808,7 @@ Correções gerais de [segurança]
 
 **Corrigido:**
 
-* A exclusão da pilha de camadas por meio da alternância de laboratórios foi corrigida
+* A exclusão de sua pilha de camadas por laboratórios de comutação foi corrigida
 * Os valores de tempo de carregamento exibidos na viewport estão corretos
 * Os canais padrão do fluxo de trabalho de material foram inicializados corretamente
 * Desativar importação de malha personalizada
@@ -2836,12 +2836,12 @@ Correções gerais de [segurança]
 * O Substance Alchemist do &lbrack;MacOS&rbrack; pode ser configurado em tela cheia
 * &lbrack;Filter&rbrack; Importar máscara personalizada para gerenciar a mesclagem entre dois materiais
 * &lbrack;Filter&brack; Control Moss scale
-* &lbrack;Filter&rbrack; Atualização de correção de clone
+* &lbrack;Filtro&rbrack; atualização de Clonar
 
 **Corrigido:**
 
 * Adicionar uma imagem em uma entrada de imagem na lista de parâmetros atualiza as saídas
-* O filtro Importar Personalizado não adiciona uma Oclusão Ambiente preta e uma opacidade preta
+* O filtro Importar Personalizado não adiciona uma Oclusão de ambiente preta e uma opacidade preta
 
 **Problemas Conhecidos:**
 
@@ -2858,7 +2858,7 @@ Correções gerais de [segurança]
 
 **Adicionado:**
 
-* Mistura de materiais com 4 tipos de mistura (Mistura de Heights, Mesclagem de amostras, Mesclagem de curvatura, Mesclagem de AO)
+* Combinar de material com 4 tipos de mistura (Combinar de Height, Combinar de amostra, Combinar de curvatura, Combinar AO)
 * Introduzir o mecanismo de cache para otimizar os novos cálculos de pilha de camadas
 * Seleção automática de um material no Inspire se presente no visor
 * Formato normal centralizado no painel Configurações de material
