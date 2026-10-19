@@ -10,13 +10,11 @@ helpx_tags: ''
 title: Requisitos do sistema
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: cd61972eaf1567863dc8c3549a1c90c84ffee825
+source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 1%
-
+source-wordcount: '647'
+ht-degree: 0%
 ---
-
 
 # Sistemas compatíveis
 
@@ -45,11 +43,15 @@ Veja abaixo uma lista de hardware e sistemas suportados pelo aplicativo:
 
 |  | Mínimo | Recomendado | Ideal |
 | --- | --- | --- | --- |
-| **SO** | macOS 13 Ventura | macOS 14 Sonoma | macOS 26 Tahoe |
+| **SO** | macOS 15 Sequoia | macOS 27 Golden Gate | macOS 27 Golden Gate |
 | **CPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **GPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **RAM** | 24 GB | 32 GB | 64 GB |
 | **Armazenamento** | SSD com 30 GB de espaço disponível | SSD com 50 GB de espaço disponível | SSD com 70 GB de espaço disponível |
+
+>[!WARNING]
+>
+> Para pipelines criados com a [Plataforma de Referência VFX](https://vfxplatform.com/) em mente, o Substance 3D Sampler ainda pode ser instalado no macOS 14 Sonoma. No entanto, o Sampler não é mais testado em versões do sistema operacional abaixo dos requisitos mínimos de sistema, portanto, a estabilidade não é garantida. É recomendável atualizar para uma versão mais recente do sistema operacional.
 
 ### Linux
 
