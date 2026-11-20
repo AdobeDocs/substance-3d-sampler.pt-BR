@@ -1,22 +1,11 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-sampler/filters/tools/clone-stamp.html"
-breadcrumb-title: ''
 description: Use a ferramenta Carimbo de Clonar no Substance 3D Sampler para clonar e tinta áreas de textura para obter edição e reparo de material perfeitos.
-helpx_creative_field: ""
-helpx_description: Sampler > Filters > Tools > Clone Stamp
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Carimbo de Clonar
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 0%
-
+source-wordcount: '872'
+ht-degree: 1%
 ---
-
 
 # Carimbo de Clonar
 
@@ -33,71 +22,113 @@ Ferramentas de **Entrada:**
 
 ## Descrição
 
-A **ferramenta Carimbo de Clonar** ajuda você a duplicar ou corrigir manualmente partes do seu material. Isso é útil para corrigir emendas ou remover erros do material. O **filtro Carimbo** é uma das ferramentas disponíveis na barra lateral esquerda.
+A ferramenta **Carimbo de Clonar** permite duplicar ou corrigir manualmente partes do material. É usado principalmente para corrigir emendas e remover erros de materiais digitalizados, como detritos, sombras ou artefatos. Você pode tinta vários traçados de carimbo de diferentes áreas de origem em uma única camada de Carimbo de Clonar e gerenciar cada carimbo individualmente no **painel Camadas**.
 
 As imagens abaixo mostram o **Clonar Stamp** sendo usado para remover detritos de um material de neve.
 
 ![](../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
-Na imagem acima, o material da neve inclui uma série de galhos e outros detritos espalhados ao redor.
+O material da neve inclui uma série de galhos e outros detritos espalhados ao redor.
 
 ![](../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
-A ferramenta **Carimbo de Clonar** é usada para remover alguns galhos e substituí-los por neve limpa.
+Depois de usar a ferramenta **Clonar Stamp**, os galhos são substituídos por neve limpa.
 
 </td>
 </tr>
 </table>
 
-## Tutorial sobre carimbo de Clonar
-
 ## Parâmetros
 
-<b>Parâmetros básicos</b>
+**Parâmetros básicos**
 
-* <b>Expandir máscara</b>: 0-1\
+* **Expandir máscara**: 0-1
+
   Ajuste a distância em torno da área pintada em que o filtro tentará corresponder ao material subjacente.
-* <b>Mesclagem de atenuação</b>: 0-1\
-  Suavize a borda da área clonada para ajudar a misturar com o material subjacente.
-* <b>Máscara de desfoque</b>: 0-1\
-  Ajuste a quantidade de detalhes da borda do carimbo. Aumentar esse valor fará com que as bordas da área clonada fiquem mais semelhantes a bolhas.
-* <b>Manter proporção</b>: alternar\
-  Quando desativada, esta opção permite ajustar as proporções da área estampada.
-  * <b>Horizontal</b>: 0-2
-  * <b>Vertical</b>: 0-2
-* <b>Rotação</b>: -180 a 180\
-  Gire a área estampada.
-* <b>Virar horizontalmente</b>: alternar\
+
+* **Mesclagem de atenuação**: 0-1
+
+  Suavize a borda da área clonada para se misturar mais naturalmente com o material ao redor.
+
+* **Máscara de desfoque**: 0-1
+
+  Ajuste a quantidade de detalhes de aresta no carimbo. Valores mais altos produzem bordas mais suaves, semelhantes a bordas.
+
+* **Manter proporção**: alternar
+
+  Quando desativada, esta opção permite ajustar as proporções horizontal e vertical da área estampada de maneira independente.
+
+  * **Horizontal**: 0-2
+  * **Vertical**: 0-2
+* **Rotação**: -180 a 180
+
+  Gire a área estampada para corresponder à direção ou granulação do material ao redor.
+
+* **Virar horizontalmente**: alternar
+
   Espelha a área estampada ao longo de um eixo horizontal.
-* <b>Virar verticalmente</b>: alternar\
+
+* **Virar verticalmente**: alternar
+
   Espelha a área estampada ao longo de um eixo vertical.
 
-<b>Mesclagem de atenuação</b>
+**Mesclagem de atenuação**
 
-Use os controles de mesclagem de atenuação para ajustar individualmente a mesclagem de atenuação para cada canal no material.
+Use os controles de mesclagem de atenuação por canal para ajustar de forma independente a intensidade da mesclagem para cada canal de material.
 
-<b>Avançado</b>
+**Avançado**
 
-* <b>Intensidade normal</b>: 0-2\
-  Ajuste a intensidade dos normais na área estampada.
-* <b>Posição de origem</b>: \
-  0-1: ajuste a posição horizontal da origem.\
-  0-1: ajuste a posição vertical da origem.
-* <b>Posição de destino</b>:\
-  0-1: ajuste a posição horizontal de destino.\
-  0-1: ajuste a posição vertical de destino.
-* <b>Modo lado a lado</b>: lista suspensa\
-  Habilitar ou desabilitar divisão em blocos.
+* **Intensidade normal**: 0-2
 
-## Guia de Uso
+  Ajuste a intensidade do mapa normal na área estampada para controlar como a superfície clonada responde à iluminação.
 
-Clique na **ferramenta Carimbo de Clonar** para criar uma nova camada de filtro Carimbo de Clonar na parte superior da pilha de camadas. Você também pode adicionar um filtro de Clonar Stamp usando o **botão Adicionar uma camada** no **painel Camadas**.
+* **Posição de origem**:
+  * Horizontal: 0-1 — Ajuste a posição horizontal da origem do clone.
+  * Vertical: 0-1 — Ajuste a posição vertical da origem do clone.
+* **Posição de destino**:
+  * Horizontal: 0-1 — Ajuste a posição horizontal do destino da tinta.
+  * Vertical: 0-1 — Ajuste a posição vertical do destino da tinta.
+* **Modo lado a lado**: lista suspensa
 
-Criar uma camada de filtro Carimbo de Clonar abre automaticamente o **Visualização 2D** no **Viewport**. Uma **Barra de ferramentas** aparece na parte superior do **Visualização 2D** quando a camada de Carimbo de Clonar está selecionada.
+  Ativa ou desativa a divisão em blocos gráficos ao clonar perto das bordas do material.
 
-![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+## Como usar o Clonar Stamp
 
-Para começar a usar a ferramenta Carimbo de Clonar, clique e arraste sobre a área problemática no **Visualização 2D**. O material começará a ser atualizado automaticamente com base na origem. As áreas em que você usa a **ferramenta Carimbo** são realçadas.
+1. Clique no **Carimbo de Clonar** na barra lateral esquerda ou adicione-o pelo botão **Adicionar uma camada** no **painel Camadas**. Uma nova camada de Carimbo de Clonar aparece na parte superior da pilha de camadas e o **Visualização 2D** abre automaticamente.
+
+1. **Definir um ponto de origem**: segure `Ctrl` (`Cmd` no macOS) e clique em uma área limpa do material no **Visualização 2D**. Define a região que será copiada.
+
+   > 📸 CAPTURA DE TELA [ID: clone-stamp-001]
+   > Mostrar: viewport 2D com uma mira de ponto de origem visível em uma área limpa de um material de neve
+   > Estado: camada de carimbo de Clonar selecionada; Ctrl pressionada; indicador de origem visível
+   > Anotação: Rotular a mira de origem
+
+1. **Tinta sobre a área com problema**: clique e arraste sobre a área que deseja corrigir. O material do ponto de origem substitui a área pintada em tempo real.
+
+   ![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+
+1. Ajuste a **Mesclagem de atenuação** e a **Máscara de expansão** no **painel Propriedades** para ajustar a forma como a área clonada se mescla com seus arredores.
+
+>[!NOTE]
+>
+> Evite colocar o ponto de origem próximo à área que está sendo clonada. Se a origem se sobrepuser à área com problema, o artefato poderá ser clonado junto com o conteúdo limpo.
+
+## Trabalhar com várias fontes
+
+É possível adicionar vários pontos de origem em uma única camada de carimbo de Clonar, cada um com suas próprias configurações de posição, rotação e mesclagem. Isso permite que você corrija várias áreas diferentes, ou desenhe a partir de várias regiões limpas diferentes, sem empilhar várias camadas.
+
+Para adicionar uma nova origem, mantenha pressionado `Ctrl` (`Cmd` no macOS) e clique em uma nova área no **Visualização 2D**. Uma nova entrada de carimbo aparece abaixo da camada Carimbo de Clonar no **painel Camadas**.
+
+> 📸 CAPTURA DE TELA [ID: clone-stamp-002]
+> Mostrar: o painel Camadas com uma camada de carimbo de Clonar expandida, mostrando três entradas de carimbo individuais aninhadas abaixo dele
+> Estado: camada de carimbo de Clonar expandida; três carimbos visíveis com posições de origem diferentes
+> Anotação: seta apontando para as entradas de carimbo aninhadas no painel Camadas
+
+Selecione qualquer entrada de carimbo individual no **painel Camadas** para ajustar seus parâmetros de forma independente no **painel Propriedades**, incluindo a posição de origem, a rotação e as configurações de mesclagem.
+
+>[!TIP]
+>
+> Use a **visualização de pincel** em **Visualização 2D** para ver o resultado do carimbo antes de confirmar um traçado. Isso ajuda a verificar se a região de origem corresponde à área ao redor antes de pintar.
 
 ## Barra de ferramentas
 
@@ -110,16 +141,15 @@ Para começar a usar a ferramenta Carimbo de Clonar, clique e arraste sobre a á
 </td>
 <td width="83.33%" style="border: 0;" valign="top">
 
-Quando a camada de carimbo de Clonar está selecionada, uma barra de ferramentas aparece no Visualização 2D com controles adicionais.
+Quando uma camada de Carimbo de Clonar está selecionada, uma barra de ferramentas aparece no **Visualização 2D**.
 
-* Selecione a <b>ferramenta Pincel </b> para adicionar à máscara ou a <b>ferramenta Apagar </b> para remover da máscara.
+* Selecione a **ferramenta Pincel** para adicionar à máscara.
+* Selecione a **ferramenta Apagar** para remover da máscara.
 * Define o tamanho da ferramenta atualmente selecionada.
 * Controles adicionais de acesso:
-  * <b>Divisão de pincel</b>: \
-    Alterna a divisão em blocos gráficos do pincel X e Y.
-  * <b>Sobreposição:</b>\
-    Se marcada, a sobreposição é exibida ao passar o mouse sobre a Visualização 2D.
-* Exibir controles Visualização 2D.
+  * **Divisão em blocos gráficos do pincel**: alterne a divisão em blocos gráficos X e Y.
+  * **Sobreposição**: alterne a visibilidade da sobreposição ao passar o mouse sobre a Visualização 2D.
+* Exibir **controles Visualização 2D**.
 
 </td>
 </tr>
@@ -127,20 +157,18 @@ Quando a camada de carimbo de Clonar está selecionada, uma barra de ferramentas
 
 >[!NOTE]
 >
-> Assim como outras barras de ferramentas da viewport, você pode arrastar a alça na parte superior da barra de ferramentas para reposicionar a barra de ferramentas dentro da viewport, clicar duas vezes na alça para alternar entre os modos vertical e horizontal ou usar a divisa dupla para ocultar ou expandir a barra de ferramentas.
-
-## Seleção de Origem
-
-Use Ctrl + clique na visualização 2D para adicionar uma nova fonte. Adicionar uma nova origem criará um carimbo adicional abaixo da camada Carimbo de Clonar no <b>painel Camadas</b>. Você pode controlar cada estampa individualmente.
-
->[!NOTE]
->
-> Normalmente, é uma boa ideia tentar evitar que o ponto de origem fique próximo à área que você está clonando. Se o ponto de origem estiver próximo à área problemática, será possível clonar essa área.
+> Como outras barras de ferramentas da viewport, você pode arrastar a alça na parte superior da barra de ferramentas para reposicioná-la, clicar duas vezes na alça para alternar entre o layout vertical e horizontal ou usar a divisa dupla para ocultá-la ou expandi-la.
 
 ## Atalhos
 
-| Ação | Windows + Linux | MacOs |
+| Ação | Windows + Linux | macOS |
 | --- | --- | --- |
-| Aumentar tamanho do pincel | &rbrack; ou Ctrl + Roda do mouse | &rbrack; ou Cmd + Roda do mouse |
-| Diminuir tamanho do pincel | &lbrack; ou Ctrl + Roda do mouse | &lbrack; ou Cmd + Roda do mouse |
-| Definir a origem | Ctrl + clique com o botão esquerdo | Cmd + clique com o botão esquerdo |
+| Aumentar tamanho do pincel | `]` ou `Ctrl` + Roda do Mouse | `]` ou `Cmd` + Roda do Mouse |
+| Diminuir tamanho do pincel | `[` ou `Ctrl` + Roda do Mouse | `[` ou `Cmd` + Roda do Mouse |
+| Definir a origem | `Ctrl` + clique com o botão esquerdo | `Cmd` + clique com o botão esquerdo |
+
+## Relacionado
+
+* [Distorcer](./warp.md)
+* [Torná-lo lado a lado](./make-it-tile.md)
+* [Imagem para material](./image-to-material.md)

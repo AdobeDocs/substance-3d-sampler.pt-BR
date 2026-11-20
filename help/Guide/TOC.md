@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 15%
-
+source-wordcount: '641'
+ht-degree: 14%
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 15%
   + [Requisitos do sistema](/help/getting-started/system-requirements.md)
   + [Atalhos](/help/getting-started/shortcuts.md)
   + [Importando Recursos](/help/getting-started/importing-resources.md)
-  + [Relatar um erro](/help/getting-started/report-a-bug.md)
   + [Gerenciamento de projetos](/help/getting-started/project-management.md)
   + Exportar{#export}
     + [Exportar visão geral](/help/getting-started/export/export.md)
@@ -116,6 +111,7 @@ ht-degree: 15%
     + [Geração de canais](/help/filters/tools/channels-generation.md)
     + [Comutador de canal](/help/filters/tools/channel-switch.md)
     + [Carimbo de Clonar](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Preenchimento sensível ao conteúdo](/help/filters/tools/content-aware-fill.md)
     + [Ferramenta Corte demarcado](/help/filters/tools/crop-tool.md)
     + [Delícia - Com IA](/help/filters/tools/delight-ai-powered.md)
     + [Height para AO](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 15%
     + [Multiângulo para material](/help/filters/tools/multiangle-to-material.md)
     + [Normal para Height](/help/filters/tools/normal-to-height.md)
     + [Validação do PBR](/help/filters/tools/pbr-validate.md)
-    + [Correção de perspectiva](/help/filters/tools/perspective-correction.md)
+    + [Perspectiva Transformo](/help/filters/tools/perspective-correction.md)
     + [Revestimento](/help/filters/tools/tiling.md)
     + [Transformação](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Distorção de Tinta](/help/filters/tools/paint-warp.md)
     + [Distorcer](/help/filters/tools/warp.md)
     + [Distorcer Transformo](/help/filters/tools/warp-transform.md)
     + [Aumentar](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 15%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Erode](/help/filters/wear-and-finish/erode.md)
     + [Acabamento de metal](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Acabamento de madeira](/help/filters/wear-and-finish/wood-finish.md)
     + [Musgo](/help/filters/wear-and-finish/moss.md)
     + [Oxidato](/help/filters/wear-and-finish/oxidate.md)
     + [Pintura](/help/filters/wear-and-finish/paint.md)
@@ -195,6 +193,9 @@ ht-degree: 15%
   + [Plug- in de Exportador para o TajimaName](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Suporte técnico{#technical-support}
   + [Visão geral do suporte técnico](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[Modo de desempenho](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Modo de especificação baixa](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[Relatar um erro](/help/getting-started/report-a-bug.md)
   + [Exportação do arquivo de registro](/help/technical-support/exporting-the-log-file.md)
   + Configuração{#configuration}
     + [Visão geral da configuração](/help/technical-support/configuration/configuration.md)
@@ -231,6 +232,7 @@ ht-degree: 15%
   + [Visão geral das Notas de versão](/help/release-notes/release-notes.md)
   + [Todas as alterações](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Versão 6.1](/help/release-notes/version-6-1.md)
   + [Versão 6.0](/help/release-notes/version-6-0.md)
   + [Versão 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Versão 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
