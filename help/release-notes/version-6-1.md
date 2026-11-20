@@ -40,91 +40,91 @@ Mais informações [*aqui*](https://www.adobe.com/go/substance-3d-sampler-6.1-lo
 
 ## Adicionado
 
-* &amp;lbrack;Aplicativo&amp;rbrack; Nova maneira de relatar avisos de requisitos mínimos de hardware
-* &amp;lbrack;Captis&amp;rbrack; Adicionar uma opção para escolher entre 4 e 8 ângulos de polarização
-* &amp;lbrack;Captis&amp;rbrack; Ação rápida Nova legenda
-* &amp;lbrack;Export&amp;rbrack; Relatar falhas de exportação corretamente ao usuário
-* &amp;lbrack;Export&amp;rbrack; Atualizar predefinição de exportação do Unreal Engine 4 (renomeado para Unreal Engine 5)
-* &amp;lbrack;Desempenho&amp;rbrack; A criação de ativos a partir do arquivo agora é assíncrona
-* &amp;lbrack;Desempenho&amp;rbrack; Mover carga de trabalho do thread principal para os threads de trabalho
-* &amp;lbrack;Desempenho&amp;rbrack; Novo modo de desempenho
-* &amp;lbrack;Projeto&amp;rbrack; Avisar o usuário se o salvamento do projeto falhar
-* &amp;lbrack;Scripting&amp;rbrack; Novo método generate_thumbnail para ativos e nova propriedade de tipo para recursos
-* &amp;lbrack;Scripting&amp;brack; Renderiza um instantâneo de visualização 3D para um arquivo a partir do módulo Python
-* &amp;lbrack;UI&amp;rbrack; Clicar em qualquer lugar de uma zona para soltar abre a caixa de diálogo do arquivo
-* &amp;lbrack;UI&amp;rbrack; Barra de navegação esquerda atalhos para ferramentas (equalizar, cortar, divisão em blocos gráficos, transformar, reparar, cor, ...)
-* &amp;lbrack;UI&amp;rbrack; Atualize o espectro qt para obter os ícones mais recentes
+* &lbrack;Aplicativo&rbrack; Nova maneira de relatar avisos de requisitos mínimos de hardware
+* &lbrack;Captis&rbrack; Adicionar uma opção para escolher entre 4 e 8 ângulos de polarização
+* &lbrack;Captis&rbrack; Ação rápida Nova legenda
+* &lbrack;Export&rbrack; Relatar falhas de exportação corretamente ao usuário
+* &lbrack;Export&rbrack; Atualizar predefinição de exportação do Unreal Engine 4 (renomeado para Unreal Engine 5)
+* &lbrack;Desempenho&rbrack; A criação de ativos a partir do arquivo agora é assíncrona
+* &lbrack;Desempenho&rbrack; Mover carga de trabalho do thread principal para os threads de trabalho
+* &lbrack;Desempenho&rbrack; Novo modo de desempenho
+* &lbrack;Projeto&rbrack; Avisar o usuário se o salvamento do projeto falhar
+* &lbrack;Scripting&rbrack; Novo método generate_thumbnail para ativos e nova propriedade de tipo para recursos
+* &lbrack;Scripting&brack; Renderiza um instantâneo de visualização 3D para um arquivo a partir do módulo Python
+* &lbrack;UI&rbrack; Clicar em qualquer lugar de uma zona para soltar abre a caixa de diálogo do arquivo
+* &lbrack;UI&rbrack; Barra de navegação esquerda atalhos para ferramentas (equalizar, cortar, divisão em blocos gráficos, transformar, reparar, cor, ...)
+* &lbrack;UI&rbrack; Atualize o espectro qt para obter os ícones mais recentes
 
 ## Fixa
 
-* &amp;lbrack;Visualização 3D; Corrigir Deslocamento UV e rotação imediatos, remover escala normal para OpenPBR
-* &amp;lbrack;Visualização 3D&amp;rbrack; Evitar falhas assegurando que nenhuma edição de estágio ocorra enquanto o visor for excluído
-* &amp;lbrack;Visualização 3D&amp;rbrack; Remover corretamente as informações do deslocamento (height) ao alterar o ativo exibido
-* &amp;lbrack;Visualização 3D&amp;rbrack; Atualizar documento corretamente ao excluir a malha
-* &amp;lbrack;Aplicativo&amp;rbrack; Garante que a superfície permaneça ativa ao computar informações de depuração de filtro dinâmico
-* &amp;lbrack;Aplicativo&amp;rbrack; Corrigir falha ao sair na Cena
-* &amp;lbrack;Aplicativo&amp;rbrack; Corrigir falha potencial ao excluir um ativo enquanto o serviço de banco de dados de ativos está sendo desligado
-* &amp;lbrack;Aplicativo&amp;rbrack; Tornar o thread de informações de depuração do cache seguro para evitar uma falha
-* &amp;lbrack;Aplicativo&amp;rbrack; Evitar falhas por nó de teste não é nulo antes de acessá-lo
-* &amp;lbrack;Aplicativo&amp;rbrack; Evitar falhas causadas pelo acesso ao primeiro elemento de um vetor vazio
-* &amp;lbrack;Aplicativo&amp;rbrack; Evitar falhas em invalidateVisibleIfs
-* &amp;lbrack;Aplicativo&amp;rbrack; Evita falhas ao criar ativos enquanto o serviço de banco de dados é desligado
-* &amp;lbrack;Aplicativo&amp;rbrack; Impedir a condição de corrida ao sair
-* &amp;lbrack;Assets&amp;rbrack; Garanta que os recursos estejam adequadamente protegidos atrás do bloqueio correto
-* &amp;lbrack;Captis&amp;rbrack; Erro com valor de intensidade no modo manual
-* &amp;lbrack;Captis&amp;rbrack; Impede que o usuário selecione uma zona maior do que o backend permite
-* &amp;lbrack;Configurações do canal&amp;rbrack; Ocorrência dupla de SpecularColor no ASM
-* &amp;lbrack;Configurações do canal&amp;rbrack; Corrigir a id de um uso criado a partir de uma string
-* &amp;lbrack;Problema de opacidade de Atlas scatter do Content&amp;brack;
-* &amp;lbrack;Content&amp;brack; O filtro de bordados não tem recurso metálico
-* &amp;lbrack;Content&amp;brack; Corrigir filtro de perfuração
-* &amp;lbrack;Content&amp;brack; Corrigir a categoria do filtro de Estilização e algumas correções no painel de recursos
-* &amp;preto;Content&amp;brack; Atualizar filtro de Preenchimento
-* &amp;lbrack;Creative Cloud&amp;rbrack; Corrigir caminho para os ativos 3D no Creative Cloud
-* &amp;lbrack;Engine&amp;rbrack; Evitar falhas ao acessar dados do mecanismo enquanto o trabalho for cancelado
-* &amp;lbrack;Export&amp;brack; Adicionar código defensivo para verificar se a árvore da estrutura não é nula
-* &amp;lbrack;Export&amp;brack; Código defensivo para evitar falhas na geração de SBS
-* &amp;lbrack;Export&amp;brack; Habilita usos personalizados de saída, mesmo que sejam conhecidos pelo mecanismo
-* &amp;preto;Exportar&amp;rbrack; Corrigir predefinições de exportação
-* &amp;lbrack;Exportar&amp;rbrack; os Mapas normais são exportados como raw no USD
-* &amp;preto;Exportar&amp;rbrack; Usar rótulos de saída em vez de usos ao exportar com uma predefinição
-* &amp;preto;Parâmetros expostos&amp;rbrack; Corrigir parâmetros expostos em filtros dinâmicos
-* &amp;lbrack;Parâmetros expostos&amp;rbrack; Corrigir a atualização do parâmetro exposto quando seu nome mudar
-* &amp;lbrack;Filtros&amp;rbrack; Garanta que os identificadores dos filtros dinâmicos sejam idênticos entre todas as execuções em todas as plataformas
-* &amp;lbrack;Filtros&amp;rbrack; Ocultar usos não suportados na seleção do mapa de AutoLado a Lado
-* &amp;lbrack;Camadas&amp;rbrack; Alterar a visibilidade da camada sempre recria estruturas
-* &amp;lbrack;Camadas&amp;rbrack; Falha ao nivelar um Carimbo de Clonar sobre algo
-* &amp;lbrack;Camadas&amp;rbrack; Inserir um gerador diretamente na pilha agora define corretamente ajustes e o nome do nó
-* &amp;lbrack;Camadas&amp;rbrack; Inserir um gerador com Preenchimento exibe corretamente a textura no seletor
-* &amp;lbrack;Localização&amp;rbrack; Corrigir conformidade de codificação chinesa para GB18030
-* &amp;lbrack;Projeto&amp;rbrack; Falha ao salvar após pintar em um Clonar Stamp
-* &amp;lbrack;Project&amp;rbrack; Certifique-se de que os nomes das sessões e dos projetos estejam realmente salvos
-* &amp;lbrack;Projeto&amp;rbrack; Evitar falhas ao salvar uma árvore
-* &amp;lbrack;Projeto&amp;rbrack; A restauração de um projeto corrompido a partir do banco de dados está novamente
-* &amp;lbrack;Ações rápidas&amp;rbrack; Exibe o pop-up de seleção de imagem quando não há nenhuma imagem na pilha
-* &amp;preto;Ações rápidas&amp;rbrack; Corrigir problemas de ações rápidas; cancelar uma ação rápida não fecha mais o início rápido
-* &amp;lbrack;Ações rápidas&amp;rbrack; Importar texturas pede para ativar alguns canais e não deveria
-* &amp;lbrack;Ações rápidas&amp;rbrack; Evitar falhas se uma ação rápida falhar ao carregar
-* &amp;preto;Ações rápidas&amp;rbrack; Atualizar conteúdo de ações rápidas
-* &amp;lbrack;Renderização&amp;rbrack; Corrigir combineNormalAndHeight para materiais ASM
-* &amp;lbrack;Renderização&amp;rbrack; Corrigir usos de texturas exibíveis com Vulkan
-* &amp;lbrack;Renderização&amp;rbrack; Marcar árvore como suja quando a saída de uso único for alterada
-* &amp;lbrack;Renderização&amp;rbrack; Usar a estrutura de referência correta para calcular os nós de árvore a serem computados
-* &amp;lbrack;Scripting&amp;brack; Não parar se algo der errado durante uma exportação
-* &amp;lbrack;Scripting&amp;brack; Ensure import_images() retorna a camada importada
-* &amp;lbrack;Scripting&amp;brack; A configuração de um ajuste de imagem para uma referência de ativo de imagem falha
-* &amp;brack;Scripting&amp;brack; get_filters() não retorna filtros dinâmicos
-* &amp;lbrack;Miniatura&amp;rbrack; Corrigir possíveis falhas ao gerar a miniatura
-* &amp;lbrack;Miniatura&amp;rbrack; Recria o gerador de miniaturas quando o layout mudar
-* &amp;lbrack;UI&amp;rbrack; Alterar ativo pode definir a escala do height para o valor máximo do controle deslizante
-* &amp;lbrack;UI&amp;rbrack; Desenhar em uma textura atualiza o seletor de textura em tempo real
-* &amp;lbrack;UI&amp;rbrack; Entrar no modo de tela cheia enquanto não estiver maximizado agora preenche toda a janela
-* &amp;lbrack;UI&amp;rbrack; Corrigir link quebrado para Revista Substance
-* &amp;lbrack;UI&amp;rbrack; Corrigir margens pop-up de exportação
-* &amp;lbrack;UI&amp;rbrack; Corrigir tamanho do título da seção
-* &amp;lbrack;UI&amp;rbrack; Corrigir erro de digitação em uma string
-* A janela do arquivo do &amp;lbrack;UI&amp;rbrack; Linux agora usa o plug-in GTK
-* &amp;lbrack;UI&amp;rbrack; Evitar falha ao exibir um emoji
-* &amp;lbrack;UI&amp;rbrack; Renomear arquivos .ssa como &#39;arquivo Adobe Substance 3D Sampler&#39; (sem versão ou Beta)
-* &amp;lbrack;UI&amp;rbrack; Restaurar desaceleração cintilável ao usar o mouse
-* &amp;lbrack;UI&amp;rbrack; Pequenas correções no diálogo “Criar novo material”
+* &lbrack;Visualização 3D; Corrigir Deslocamento UV e rotação imediatos, remover escala normal para OpenPBR
+* &lbrack;Visualização 3D&rbrack; Evitar falhas assegurando que nenhuma edição de estágio ocorra enquanto o visor for excluído
+* &lbrack;Visualização 3D&rbrack; Remover corretamente as informações do deslocamento (height) ao alterar o ativo exibido
+* &lbrack;Visualização 3D&rbrack; Atualizar documento corretamente ao excluir a malha
+* &lbrack;Aplicativo&rbrack; Garante que a superfície permaneça ativa ao computar informações de depuração de filtro dinâmico
+* &lbrack;Aplicativo&rbrack; Corrigir falha ao sair na Cena
+* &lbrack;Aplicativo&rbrack; Corrigir falha potencial ao excluir um ativo enquanto o serviço de banco de dados de ativos está sendo desligado
+* &lbrack;Aplicativo&rbrack; Tornar o thread de informações de depuração do cache seguro para evitar uma falha
+* &lbrack;Aplicativo&rbrack; Evitar falhas por nó de teste não é nulo antes de acessá-lo
+* &lbrack;Aplicativo&rbrack; Evitar falhas causadas pelo acesso ao primeiro elemento de um vetor vazio
+* &lbrack;Aplicativo&rbrack; Evitar falhas em invalidateVisibleIfs
+* &lbrack;Aplicativo&rbrack; Evita falhas ao criar ativos enquanto o serviço de banco de dados é desligado
+* &lbrack;Aplicativo&rbrack; Impedir a condição de corrida ao sair
+* &lbrack;Assets&rbrack; Garanta que os recursos estejam adequadamente protegidos atrás do bloqueio correto
+* &lbrack;Captis&rbrack; Erro com valor de intensidade no modo manual
+* &lbrack;Captis&rbrack; Impede que o usuário selecione uma zona maior do que o backend permite
+* &lbrack;Configurações do canal&rbrack; Ocorrência dupla de SpecularColor no ASM
+* &lbrack;Configurações do canal&rbrack; Corrigir a id de um uso criado a partir de uma string
+* &lbrack;Problema de opacidade de Atlas scatter do Content&brack;
+* &lbrack;Content&brack; O filtro de bordados não tem recurso metálico
+* &lbrack;Content&brack; Corrigir filtro de perfuração
+* &lbrack;Content&brack; Corrigir a categoria do filtro de Estilização e algumas correções no painel de recursos
+* &preto;Content&brack; Atualizar filtro de Preenchimento
+* &lbrack;Creative Cloud&rbrack; Corrigir caminho para os ativos 3D no Creative Cloud
+* &lbrack;Engine&rbrack; Evitar falhas ao acessar dados do mecanismo enquanto o trabalho for cancelado
+* &lbrack;Export&brack; Adicionar código defensivo para verificar se a árvore da estrutura não é nula
+* &lbrack;Export&brack; Código defensivo para evitar falhas na geração de SBS
+* &lbrack;Export&brack; Habilita usos personalizados de saída, mesmo que sejam conhecidos pelo mecanismo
+* &preto;Exportar&rbrack; Corrigir predefinições de exportação
+* &lbrack;Exportar&rbrack; os Mapas normais são exportados como raw no USD
+* &preto;Exportar&rbrack; Usar rótulos de saída em vez de usos ao exportar com uma predefinição
+* &preto;Parâmetros expostos&rbrack; Corrigir parâmetros expostos em filtros dinâmicos
+* &lbrack;Parâmetros expostos&rbrack; Corrigir a atualização do parâmetro exposto quando seu nome mudar
+* &lbrack;Filtros&rbrack; Garanta que os identificadores dos filtros dinâmicos sejam idênticos entre todas as execuções em todas as plataformas
+* &lbrack;Filtros&rbrack; Ocultar usos não suportados na seleção do mapa de AutoLado a Lado
+* &lbrack;Camadas&rbrack; Alterar a visibilidade da camada sempre recria estruturas
+* &lbrack;Camadas&rbrack; Falha ao nivelar um Carimbo de Clonar sobre algo
+* &lbrack;Camadas&rbrack; Inserir um gerador diretamente na pilha agora define corretamente ajustes e o nome do nó
+* &lbrack;Camadas&rbrack; Inserir um gerador com Preenchimento exibe corretamente a textura no seletor
+* &lbrack;Localização&rbrack; Corrigir conformidade de codificação chinesa para GB18030
+* &lbrack;Projeto&rbrack; Falha ao salvar após pintar em um Clonar Stamp
+* &lbrack;Project&rbrack; Certifique-se de que os nomes das sessões e dos projetos estejam realmente salvos
+* &lbrack;Projeto&rbrack; Evitar falhas ao salvar uma árvore
+* &lbrack;Projeto&rbrack; A restauração de um projeto corrompido a partir do banco de dados está novamente
+* &lbrack;Ações rápidas&rbrack; Exibe o pop-up de seleção de imagem quando não há nenhuma imagem na pilha
+* &preto;Ações rápidas&rbrack; Corrigir problemas de ações rápidas; cancelar uma ação rápida não fecha mais o início rápido
+* &lbrack;Ações rápidas&rbrack; Importar texturas pede para ativar alguns canais e não deveria
+* &lbrack;Ações rápidas&rbrack; Evitar falhas se uma ação rápida falhar ao carregar
+* &preto;Ações rápidas&rbrack; Atualizar conteúdo de ações rápidas
+* &lbrack;Renderização&rbrack; Corrigir combineNormalAndHeight para materiais ASM
+* &lbrack;Renderização&rbrack; Corrigir usos de texturas exibíveis com Vulkan
+* &lbrack;Renderização&rbrack; Marcar árvore como suja quando a saída de uso único for alterada
+* &lbrack;Renderização&rbrack; Usar a estrutura de referência correta para calcular os nós de árvore a serem computados
+* &lbrack;Scripting&brack; Não parar se algo der errado durante uma exportação
+* &lbrack;Scripting&brack; Ensure import_images() retorna a camada importada
+* &lbrack;Scripting&brack; A configuração de um ajuste de imagem para uma referência de ativo de imagem falha
+* &brack;Scripting&brack; get_filters() não retorna filtros dinâmicos
+* &lbrack;Miniatura&rbrack; Corrigir possíveis falhas ao gerar a miniatura
+* &lbrack;Miniatura&rbrack; Recria o gerador de miniaturas quando o layout mudar
+* &lbrack;UI&rbrack; Alterar ativo pode definir a escala do height para o valor máximo do controle deslizante
+* &lbrack;UI&rbrack; Desenhar em uma textura atualiza o seletor de textura em tempo real
+* &lbrack;UI&rbrack; Entrar no modo de tela cheia enquanto não estiver maximizado agora preenche toda a janela
+* &lbrack;UI&rbrack; Corrigir link quebrado para Revista Substance
+* &lbrack;UI&rbrack; Corrigir margens pop-up de exportação
+* &lbrack;UI&rbrack; Corrigir tamanho do título da seção
+* &lbrack;UI&rbrack; Corrigir erro de digitação em uma string
+* A janela do arquivo do &lbrack;UI&rbrack; Linux agora usa o plug-in GTK
+* &lbrack;UI&rbrack; Evitar falha ao exibir um emoji
+* &lbrack;UI&rbrack; Renomear arquivos .ssa como &#39;arquivo Adobe Substance 3D Sampler&#39; (sem versão ou Beta)
+* &lbrack;UI&rbrack; Restaurar desaceleração cintilável ao usar o mouse
+* &lbrack;UI&rbrack; Pequenas correções no diálogo “Criar novo material”

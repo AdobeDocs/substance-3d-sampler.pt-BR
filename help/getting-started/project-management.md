@@ -24,7 +24,7 @@ Para criar um novo projeto, selecione **Criar novo** na tela **Início** ou **Ar
 
 Como alternativa, você pode usar o botão **Início rápido** para ir diretamente para um projeto vazio. Você ainda pode importar manualmente ativos e conteúdo conforme necessário.
 
-Depois de clicar no botão “Criar Novo”, o projeto será automaticamente aberto e nomeado como “*Projeto Sem Título\**” até que você salve seu projeto. Você pode adicionar ativos ao seu projeto com o **botão Novo ativo** realçado no **painel Projeto**.
+Depois de clicar no botão “Criar Novo”, o projeto será automaticamente aberto e nomeado como “*Projeto Sem Título\**” até que você salve seu projeto. Você pode adicionar ativos ao seu projeto com o &#x200B;** botão Novo ativo **&#x200B; realçado no &#x200B;** painel Projeto**.
 
 ![](../assets/Project_CreateNew_1.png){width="600px"}
 
